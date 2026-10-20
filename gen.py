@@ -71,6 +71,7 @@ def generate() -> list[list[str]]:
             data[-3] if data else "other", # type
             line[3].strip('"').split("|")[0], # translation
             verbs_id[data[0]][1] if (data and data[0]) in verbs_id else "", # aspect (empty if not a verb)
+            data[-2] if data else ""
         ])
 
     return out
@@ -80,7 +81,7 @@ def main():
 
     with open("RussianTop5000German.csv", "w") as file:
         writer = csv.writer(file, delimiter=";")
-        writer.writerow(["id", "bare", "accented", "type", "translation", "aspect"])
+        writer.writerow(["id", "bare", "accented", "type", "translation", "aspect", "level"])
         writer.writerows(data)
 
 
