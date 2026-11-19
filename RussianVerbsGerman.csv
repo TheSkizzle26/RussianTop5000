@@ -1,0 +1,944 @@
+id;aspect;verb;translation
+1;beide;быть;sein
+2;perf.;сказа́ть;sagen, mitteilen
+3;imperf.;станови́ться;werden, entstehen
+4;imperf.;говори́ть;sprechen, reden, sagen
+5;imperf.;хоте́ть;wollen, mögen, wünschen
+6;imperf.;име́ть;haben, besitzen, verfügen
+7;imperf.;понима́ть;verstehen, erkennen
+8;imperf.;дава́ть;geben, ermöglichen
+9;imperf.;идти́;gehen, kommen, mitkommen, folgen, erreichen, losgehen, bewegen, fahren, laufen, stattfinden, gezeigt werden
+10;imperf.;начина́ть;anfangen, beginnen
+11;perf.;сде́лать;machen, erledigen
+12;imperf.;де́лать;machen
+13;imperf.;ви́деть;sehen, erblicken
+14;imperf.;получа́ть;bekommen, erhalten, gewinnen
+15;imperf.;остава́ться;bleiben
+16;imperf.;ду́мать;denken, überlegen, nachdenken, meinen, glauben, beabsichtigen
+17;imperf.;приходи́ть;herkommen, kommen, kommen zu
+18;imperf.;рабо́тать;arbeiten, berufstätig sein, sein, tätig sein, geöffnet sein
+19;imperf.;отвеча́ть;antworten
+20;imperf.;жить;leben, wohnen
+21;perf.;выходи́ть;hinausgehen, herausgehen, verlassen, aussteigen
+22;imperf.;явля́ться;erscheinen, auftauchen, sich einfinden, kommen
+23;imperf.;находи́ть;finden
+24;imperf.;ока́зываться;sich erweisen, sich herausstellen, sich ergeben, sich entpuppen
+25;imperf.;смотре́ть;schauen, sehen, ansehen, zusehen
+26;imperf.;принима́ть;annehmen, nehmen, abnehmen, entgegennehmen
+27;imperf.;спра́шивать;fragen
+28;imperf.;проходи́ть;vorbeigehen, vorübergehen, vergehen, verfliegen, passieren
+29;imperf.;реша́ть;entscheiden, beschließen, einen Entschluß fassen, eine Entscheidung treffen
+30;imperf.;счита́ть;zählen, rechnen
+31;perf.;взять;nehmen, auswählen, einstellen
+32;perf.;пойти́;losgehen, gehen, aufbrechen, loslaufen, laufen, sich auf den Weg machen, in Gang kommen, seinen Lauf nehmen
+33;imperf.;приходи́ться;müssen, genötigt sein
+34;imperf.;люби́ть;lieben, liebhaben, gern haben
+35;imperf.;писа́ть;schreiben, malen
+36;imperf.;возвраща́ться;zurückkommen, zurückkehren
+37;imperf.;сиде́ть;sitzen
+38;imperf.;уходи́ть;weggehen, verlassen, fortgehen, abfahren, wegfahren
+39;imperf.;находи́ться;sich befinden, vorhanden sein, sich aufhalten
+40;perf.;уви́деть;sehen, erblicken, bemerken
+41;imperf.;стоя́ть;stehen, anhalten, andauern, sein, herrschen
+42;imperf.;помога́ть;helfen
+43;imperf.;сто́ить;kosten
+44;imperf.;появля́ться;erscheinen, auftauchen, auftreten
+45;imperf.;пока́зывать;zeigen, vorführen, herzeigen, vorzeigen, vorweisen
+46;imperf.;каза́ться;scheinen, wirken, den Anschein haben, anmuten, erscheinen, so aussehen als ob, zu sein scheinen, vorkommen
+47;imperf.;расска́зывать;erzählen, berichten, mitteilen
+48;imperf.;создава́ть;schaffen, erstellen, erschaffen, entwickeln
+49;perf.;написа́ть;schreiben, aufschreiben
+50;perf.;смочь;können, imstande sein, dürfen
+51;imperf.;сле́довать;folgen
+52;beide;испо́льзовать;verwenden, benutzen
+53;imperf.;замеча́ть;bemerken, merken, sagen, eine Bemerkung machen
+54;imperf.;предлага́ть;vorschlagen, ersuchen, verlangen
+55;imperf.;ждать;warten, erwarten
+56;imperf.;чита́ть;lesen
+57;imperf.;входи́ть;hineingehen, eintreten, betreten, hereinkommen
+58;imperf.;пыта́ться;versuchen, probieren, sich bemühen
+59;perf.;посмотре́ть;anschauen, schauen, sehen, ansehen
+60;imperf.;открыва́ть;öffnen, aufmachen
+61;imperf.;узнава́ть;erkennen, wiedererkennen
+62;imperf.;существова́ть;existieren, auf der Welt sein
+63;imperf.;оставля́ть;lassen, belassen
+64;imperf.;игра́ть;spielen, vorspielen, mitwirken
+65;imperf.;происходи́ть;geschehen, passieren, stattfinden, ereignen
+66;perf.;по́мнить;erinnern, sich erinnern, denken
+67;imperf.;называ́ть;nennen
+68;imperf.;начина́ться;anfangen, beginnen, losgehen
+69;imperf.;подходи́ть;herangehen, machen, umgehen
+70;imperf.;хоте́ться;wollen, mögen, möchten, Lust haben
+71;imperf.;вызыва́ть;hervorrufen, auslösen, erregen, verursachen, erzeugen, bewirken
+72;imperf.;забыва́ть;vergessen
+73;imperf.;занима́ться;sich beschäftigen, sich aufhalten
+74;imperf.;лежа́ть;liegen
+75;imperf.;вспомина́ть;erinnern, zurückdenken
+76;imperf.;быва́ть;vorkommen, passieren, geschehen, stattfinden
+77;imperf.;получа́ться;gelingen, klappen, schaffen
+78;imperf.;чу́вствовать;fühlen
+79;imperf.;продолжа́ть;fortsetzen, fortfahren, weitermachen
+80;imperf.;представля́ть;vorstellen
+81;perf.;попада́ть;treffen
+82;imperf.;слы́шать;hören
+83;perf.;поду́мать;denken, nachdenken, überlegen
+84;imperf.;ходи́ть;gehen, fahren, verkehren
+85;imperf.;удава́ться;gelingen, glücken, geraten
+86;imperf.;приезжа́ть;ankommen, eintreffen, angereist kommen
+87;imperf.;проси́ть;bitten
+88;imperf.;объясня́ть;erklären
+89;imperf.;обраща́ться;sich wenden an, sich richten an
+90;perf.;поста́вить;stellen, setzen, hinstellen
+91;imperf.;свя́зывать;binden, zusammenbinden
+92;imperf.;иска́ть;suchen
+93;imperf.;боя́ться;Angst haben
+94;imperf.;занима́ть;einnehmen
+95;imperf.;умира́ть;sterben
+96;imperf.;спать;schlafen
+97;imperf.;сообща́ть;mitteilen, melden, berichten
+98;imperf.;носи́ть;tragen
+99;imperf.;брать;nehmen, entnehmen, greifen, fassen, holen
+100;imperf.;снима́ть;abnehmen, entfernen, wegnehmen, abmachen, ausziehen
+101;imperf.;относи́ться;sich beziehen auf, betreffen
+102;imperf.;выбира́ть;auswählen, aussuchen
+103;imperf.;определя́ть;bestimmen, definieren, festsetzen, abgrenzen
+104;imperf.;встава́ть;aufstehen, sich erheben
+105;imperf.;случа́ться;geschehen, passieren, sich zutragen, sich ereignen
+106;perf.;купи́ть;kaufen
+107;imperf.;приноси́ть;herbringen, bringen, herbeibringen
+108;imperf.;убива́ть;töten, umbringen
+109;imperf.;позволя́ть;erlauben, gestatten, sich leisten, sich gönnen, zulassen
+110;imperf.;успева́ть;schaffen, mitkommen, mithalten
+111;imperf.;слу́шать;zuhören
+112;imperf.;поднима́ть;heben, aufheben, hochheben
+113;imperf.;броса́ть;werfen, bewerfen, zuwerfen
+114;imperf.;собира́ться;sich sammeln, zusammenkommen, sich versammeln, sich anhäufen
+115;imperf.;тре́бовать;fordern, verlangen, erfordern, bedürfen
+116;imperf.;отмеча́ть;anmerken, bemerken, erwähnen, feststellen, vermerken, notieren
+117;imperf.;ве́рить;glauben
+118;perf.;стро́ить;bauen, ausbauen, aufbauen, aufstellen
+119;imperf.;поднима́ться;steigen, hinaufsteigen, besteigen, ansteigen
+120;imperf.;заставля́ть;zwingen, nötigen, dazu bringen
+121;imperf.;отдава́ть;weggeben, zurückgeben
+122;imperf.;остана́вливаться;anhalten, halten, stehenbleiben, stillstehen, stoppen
+123;imperf.;е́хать;fahren
+124;imperf.;встреча́ть;treffen, begegnen
+125;imperf.;нра́виться;gefallen, gern haben
+126;imperf.;держа́ть;halten, festhalten
+127;imperf.;устана́вливать;installieren, montieren, richten
+128;imperf.;улыба́ться;lächeln, anlächeln
+129;imperf.;каса́ться;berühren, streifen, tangieren
+130;imperf.;проводи́ть;durchführen, ausführen
+131;imperf.;добавля́ть;hinzufügen, dazugeben, dazutun
+132;imperf.;стара́ться;versuchen
+133;imperf.;ука́зывать;zeigen, anzeigen
+134;imperf.;пить;trinken
+135;imperf.;собира́ть;sammeln, packen, zusammenpacken, einsammeln, versammeln
+136;imperf.;передава́ть;übergeben, weitergeben, überbringen, ausrichten, weiterleiten
+137;imperf.;переходи́ть;überqueren, überschreiten, passieren
+138;imperf.;де́йствовать;handeln, agieren, verfahren, vorgehen
+139;imperf.;отка́зываться;sich weigern, ablehnen, ausschlagen, zurückweisen
+140;imperf.;соглаша́ться;zustimmen, einwilligen, sich einlassen, einverstanden sein
+141;imperf.;наде́яться;hoffen, rechnen mit
+142;imperf.;обнару́живать;entdecken, zeigen, feststellen, an den Tag legen
+143;imperf.;обеспе́чивать;gewährleisten, sicherstellen, garantieren
+144;imperf.;составля́ть;zusammenstellen, aufstellen, bilden
+145;imperf.;заявля́ть;erklären, kundgeben
+146;imperf.;обраща́ть;hinwenden, zuwenden, bekehren, lenken, richten
+147;imperf.;состоя́ть;bestehen aus, sich zusammensetzen, sein
+148;imperf.;закрыва́ть;schließen, zumachen, dichtmachen, abschließen, verschließen, absperren
+149;imperf.;поступа́ть;handeln, vorgehen, verfahren, tun
+150;imperf.;про́бовать;probieren, versuchen, kosten
+151;imperf.;уме́ть;können
+152;imperf.;жела́ть;wünschen, wollen, begehren
+153;perf.;услы́шать;hören, vernehmen, erfahren
+154;imperf.;по́льзоваться;benutzen, verwenden, gebrauchen
+155;imperf.;вы́глядеть;aussehen, wirken
+156;imperf.;име́ться;vorhanden sein, existieren
+157;imperf.;возника́ть;entstehen, auftreten
+158;imperf.;учи́ться;erlernen, lernen
+159;perf.;потеря́ть;verlieren
+160;imperf.;продава́ть;verkaufen
+161;imperf.;служи́ть;dienen
+162;imperf.;направля́ть;richten, zielen, leiten, lenken
+163;imperf.;ожида́ть;erwarten
+164;imperf.;лета́ть;fliegen
+165;perf.;сесть;sich setzen, sich hinsetzen, Platz nehmen
+166;imperf.;устра́ивать;veranstalten, organisieren, arrangieren
+167;imperf.;посыла́ть;schicken, senden
+168;imperf.;признава́ть;anerkennen, befinden, erkennen
+169;imperf.;достига́ть;erreichen, erlangen
+170;imperf.;исчеза́ть;verschwinden, verlorengehen
+171;imperf.;означа́ть;bedeuten
+172;imperf.;гляде́ть;sehen, ansehen
+173;imperf.;пока́зываться;sich zeigen, auftauchen, erscheinen, sichtbar werden
+174;imperf.;изменя́ть;ändern, verändern, wechseln
+175;imperf.;отправля́ть;schicken, senden, aufgeben, abfertigen
+176;imperf.;ста́вить;stellen, aufstellen, hinstellen, setzen
+177;perf.;пое́хать;losfahren, abfahren, fahren, sich in Bewegung setzen
+178;imperf.;соверша́ть;vollbringen, vollziehen, abschließen, absolvieren
+179;imperf.;называ́ться;heißen, genannt werden, sich nennen
+180;imperf.;отправля́ться;aufbrechen, losgehen, abfahren, losfahren, abreisen
+181;imperf.;бежа́ть;laufen, rennen
+182;perf.;положи́ть;legen, hinlegen, hintun
+183;imperf.;зави́сеть;abhängen, abhängig sein
+184;imperf.;произноси́ть;aussprechen, artikulieren, sagen, sprechen
+185;imperf.;перестава́ть;aufhören, etwas bleiben lassen
+186;imperf.;проверя́ть;überprüfen, prüfen, kontrollieren
+187;imperf.;опи́сывать;beschreiben, schildern
+188;imperf.;задава́ть;aufgeben, geben, auftragen, auferlegen
+189;imperf.;сохраня́ть;bewahren, wahren
+190;imperf.;зака́нчивать;beenden, abschließen
+191;imperf.;проща́ть;verzeihen, vergeben
+192;imperf.;расти́;wachsen, zunehmen, steigen, ansteigen
+193;imperf.;звать;rufen
+194;imperf.;хвата́ть;genügen, reichen, nicht vermissen
+195;imperf.;встреча́ться;sich treffen, treffen, begegnen
+196;imperf.;приглаша́ть;einladen, auffordern, rufen, kommen lassen
+197;imperf.;зна́чить;bedeuten
+198;imperf.;облада́ть;besitzen, haben, verfügen
+199;imperf.;счита́ться;gelten, rechnen, zählen
+200;imperf.;принадлежа́ть;dazugehören, hergehören
+201;imperf.;наступа́ть;eintreten, anbrechen, beginnen
+202;imperf.;приобрета́ть;erwerben, gewinnen, finden, annehmen, bekommen
+203;imperf.;доходи́ть;ankommen, erreichen, gelangen, anlangen, kommen zu, hingehen, gehen bis
+204;imperf.;приводи́ть;führen zu, führen, mitbringen, herbeiführen, bringen, herführen, holen, herholen
+205;imperf.;подава́ть;reichen, geben
+206;imperf.;достава́ть;herausholen, herausnehmen
+207;imperf.;оце́нивать;bewerten, einschätzen, beurteilen, abschätzen
+208;imperf.;крича́ть;schreien, rufen
+209;imperf.;наблюда́ть;beobachten, zusehen, beaufsichtigen, aufpassen
+210;imperf.;отлича́ться;sich unterscheiden, abweichen
+211;imperf.;плати́ть;zahlen, bezahlen
+212;imperf.;выпива́ть;trinken
+213;imperf.;располага́ть;verfügen über, verfügen, haben, disponieren
+214;imperf.;допуска́ть;zulassen, gestatten
+215;imperf.;суди́ть;beurteilen, bewerten, urteilen
+216;imperf.;объявля́ть;ankündigen, bekanntgeben, mitteilen
+217;imperf.;изменя́ться;sich ändern, anders werden
+218;imperf.;превраща́ться;sich verwandeln, wandeln, ausarten
+219;imperf.;добива́ться;erreichen, erzielen, erlangen
+220;imperf.;выступа́ть;auftreten
+221;imperf.;стреми́ться;bestrebt sein, streben, anstreben
+222;imperf.;подде́рживать;unterstützen, abstützen
+223;perf.;упа́сть;fallen, hinfallen, umfallen
+224;imperf.;напомина́ть;erinnern
+225;imperf.;скла́дываться;sich bilden, sich herausbilden, sich formieren
+226;imperf.;утвержда́ть;behaupten, bekräftigen
+227;perf.;позвони́ть;anrufen, telefonieren
+228;imperf.;выпуска́ть;hinauslassen, herausgeben, herstellen, produzieren, liefern, ausbilden
+229;imperf.;дока́зывать;beweisen, nachweisen
+230;imperf.;выража́ть;ausdrücken, zum Ausdruck bringen
+231;imperf.;дви́гаться;sich bewegen, gehen, fahren, in Bewegung sein
+232;imperf.;петь;singen, tirilieren, krähen
+233;imperf.;вводи́ть;einführen, einsetzen
+234;imperf.;зака́нчиваться;enden, zu Ende sein
+235;perf.;понра́виться;gefallen, gern haben
+236;imperf.;предоставля́ть;bereitstellen, überlassen, zur Verfügung stellen
+237;imperf.;приду́мывать;ausdenken
+238;perf.;роди́ться;geboren werden, entstehen
+239;imperf.;выдава́ть;ausgeben, übergeben, aushändigen, auszahlen, ausleihen, austeilen
+240;imperf.;выполня́ть;ausführen, erledigen, vollführen, vollziehen, verwirklichen, realisieren
+241;imperf.;испо́льзоваться;verwendet werden, genutzt werden, gebraucht werden, zur Anwendung kommen
+242;imperf.;уча́ствовать;teilnehmen, sich beteiligen, beteiligt sein
+243;imperf.;рассма́тривать;betrachten, untersuchen, prüfen, ansehen, begutachten, erachten
+244;imperf.;бить;schlagen, hauen
+245;imperf.;звони́ть;anrufen, telefonieren
+246;imperf.;организо́вывать;organisieren, arrangieren, veranstalten, auf die Beine stellen
+247;imperf.;молча́ть;schweigen
+248;perf.;прочита́ть;durchlesen, lesen
+249;imperf.;па́дать;fallen, stürzen, umfallen, hinfallen, herunterfallen
+250;imperf.;запи́сывать;aufschreiben, notieren, nachschreiben, vormerken
+251;imperf.;обеща́ть;versprechen
+252;imperf.;покупа́ть;kaufen, erwerben
+253;imperf.;открыва́ться;sich öffnen, aufgehen, geöffnet werden, eröffnet werden, beginnen
+254;imperf.;посвяща́ть;widmen
+255;imperf.;смея́ться;lachen, jemanden anlachen
+256;imperf.;соотве́тствовать;entsprechen, zusammenfallen
+257;imperf.;разбира́ться;sich auskennen
+258;imperf.;прожива́ть;wohnen, verbleiben
+259;imperf.;меша́ть;mischen, rühren, umrühren
+260;imperf.;принима́ться;sich vornehmen, angehen, sich daran machen
+261;imperf.;вступа́ть;eintreten
+262;imperf.;подтвержда́ть;bestätigen, belegen
+263;imperf.;удивля́ться;sich wundern
+264;perf.;уе́хать;wegfahren, fortfahren, abreisen, verreisen
+265;imperf.;знако́миться;sich kennenlernen, sich vertraut machen
+266;imperf.;покида́ть;verlassen, im Stich lassen, abandonnieren, etwas aufgeben
+267;perf.;состоя́ться;stattfinden, zustande kommen
+268;imperf.;испы́тывать;prüfen, erproben, testen, ausprobieren
+269;imperf.;полага́ть;meinen, annehmen, mutmaßen, annehmen, vermuten, glauben, schätzen
+270;imperf.;учи́ть;lehren, unterrichten, beibringen
+271;imperf.;возвраща́ть;zurückgeben, zurückerstatten, wiedergeben, zurückschicken
+272;imperf.;выраста́ть;aufwachsen, wachsen, groß werden, erwachsen werden
+273;imperf.;содержа́ть;enthalten, beinhalten, einschließen
+274;perf.;просыпа́ться;aufwachen, erwachen
+275;imperf.;назнача́ть;bestimmen, festlegen, festsetzen
+276;imperf.;привлека́ть;anziehen, reizen, anlocken, imponieren
+277;imperf.;привыка́ть;gewöhnen, sich gewöhnen, sich gewöhnen an
+278;imperf.;здра́вствовать;wohlauf sein, leben, lebendig sein, sich wohl befinden, gesund sein
+279;imperf.;разраба́тывать;entwickeln
+280;imperf.;звуча́ть;klingen, tönen
+281;imperf.;выделя́ть;hervorheben, betonen, kennzeichnen
+282;imperf.;разгова́ривать;sich unterhalten, sprechen, reden, ein Gespräch führen
+283;perf.;поговори́ть;reden, sprechen
+284;imperf.;разреша́ть;erlauben, gestatten, bewilligen, genehmigen, zustimmen
+285;imperf.;тре́боваться;erforderlich sein, nötig sein, verlangt werden
+286;imperf.;пла́кать;weinen
+287;imperf.;заходи́ть;vorbeikommen, vorbeischauen, vorbeigehen, jemanden aufsuchen
+288;imperf.;кива́ть;nicken, jemandem zunicken
+289;imperf.;зараба́тывать;verdienen, erarbeiten, erwirtschaften
+290;imperf.;предполага́ть;vermuten, annehmen, erwarten, implizieren, voraussetzen
+291;imperf.;уничтожа́ть;vernichten, zerstören
+292;imperf.;реша́ться;sich entscheiden, sich entschließen
+293;imperf.;повора́чиваться;sich drehen, sich umdrehen, sich wenden
+294;perf.;суме́ть;können, schaffen
+295;perf.;опубликова́ть;veröffentlichen
+296;imperf.;сдава́ть;abgeben
+297;imperf.;прибыва́ть;ankommen
+298;imperf.;присыла́ть;schicken, zuschicken, senden, zusenden
+299;imperf.;остана́вливать;anhalten, stoppen, unterbrechen, einstellen, zurückhalten
+300;imperf.;говори́ться;gesagt werden, erzählt werden, heißen
+301;imperf.;сади́ться;sich setzen, sich hinsetzen, Platz nehmen
+302;imperf.;включа́ть;einschalten, anschalten, anmachen
+303;imperf.;броса́ться;sich werfen, stürzen, sich stürzen
+304;imperf.;заключа́ться;bestehen, bestehen in, in etwas bestehen
+305;perf.;выводи́ть;herausführen, wegführen
+306;imperf.;взгля́дывать;einen Blick werfen, kurz hinsehen, ansehen, anblicken, betrachten
+307;imperf.;прису́тствовать;anwesend sein, zugegen sein, da sein
+308;imperf.;конча́ться;enden, zu Ende gehen, ausgehen, aufhören
+309;perf.;захоте́ть;wollen, möchten, Lust bekommen
+310;imperf.;е́здить;fahren, reisen, besuchen, kommen, sein
+311;imperf.;теря́ть;verlieren
+312;imperf.;меня́ть;ändern
+313;imperf.;запреща́ть;verbieten, untersagen
+314;perf.;научи́ться;erlernen, lernen, sich etwas beibringen
+315;imperf.;протя́гивать;ausstrecken, reichen
+316;imperf.;заду́мываться;nachdenken, sich in Gedanken vertiefen, überlegen, sich Gedanken machen
+317;imperf.;вноси́ть;hineintragen, hereinbringen
+318;imperf.;признава́ться;gestehen, eingestehen, zugeben
+319;imperf.;держа́ться;sich festhalten
+320;imperf.;дари́ть;schenken
+321;imperf.;спуска́ться;hinuntergehen, herkunterkommen, hinuntersteigen, absteigen, runterfahren, runterrutschen, sich nach unten bewegen
+322;perf.;спасти́;retten
+323;imperf.;производи́ть;produzieren, herstellen, erzeugen
+324;imperf.;набира́ть;wählen
+325;perf.;пропада́ть;verschwinden
+326;imperf.;вздыха́ть;seufzen, aufatmen
+327;imperf.;следи́ть;folgen, verfolgen
+328;imperf.;захва́тывать;erobern, erbeuten
+329;imperf.;продолжа́ться;dauern, andauern, fortdauern
+330;imperf.;гото́вить;vorbereiten, ausbilden
+331;perf.;избега́ть;meiden, vermeiden
+332;imperf.;посеща́ть;besuchen, aufsuchen
+333;imperf.;забира́ть;wegnehmen, mitnehmen, nehmen, herausnehmen, entnehmen, kürzer machen
+334;imperf.;пуска́ть;lassen, erlauben
+335;imperf.;боро́ться;kämpfen
+336;imperf.;горе́ть;brennen, in Flammen stehen, leuchten, glänzen, strahlen, glühen
+337;imperf.;выде́рживать;aushalten, überstehen, ertragen
+338;imperf.;повторя́ть;wiederholen, noch einmal sagen
+339;imperf.;разделя́ть;teilen, aufteilen, dividieren, einteilen, unterteilen
+340;imperf.;соединя́ть;verbinden, vereinigen, vereinen
+341;imperf.;заключа́ть;abschließen, beenden
+342;imperf.;увели́чивать;vergrößern, vermehren, erweitern
+343;imperf.;обходи́ться;auskommen, entbehren können
+344;beide;исходи́ть;ausgehen von, herstammen
+345;imperf.;прика́зывать;befehlen, anordnen, lassen
+346;imperf.;убежда́ть;überzeugen
+347;imperf.;устава́ть;ermüden, müde werden
+348;imperf.;добира́ться;gelangen, hinkommen
+349;imperf.;осно́вываться;basieren, beruhen
+350;imperf.;отпуска́ть;loslassen, gehen lassen, freilassen, lassen
+351;imperf.;подчёркивать;unterstreichen, betonen, hervorheben
+352;imperf.;упомина́ть;erwähnen
+353;imperf.;побежда́ть;siegen, besiegen, bezwingen
+354;imperf.;меня́ться;sich ändern, wandeln
+355;imperf.;подгота́вливать;vorbereiten
+356;imperf.;развива́ться;sich entwickeln, sich entfalten
+357;imperf.;сохраня́ться;erhalten bleiben, sich erhalten, sich bewahren
+358;imperf.;извиня́ть;entschuldigen, verzeihen
+359;imperf.;гото́виться;sich vorbereiten
+360;imperf.;доставля́ть;liefern, anliefern, zustellen
+361;imperf.;учи́тывать;berücksichtigen, einkalkulieren, miteinbeziehen
+362;imperf.;осознава́ть;begreifen, einsehen, erkennen, sich bewusst werden
+363;perf.;выноси́ть;hinaustragen, rausbringen
+364;imperf.;справля́ться;bewältigen, zurechtkommen, fertigbringen, meistern, schaffen
+365;imperf.;рожа́ть;gebären, entbinden, in den Wehen liegen
+366;imperf.;предусма́тривать;voraussehen, vorhersehen
+367;imperf.;привози́ть;herbringen, herbeibringen, bringen, liefern
+368;imperf.;изуча́ть;erlernen, sich aneignen
+369;imperf.;подпи́сывать;unterschreiben, unterzeichnen
+370;imperf.;наруша́ть;verstoßen, brechen, verletzen, übertreten, nicht einhalten, nicht befolgen
+371;imperf.;страда́ть;leiden
+372;imperf.;направля́ться;sich begeben, ansteuern, gehen, hinfahren
+373;imperf.;сра́внивать;vergleichen
+374;imperf.;отходи́ть;weggehen, sich entfernen, verlassen, sich zurückziehen
+375;imperf.;заменя́ть;ersetzen, auswechseln, vertreten, ablösen
+376;imperf.;мечта́ть;träumen, schwärmen
+377;imperf.;убира́ть;aufräumen, wegräumen, Ordnung machen, abräumen, säubern, ablegen, abstellen
+378;imperf.;дога́дываться;ahnen, vermuten
+379;imperf.;обсужда́ть;besprechen, durchsprechen, diskutieren
+380;imperf.;надева́ть;anziehen, überziehen, anlegen, anstecken
+381;imperf.;проводи́ться;durchgeführt werden, abgehalten werden
+382;imperf.;предупрежда́ть;warnen, vorwarnen
+383;imperf.;раздава́ться;ertönen, erklingen, erdröhnen
+384;imperf.;выи́грывать;gewinnen
+385;imperf.;опуска́ть;senken, herablassen
+386;imperf.;загля́дывать;hineinschauen, nachsehen, hineingucken, einen Blick werfen
+387;imperf.;интересова́ть;interessieren
+388;imperf.;догова́риваться;sich einigen, übereinkommen, vereinbaren
+389;imperf.;обща́ться;kommunizieren, kontaktieren, sich unterhalten, sich verständigen
+390;imperf.;висе́ть;hängen, baumeln
+391;imperf.;выясня́ть;herausfinden, feststellen, dahinterkommen
+392;imperf.;спеши́ть;eilen, hasten, hetzen, sich beeilen
+393;imperf.;де́латься;werden
+394;imperf.;наноси́ть;auftragen, eintragen
+395;imperf.;пла́вать;schwimmen
+396;imperf.;поража́ть;beeindrucken, überraschen, erstaunen, verblüffen
+397;imperf.;убежда́ться;überzeugt sein, sich überzeugen, sich vergewissern
+398;imperf.;лиша́ть;entziehen, aberkennen
+399;imperf.;объединя́ть;vereinen, verbinden, vereinigen
+400;imperf.;спосо́бствовать;fördern, beitragen, helfen, unterstützen
+401;perf.;сходи́ть;hinuntergehen
+402;imperf.;покрыва́ть;bedecken, zudecken
+403;imperf.;выска́зывать;äußern, aussprechen, ausdrücken, äussern
+404;perf.;перевести́;übersetzen, dolmetschen
+405;imperf.;нужда́ться;brauchen, bedürfen
+406;imperf.;переноси́ть;übertragen, verschieben, verlegen, aufschieben, verschieben
+407;imperf.;боле́ть;krank sein, sich krank fühlen, leiden an
+408;imperf.;уверя́ть;versichern, beteuern
+409;imperf.;повора́чивать;drehen, wenden, umdrehen, zur Seite drehen, schwenken
+410;imperf.;обора́чиваться;sich umdrehen, sich umwenden
+411;imperf.;сомнева́ться;zweifeln, bezweifeln
+412;imperf.;пропуска́ть;durchlassen, vorbeilassen, eintreten lassen
+413;imperf.;распространя́ть;verbreiten
+414;imperf.;выта́скивать;herausziehen, herausholen, herausbekommen
+415;imperf.;исключа́ть;ausschließen, ausnehmen, ausschalten, exmatrikulieren
+416;imperf.;ударя́ть;schlagen, einen Schlag versetzen
+417;imperf.;возража́ть;widersprechen, einwenden, entgegnen
+418;perf.;воспо́льзоваться;nutzen, verwenden, benützen, gebrauchen
+419;imperf.;предстоя́ть;bevorstehen
+420;imperf.;представля́ться;sich vorstellen
+421;imperf.;прекраща́ть;aufhören, abbrechen, beenden
+422;imperf.;заслу́живать;verdienen
+423;imperf.;стреля́ть;schießen, feuern
+424;imperf.;отража́ть;reflektieren, widerspiegeln, wiedergeben, zum Ausdruck bringen
+425;imperf.;разруша́ть;zerstören, kaputt machen
+426;perf.;лечь;sich hinlegen
+427;imperf.;раскрыва́ть;aufdecken, offenbaren, enthüllen, entlarven
+428;imperf.;рассчи́тывать;berechnen, ausrechnen, abzählen
+429;imperf.;управля́ть;verwalten, leiten, führen
+430;imperf.;ока́зывать;erweisen, bezeigen
+431;perf.;повезти́;Glück haben
+432;imperf.;выясня́ться;sich herausstellen, klar werden, sich klären
+433;imperf.;засыпа́ть;einschlafen
+434;perf.;заплати́ть;bezahlen
+435;imperf.;пря́тать;verstecken, verbergen, verwahren
+436;imperf.;реализо́вывать;realisieren, verwirklichen, in die Tat umsetzen, ausführen, umsetzen, absetzen
+437;imperf.;освобожда́ть;befreien, freilassen
+438;imperf.;дожида́ться;warten auf, warten bis, abwarten
+439;imperf.;превраща́ть;verwandeln, umwandeln
+440;imperf.;проявля́ться;sich zeigen, sich äußern, zutage treten
+441;imperf.;удивля́ть;überraschen, erstaunen
+442;perf.;найти́сь;sich finden, sich auffinden, sich zurechtfinden
+443;perf.;пойма́ть;fangen, einfangen
+444;perf.;подожда́ть;warten, erwarten, abwarten
+445;imperf.;защища́ть;schützen, beschützen
+446;imperf.;предпочита́ть;bevorzugen
+447;imperf.;зака́зывать;bestellen
+448;imperf.;воспринима́ть;wahrnehmen, aufnehmen, auffassen
+449;imperf.;свиде́тельствовать;bezeugen, bestätigen
+450;imperf.;кури́ть;rauchen
+451;perf.;взя́ться;sich an etwas machen, sich anschicken, sich daranmachen, beginnen, anpacken, sich verpflichten
+452;imperf.;дыша́ть;atmen, einen Atemzug tun
+453;imperf.;гуля́ть;spazieren gehen, herumspazieren, bummeln
+454;imperf.;попада́ться;erwischt werden, auffliegen, in die Falle tapsen, an die Angel gehen, auf den Leim gehen
+455;imperf.;разбива́ть;zerschlagen, zerbrechen
+456;imperf.;издава́ть;herausgeben, veröffentlichen, verlegen, erlassen
+457;imperf.;заводи́ть;starten, ankurbeln, anwerfen, anschalten
+458;imperf.;ощуща́ть;empfinden, fühlen, wahrnehmen
+459;imperf.;тяну́ть;ziehen
+460;imperf.;одева́ть;jemanden anziehen, jemanden ankleiden
+461;imperf.;восклица́ть;ausrufen, rufen
+462;imperf.;владе́ть;besitzen
+463;imperf.;спо́рить;streiten, ein Streitgespräch führen, sich streiten
+464;imperf.;охва́тывать;umfassen, umklammern
+465;imperf.;применя́ть;anwenden, verwenden
+466;imperf.;восстана́вливать;wiederherstellen, restaurieren
+467;imperf.;определя́ться;bestimmt werden, bestimmen, festsetzen
+468;imperf.;осуществля́ть;durchführen, ausführen
+469;imperf.;относи́ть;wegtragen, forttreiben, fortbringen
+470;imperf.;уде́рживать;zurückhalten, unterdrücken
+471;imperf.;запомина́ть;merken, einprägen, im Kopf behalten
+472;imperf.;повыша́ть;erhöhen, heben, befördern, steigern
+473;imperf.;влия́ть;beeinflussen, Einfluß haben
+474;imperf.;бе́гать;laufen, joggen, rennen
+475;imperf.;вынужда́ть;zwingen, nötigen
+476;imperf.;скрыва́ть;verbergen, verschleiern, verhüllen, verstecken
+477;imperf.;отсу́тствовать;abwesend sein, fortbleiben
+478;imperf.;вкла́дывать;hineinlegen, hineintun, deponieren
+479;imperf.;конча́ть;beenden, aufhören, abschließen
+480;imperf.;заполня́ть;ausfüllen
+481;imperf.;терпе́ть;dulden, tolerieren, sich gedulden, geduldig sein
+482;imperf.;ра́доваться;sich freuen
+483;imperf.;скла́дывать;zusammenlegen, falten
+484;beide;рекомендова́ть;empfehlen, raten
+485;imperf.;опуска́ться;sinken, niedergehen, herunterkommen, sich senken, sich niederlassen
+486;imperf.;нажима́ть;drücken, andrücken
+487;imperf.;подбира́ть;aufheben
+488;imperf.;ненави́деть;hassen, verabscheuen
+489;imperf.;удовлетворя́ть;befriedigen, erfüllen, entsprechen
+490;beide;преодолева́ть;überwinden, überwältigen
+491;imperf.;выража́ться;sich ausdrücken
+492;imperf.;отводи́ть;wegführen, wegbringen, bringen, begleiten, abführen, geleiten
+493;imperf.;плани́ровать;planen, vorhaben, beabsichtigen, projektieren, entwerfen
+494;imperf.;предпринима́ть;unternehmen, vornehmen
+495;imperf.;подска́зывать;vorsagen, soufflieren, zuflüstern
+496;imperf.;доводи́ть;hinführen, bringen, führen
+497;imperf.;пережива́ть;erleben
+498;imperf.;приближа́ться;sich nähern, sich annähern
+499;imperf.;образо́вывать;bilden, schaffen
+500;imperf.;осуществля́ться;durchgeführt werden
+501;imperf.;загова́ривать;ansprechen, anreden
+502;imperf.;шепта́ть;flüstern, raunen, wispern
+503;imperf.;обма́нывать;betrügen, täuschen, hintergehen, belügen
+504;imperf.;успока́иваться;sich beruhigen
+505;imperf.;корми́ть;füttern, säugen, stillen
+506;imperf.;контроли́ровать;kontrollieren, überprüfen
+507;imperf.;сбива́ть;abschlagen, herunterschlagen, umwerfen, schlagen, rühren
+508;imperf.;проника́ть;durchdringen
+509;imperf.;поздравля́ть;gratulieren, beglückwünschen
+510;imperf.;выставля́ть;ausstellen, zur Schau stellen, in Vordergrund rücken
+511;imperf.;пожима́ть;drücken, schütteln
+512;imperf.;жени́ться;heiraten
+513;imperf.;излага́ть;darlegen, vorbringen
+514;imperf.;регистри́ровать;registrieren
+515;imperf.;огля́дываться;sich umsehen, zurückblicken, sich umblicken, um sich blicken
+516;imperf.;выезжа́ть;wegfahren, losfahren, ausreisen, verreisen, verlassen
+517;imperf.;обходи́ть;umgehen, vermeiden, ausweichen
+518;perf.;проче́сть;durchlesen
+519;imperf.;заде́рживать;aufhalten, anhalten
+520;imperf.;обнима́ть;umarmen, in die Arme schließen
+521;imperf.;уступа́ть;nachgeben
+522;imperf.;заверша́ть;beenden, vollenden
+523;imperf.;убега́ть;weglaufen, davonlaufen
+524;perf.;научи́ть;beibringen, lehren
+525;imperf.;наполня́ть;füllen, ausfüllen, befüllen
+526;imperf.;обознача́ть;bezeichnen, bedeuten, kennzeichnen
+527;imperf.;запуска́ть;starten, in Gang setzen, in Betrieb nehmen
+528;perf.;съесть;aufessen
+529;imperf.;тра́тить;ausgeben, verbrauchen
+530;perf.;пона́добиться;nötig sein, benötigen, benötigt werden, gebraucht werden
+531;imperf.;уважа́ть;respektieren, schätzen, achten
+532;imperf.;подводи́ть;heranführen, zuführen, herbeiführen
+533;imperf.;дрожа́ть;zittern, bibbern
+534;imperf.;па́хнуть;riechen, duften
+535;imperf.;слы́шаться;zu hören sein, ertönen, erschallen
+536;imperf.;приступа́ть;beginnen, anfangen, in Angriff nehmen
+537;imperf.;маха́ть;winken, zuwinken
+538;perf.;побежа́ть;loslaufen, losrennen
+539;imperf.;расстава́ться;sich trennen, auseinandergehen, sich verabschieden
+540;imperf.;развива́ть;entwickeln, entfalten, ausbilden, ausbauen
+541;imperf.;обрета́ть;finden, gewinnen
+542;imperf.;избира́ть;wählen, auswählen
+543;imperf.;храни́ть;aufbewahren
+544;imperf.;повторя́ться;sich wiederholen
+545;imperf.;надоеда́ть;langweilen
+546;perf.;посади́ть;setzen, Platz nehmen lassen, hinlegen, legen
+547;imperf.;прои́грывать;verlieren, den Vorteil verlieren
+548;imperf.;закла́дывать;verpfänden, hinterlegen, versetzen
+549;imperf.;расходи́ться;auseinandergehen, sich trennen, sich scheiden lassen
+550;imperf.;прикрыва́ть;verdecken, zudecken, bedecken
+551;imperf.;подозрева́ть;verdächtigen, in Verdacht haben
+552;imperf.;выбра́сывать;wegwerfen, hinauswerfen
+553;imperf.;докла́дывать;berichten, melden, informieren, darlegen
+554;imperf.;достава́ться;zukommen, zuteil werden, zufallen
+555;imperf.;успока́ивать;beruhigen, beschwichtigen
+556;imperf.;отка́зывать;verweigern, ablehnen, absagen, zurückweisen
+557;imperf.;отдыха́ть;ausruhen, entspannen
+558;imperf.;лови́ть;fangen
+559;imperf.;разбира́ть;auseinandernehmen, zerlegen, demontieren, abbauen, ausverkaufen
+560;imperf.;бормота́ть;murmeln
+561;imperf.;избавля́ться;sich befreien, sich retten, entrinnen
+562;imperf.;помеща́ть;unterbringen, stellen, setzen, legen
+563;imperf.;освеща́ть;beleuchten, anleuchten, durchleuchten
+564;imperf.;воева́ть;Krieg führen
+565;imperf.;таска́ть;schleppen, ziehen, schleifen
+566;beide;веле́ть;befehlen, anordnen
+567;imperf.;проявля́ть;zeigen, bekunden, bezeigen, äußern
+568;imperf.;интересова́ться;sich interessieren, interessiert sein, Interesse haben
+569;imperf.;окружа́ть;umgeben, umgeben sein
+570;imperf.;опра́вдывать;rechtfertigen, entschuldigen
+571;imperf.;сове́товать;raten, Ratschläge geben
+572;imperf.;осма́тривать;untersuchen, mustern, prüfen
+573;imperf.;поясня́ть;erklären, erläutern
+574;perf.;закрича́ть;schreien, anbrüllen
+575;imperf.;отступа́ть;zurücktreten, zurückweichen, weichen, sich zurückziehen, wegtreten
+576;imperf.;воспи́тывать;erziehen, großziehen
+577;imperf.;лезть;klettern, kraxeln
+578;imperf.;порожда́ть;erzeugen, hervorrufen, hervorbringen
+579;imperf.;доверя́ть;vertrauen, Vertrauen haben
+580;imperf.;уезжа́ть;wegfahren, fortfahren, abreisen, verreisen, fahren, reisen, verlassen
+581;imperf.;жа́ловаться;sich beschweren, sich beklagen, jammern
+582;perf.;напада́ть;angreifen, überfallen
+583;imperf.;снижа́ть;senken, reduzieren, herabsetzen, drosseln, zurückfahren
+584;imperf.;возбужда́ть;erregen, anregen
+585;imperf.;сжима́ть;zusammendrücken, pressen, drücken
+586;imperf.;создава́ться;entstehen
+587;imperf.;жале́ть;bereuen, bedauern, bemitleiden
+588;imperf.;превыша́ть;übertreffen, übersteigen, überschreiten, mißbrauchen
+589;imperf.;исполня́ть;ausführen, durchführen, verrichten, verwirklichen
+590;beide;почита́ть;lesen
+591;imperf.;благодари́ть;danken, sich bedanken für
+592;imperf.;танцева́ть;tanzen
+593;imperf.;выпада́ть;ausfallen
+594;imperf.;исправля́ть;korrigieren, berichtigen
+595;imperf.;содержа́ться;enthalten sein, enthalten, beinhalten, umfassen
+596;imperf.;предъявля́ть;vorzeigen, vorweisen, vorliegen
+597;imperf.;обижа́ться;beleidigt sein, gekränkt sein, sich gekränkt fühlen
+598;imperf.;рисова́ть;zeichnen
+599;perf.;повести́;führen, geleiten
+600;imperf.;волнова́ться;sich sorgen, sich Sorgen machen
+601;imperf.;цити́ровать;zitieren, anführen
+602;perf.;заинтересова́ть;interessieren, jemandes Interesse wecken, interessiert machen
+603;imperf.;реаги́ровать;reagieren
+604;imperf.;дели́ться;sich teilen, geteilt werden, mitteilen, untereinanderteilen, teilbar sein
+605;imperf.;торопи́ться;sich beeilen, sich übereilen
+606;imperf.;наста́ивать;bestehen auf, beharren
+607;imperf.;ложи́ться;sich hinlegen
+608;imperf.;вынима́ть;herausnehmen, holen, herausziehen, entfernen
+609;imperf.;применя́ться;angewendet werden, Anwendung finden, Verwendung finden
+610;perf.;потре́боваться;erforderlich sein, nötig sein, verlangt werden
+611;imperf.;забо́титься;sich sorgen
+612;imperf.;моли́ться;beten
+613;imperf.;наблюда́ться;beobachtet werden
+614;imperf.;опла́чивать;bezahlen, begleichen
+615;imperf.;сопровожда́ть;begleiten, geleiten, mitgehen
+616;imperf.;налива́ть;eingießen, einschenken
+617;perf.;захоте́ться;Lust bekommen
+618;imperf.;отстава́ть;zurückbleiben
+619;imperf.;вылета́ть;abfliegen, fliegen, starten
+620;imperf.;целова́ть;küssen
+621;imperf.;пуга́ть;erschrecken, ängstigen, einschüchtern
+622;perf.;испуга́ться;sich erschrecken, sich ängstigen, Angst haben
+623;imperf.;уси́ливать;verstärken, steigern
+624;imperf.;пресле́довать;verfolgen
+625;imperf.;отрыва́ть;abreißen, losreißen, abtrennen
+626;imperf.;демонстри́ровать;demonstrieren, sich an einer Demonstration beteiligen, vorführen, zeigen, bekunden
+627;imperf.;ора́ть;schreien, brüllen, johlen
+628;imperf.;грози́ть;drohen
+629;perf.;слома́ть;brechen, zerbrechen, abbrechen, wegbrechen
+630;imperf.;тяну́ться;sich erstrecken, sich ausdehnen
+631;imperf.;сокраща́ть;kürzen, abkürzen, verkürzen, verringern, einschränken, reduzieren
+632;imperf.;волнова́ть;beunruhigen
+633;imperf.;класть;legen, hinlegen, niederlegen
+634;imperf.;руководи́ть;leiten, führen, anleiten,
+635;imperf.;беспоко́иться;sich sorgen, sich beunruhigen, sich Sorgen machen
+636;imperf.;пры́гать;springen, hüpfen
+637;imperf.;ошиба́ться;sich irren, sich täuschen, Unrecht haben
+638;imperf.;рискова́ть;riskieren, ein Risiko eingehen, aufs Spiel setzen, Gefahr laufen
+639;imperf.;рассужда́ть;überlegen
+640;imperf.;комменти́ровать;kommentieren, erläutern
+641;perf.;пострада́ть;leiden
+642;imperf.;располага́ться;sich befinden, liegen
+643;imperf.;совпада́ть;übereinstimmen
+644;perf.;нарисова́ть;zeichnen, aufzeichnen, skizzieren
+645;beide;иссле́довать;erforschen, untersuchen
+646;imperf.;изобража́ть;darstellen, zeigen, spielen, verkörpern, widerspiegeln, nachahmen
+647;perf.;поцелова́ть;küssen
+648;imperf.;кида́ть;werfen, schleudern, schmeißen
+649;imperf.;угова́ривать;überreden, zureden
+650;imperf.;дли́ться;dauern, sich hinziehen
+651;imperf.;производи́ться;produziert werden, hergestellt werden, durchgeführt werden, erfolgen
+652;imperf.;запира́ть;abschließen
+653;beide;гаранти́ровать;garantieren, gewährleisten, haften, bürgen
+654;imperf.;горди́ться;stolz sein
+655;imperf.;спаса́ть;retten, bergen
+656;imperf.;предполага́ться;geplant sein, vorgesehen sein
+657;imperf.;води́ть;führen, herumführen
+658;imperf.;угрожа́ть;drohen, bedrohen, androhen
+659;imperf.;лечи́ть;behandeln
+660;perf.;напеча́тать;drucken, veröffentlichen
+661;imperf.;врать;lügen
+662;perf.;проговори́ть;reden, sich eine Weile unterhalten
+663;imperf.;улучша́ть;verbessern, aufbessern
+664;imperf.;шути́ть;scherzen, sich lustig machen, Scherz treiben
+665;imperf.;уменьша́ть;verringern, vermindern, reduzieren
+666;imperf.;храни́ться;aufbewahrt werden, lagern, in Verwahrung sein
+667;imperf.;уноси́ть;wegtragen, forttragen, fortbringen, tragen, forttreiben, davontragen
+668;perf.;пове́сить;aufhängen, anhängen, hängen, einhängen, auflegen
+669;imperf.;тро́гать;berühren, anfassen
+670;imperf.;закрыва́ться;sich schließen
+671;imperf.;употребля́ть;gebrauchen, benutzen,
+672;imperf.;соблюда́ть;einhalten, beachten, befolgen
+673;imperf.;распространя́ться;sich verbreiten
+674;imperf.;подъезжа́ть;heranfahren, anreisen, vorfahren
+675;imperf.;размышля́ть;nachdenken, grübeln, sinnieren
+676;imperf.;цени́ть;wertschätzen, würdigen
+677;imperf.;торгова́ть;handeln, verkaufen
+678;imperf.;настава́ть;anbrechen, hereinbrechen, eintreten, beginnen
+679;imperf.;продава́ться;sich verkaufen, verkauft werden
+680;beide;атакова́ть;angreifen, attackieren
+681;imperf.;беспоко́ить;beunruhigen, Sorgen machen
+682;imperf.;догоня́ть;einholen, aufholen
+683;imperf.;приве́тствовать;begrüßen, willkommen heißen, grüßen, gutheißen, zustimmen
+684;imperf.;приде́рживаться;einhalten, befolgen, sich richten
+685;perf.;засмея́ться;auflachen, in Lachen ausbrechen, loslachen
+686;imperf.;улета́ть;wegfliegen, fortfliegen, fliegen, abfliegen
+687;imperf.;труди́ться;arbeiten
+688;imperf.;прекраща́ться;aufhören, abbrechen
+689;imperf.;отреза́ть;abschneiden, abtrennen, wegtrennen, kürzen
+690;imperf.;стуча́ть;klopfen, anklopfen, pochen, hämmern
+691;imperf.;подлежа́ть;unterliegen, unterzogen werden
+692;imperf.;рожда́ться;geboren werden
+693;imperf.;увели́чиваться;sich vergrößern
+694;perf.;счесть;halten für
+695;imperf.;лете́ть;fliegen
+696;imperf.;голосова́ть;abstimmen
+697;imperf.;мыть;waschen, putzen, wischen
+698;perf.;повлия́ть;beeinflussen
+699;imperf.;охраня́ть;bewachen, schützen
+700;perf.;прое́хать;durchfahren
+701;imperf.;наслажда́ться;genießen
+702;perf.;полюби́ть;lieben
+703;imperf.;выделя́ться;sich hervorheben, sich hervortun, herausstechen, sich abheben, sich auszeichnen
+704;perf.;продемонстри́ровать;demonstrieren, sich an einer Demonstration beteiligen, vorführen, zeigen, bekunden
+705;perf.;испо́ртить;verderben, verpfuschen, versauen
+706;imperf.;пря́таться;sich verstecken, sich verbergen
+707;imperf.;формирова́ться;sich bilden, sich herausbilden, sich entwickeln
+708;imperf.;ви́деться;sich sehen
+709;imperf.;бесе́довать;ein Gespräch führen, sich unterhalten
+710;imperf.;объясня́ться;sich erklären, sich aussprechen
+711;imperf.;зажига́ть;anzünden, entzünden
+712;imperf.;обвиня́ть;beschuldigen, anschuldigen
+713;imperf.;кома́ндовать;kommandieren, befehligen
+714;perf.;пожале́ть;bereuen, bedauern, bemitleiden
+715;imperf.;ра́нить;verwunden
+716;imperf.;отрица́ть;verneinen, negieren
+717;imperf.;воспринима́ться;wahrgenommen werden, empfunden werden
+718;imperf.;предлага́ться;angeboten werden, im Angebot sein, beabsichtigt sein
+719;imperf.;мы́слить;denken
+720;imperf.;возглавля́ть;leiten, anführen
+721;imperf.;возраста́ть;anwachsen, zunehmen, größer werden, steigen, wachsen
+722;perf.;заболе́ть;erkranken
+723;imperf.;взлета́ть;abheben, aufsteigen
+724;imperf.;плани́роваться;geplant werden, in Planung sein
+725;perf.;замолча́ть;verstummen
+726;imperf.;лома́ть;brechen, abbrechen, zerbrechen
+727;imperf.;дели́ть;teilen, aufteilen, einteilen, verteilen, dividieren, unterteilen
+728;imperf.;обсужда́ться;besprochen werden, zur Diskussion stehen, diskutiert werden 
+729;perf.;разбуди́ть;wecken, aufwecken
+730;imperf.;раздража́ть;reizen, irritieren, aufbringen
+731;imperf.;формирова́ть;bilden, formieren, zusammensetzen, formen, prägen
+732;imperf.;му́чить;quälen, plagen, peinigen
+733;imperf.;сни́ться;träumen
+734;perf.;обра́доваться;sich freuen, erfreut sein
+735;imperf.;подверга́ться;ausgesetzt sein, sich aussetzen
+736;imperf.;анализи́ровать;analysieren
+737;imperf.;дави́ть;drücken
+738;imperf.;претендова́ть;beanspruchen
+739;imperf.;дра́ться;sich prügeln, sich raufen, sich schlagen
+740;perf.;отверну́ться;sich abwenden, sich abkehren
+741;perf.;поменя́ть;ändern
+742;perf.;поко́нчить;beenden, abschließen, erledigen, Schluß machen
+743;imperf.;выпи́сывать;herausschreiben, kopieren
+744;imperf.;прислу́шиваться;hinhören, zuhören
+745;imperf.;печа́тать;drucken
+746;imperf.;вытека́ть;herausfließen, auslaufen, abfließen, ausströmen, entspringen
+747;imperf.;сверка́ть;funkeln, glitzern
+748;imperf.;награжда́ть;auszeichnen, ehren
+749;imperf.;увольня́ть;entlassen, kündigen
+750;imperf.;стесня́ться;sich scheuen, sich schämen, sich genieren
+751;imperf.;руга́ться;sich streiten, sich zanken
+752;perf.;зафикси́ровать;festhalten, fixieren
+753;imperf.;ра́довать;erfreuen, Freude bereiten
+754;imperf.;чу́вствоваться;zu spüren sein, spürbar, fühlbar
+755;imperf.;свети́ть;leuchten
+756;imperf.;свети́ться;leuchten, scheinen, strahlen, funkeln, glänzen, schimmern
+757;imperf.;рва́ться;reißen, zerreißen, verschleißen
+758;perf.;пое́сть;essen, alles aufessen
+759;imperf.;годи́ться;taugen, nützlich sein
+760;imperf.;обуча́ть;ausbilden, schulen, lehren, unterrichten, ausgebildet werden
+761;imperf.;ката́ться;fahren, gleiten, rollen, reiten
+762;perf.;ознако́миться;sich vertraut machen
+763;perf.;потяну́ться;sich strecken, sich ausstrecken
+764;imperf.;прибега́ть;herlaufen, angelaufen kommen
+765;perf.;пожа́ловаться;sich beschweren, sich beklagen, jammern
+766;imperf.;ре́зать;schneiden
+767;imperf.;провожа́ть;begleiten
+768;imperf.;сопротивля́ться;sich widersetzen, widerstehen, sich auflehnen, sich sträuben
+769;imperf.;заку́ривать;anfangen zu rauchen
+770;imperf.;публикова́ть;veröffentlichen, publizieren
+771;imperf.;отража́ться;sich reflektieren, sich spiegeln, sich zeigen
+772;imperf.;болта́ть;plaudern, schwatzen, plappern, dummes Zeug erzählen
+773;imperf.;одева́ться;sich anziehen, sich kleiden
+774;imperf.;регули́ровать;regulieren, regeln, einstellen, abstimmen, justieren
+775;imperf.;отвози́ть;wegbringen, fortbringen, hinfahren
+776;imperf.;выки́дывать;hinauswerfen, auswerfen, wegwerfen
+777;imperf.;скуча́ть;langweilen
+778;imperf.;руга́ть;schimpfen, beschimpfen
+779;imperf.;выполня́ться;ausgeführt werden, in Erfüllung gehen
+780;imperf.;ограни́чивать;begrenzen, befristen
+781;imperf.;колеба́ться;schwanken, schwingen, pendeln, flackern
+782;imperf.;обожа́ть;vergöttern, anbeten, schwärmen
+783;imperf.;блесте́ть;glänzen, aufblitzen
+784;perf.;поблагодари́ть;danken, sich bedanken
+785;perf.;сгоре́ть;verbrennen, ausbrennen, abbrennen
+786;imperf.;ночева́ть;übernachten
+787;imperf.;кача́ть;schaukeln, wippen, schwingen, pendeln, wiegen
+788;imperf.;различа́ть;unterscheiden, auseinanderhalten
+789;imperf.;зави́довать;beneiden, neidisch sein
+790;imperf.;устана́вливаться;installiert werden
+791;imperf.;отлича́ть;unterscheiden, auseinanderhalten, auszeichnen, sich auszeichnen
+792;imperf.;дружи́ть;befreundet sein, Freundschaft halten
+793;imperf.;сде́рживать;zurückhalten, unterdrücken
+794;imperf.;писа́ться;sich schreiben, sich buchstabieren
+795;imperf.;украша́ть;schmücken, ausschmücken
+796;perf.;запла́кать;anfangen zu weinen, zu weinen beginnen, weinen
+797;imperf.;путеше́ствовать;reisen
+798;imperf.;превосходи́ть;übertreffen, überbieten, übersteigen
+799;imperf.;бере́чь;schützen, hüten, behüten
+800;imperf.;вози́ть;fahren, transportieren, herumfahren, befördern, kutschieren
+801;imperf.;шага́ть;schreiten, auf und ab gehen
+802;imperf.;толка́ть;stoßen, schubsen, drängen, schieben
+803;imperf.;игнори́ровать;ignorieren
+804;beide;стимули́ровать;stimulieren, anreizen, fördern, jemandem einen Anreiz geben
+805;imperf.;завора́чивать;einwickeln, einpacken
+806;imperf.;пропи́сывать;verschreiben, verordnen
+807;imperf.;рвать;reißen
+808;imperf.;обслу́живать;bedienen, betreuen, abfertigen, warten
+809;imperf.;выу́чивать;lernen
+810;imperf.;функциони́ровать;funktionieren, gehen, laufen, arbeiten
+811;imperf.;проща́ться;sich verabschieden, Abschied nehmen, Lebewohl sagen
+812;imperf.;преподава́ть;unterrichten
+813;imperf.;вме́шиваться;sich einmischen
+814;perf.;съе́здить;hinfahren, fahren, hinreisen, reisen, einen Abstecher machen
+815;imperf.;дви́гать;bewegen
+816;imperf.;ска́чивать;herunterladen
+817;imperf.;серди́ться;sich ärgern, böse werden
+818;perf.;дое́хать;ankommen
+819;imperf.;шуме́ть;Lärm machen, rauschen, brausen, lärmen
+820;imperf.;купа́ться;baden, ein Bad nehmen
+821;imperf.;любова́ться;bewundern, sich weiden an, bestaunen
+822;perf.;заплани́ровать;planen, einen Plan für etwas aufstellen, sich vornehmen, vorhaben
+823;perf.;напуга́ть;erschrecken, Angst einjagen
+824;imperf.;чи́стить;säubern, reinigen
+825;imperf.;теря́ться;verloren gehen
+826;imperf.;увлека́ться;sich begeistern für, sich hinreißen lassen, begeistert sein, schwärmen, sich verlieben
+827;imperf.;вари́ть;kochen, zubereiten
+828;imperf.;гла́дить;bügeln, glattstreichen
+829;imperf.;обе́дать;zu Mittag essen
+830;imperf.;уменьша́ться;sich verringern, zurückgehen
+831;imperf.;лить;gießen, sprengen, schütten
+832;imperf.;по́ртить;verderben, verpfuschen, versauen
+833;imperf.;прогла́тывать;schlucken, verschlucken, herunterschlucken
+834;imperf.;извиня́ться;sich entschuldigen
+835;imperf.;ворова́ть;stehlen, klauen
+836;imperf.;кипе́ть;kochen, brodeln, sieden, aufwallen
+837;imperf.;разводи́ться;sich scheiden lassen
+838;perf.;прорабо́тать;durcharbeiten, durchgehen, detailliert studieren
+839;perf.;увезти́;wegbringen, bringen
+840;imperf.;буди́ть;wecken, aufwecken
+841;imperf.;разреша́ться;erlaubt sein
+842;imperf.;уха́живать;pflegen, umsorgen, versorgen, sich kümmern, sorgen für
+843;imperf.;уси́ливаться;sich verstärken, stärker werden, sich verschärfen, sich steigern, zunehmen
+844;perf.;постуча́ть;klopfen, anklopfen, pochen, hämmern
+845;imperf.;жева́ть;kauen, durchkauen
+846;imperf.;приземля́ться;landen
+847;perf.;заинтересова́ться;sich interessieren, interessiert sein, Interesse haben
+848;imperf.;хвали́ть;loben, preisen für wegen
+849;imperf.;стира́ть;wischen, abwischen, wegwischen
+850;perf.;присни́ться;träumen
+851;imperf.;шить;nähen
+852;perf.;промолча́ть;schweigen
+853;imperf.;тормози́ть;bremsen, abbremsen, hemmen, verzögern, hindern
+854;imperf.;взве́шивать;wiegen, abwiegen
+855;imperf.;целова́ться;sich küssen
+856;imperf.;чита́ться;gelesen werden
+857;imperf.;ги́бнуть;umkommen, ums Leben kommen, eingehen, zugrunde gehen, untergehen, sterben
+858;imperf.;раздава́ть;verteilen, ausgeben
+859;imperf.;ве́шать;hängen, anhängen, einhängen, aufhängen, auflegen
+860;imperf.;обуча́ться;ausgebildet werden, lernen, studieren
+861;imperf.;продлева́ть;verlängern, die Frist hinausschieben
+862;imperf.;пра́здновать;feiern, begehen
+863;imperf.;различа́ться;sich unterscheiden
+864;imperf.;выдыха́ть;ausatmen
+865;imperf.;диктова́ть;diktieren
+866;imperf.;эконо́мить;sparen, einsparen
+867;perf.;зарегистри́роваться;sich registrieren, sich eintragen
+868;imperf.;ве́сить;wiegen, Gewicht haben
+869;imperf.;греме́ть;donnern, dröhnen
+870;imperf.;плыть;schwimmen, fahren, segeln
+871;imperf.;повыша́ться;sich erhöhen, steigen
+872;imperf.;выпрямля́ться;sich aufrichten
+873;imperf.;развя́зывать;lösen, aufknoten, aufbinden, aufschnüren
+874;imperf.;измеря́ть;messen, abmessen
+875;imperf.;у́жинать;zu Abend essen, Abendbrot essen
+876;imperf.;запреща́ться;verboten sein, untersagt sein
+877;imperf.;уводи́ть;wegführen, fortführen, abführen
+878;imperf.;взросле́ть;erwachsen werden
+879;imperf.;выздора́вливать;gesund werden, genesen
+880;imperf.;обме́нивать;tauschen, eintauschen, austauschen
+881;imperf.;сгиба́ть;biegen, krümmen, falten
+882;imperf.;переку́сывать;ein wenig essen, snacken
+883;imperf.;прибива́ть;annageln, anschlagen, festnageln
+884;imperf.;ода́лживать;leihen, ausleihen
+885;imperf.;вычёркивать;streichen
+886;imperf.;переска́зывать;nacherzählen
+887;imperf.;аплоди́ровать;applaudieren, Beifall klatschen
+888;imperf.;мёрзнуть;frieren
+889;imperf.;ме́рить;messen
+890;imperf.;мочи́ть;anfeuchten, einwässern, nass machen
+891;imperf.;суши́ть;trocknen, austrocknen
+892;imperf.;загора́ть;sich sonnen, sonnenbaden, braun werden, in der Sonne liegen, sich in der Sonne bräunen, in der Sonne liegen
+893;imperf.;схва́тывать;ergreifen, greifen, packen, schnappen, aufgreifen, erwischen, habhaft werden
+894;imperf.;умыва́ться;sich waschen
+895;imperf.;паркова́ть;parken
+896;imperf.;враща́ть;drehen
+897;imperf.;вноси́ться;eingebracht werden, vorgelegt werden
+898;beide;модифици́ровать;modifizieren
+899;imperf.;обнажа́ть;entblößen, entkleiden
+900;imperf.;выполза́ть;herauskriechen, hervorkriechen
+901;imperf.;захлёбываться;sich verschlucken
+902;imperf.;по́ртиться;verderben, schlecht werden
+903;imperf.;сторожи́ть;bewachen, hüten
+904;imperf.;шля́ться;sich herumtreiben, schlendern
+905;imperf.;обнима́ться;sich umarmen
+906;imperf.;заправля́ть;betanken, auftanken, auffüllen, tanken, herrichten
+907;imperf.;рассека́ть;zerschneiden, zerhauen, zerhacken, zerteilen
+908;imperf.;спада́ть;abfallen, herunterfallen, sinken, fallen, abnehmen
+909;imperf.;вселя́ть;einflößen
+910;imperf.;мести́;fegen, kehren
+911;imperf.;переступа́ть;überschreiten, überwinden
+912;beide;апелли́ровать;appellieren
+913;imperf.;насчи́тывать;zählen, aufrechnen, hat, umfasst
+914;imperf.;пыхте́ть;schnaufen, keuchen, schnauben, pusten
+915;imperf.;точи́ть;schärfen, schleifen, wetzen, feilen, spitzen
+916;imperf.;щекота́ть;kitzeln
+917;imperf.;бри́ться;sich rasieren, sich rasieren lassen
+918;perf.;разоблачи́ть;entlarven
+919;imperf.;трево́житься;sich sorgen, sich Sorgen machen
+920;imperf.;усма́тривать;erkennen, ersehen
+921;imperf.;черне́ть;schwarz werden, sich schwarz abheben
+922;perf.;вы́учиться;lernen, erlernen
+923;imperf.;морга́ть;blinzeln, zwinkern, zublinzeln
+924;perf.;надави́ть;drücken
+925;perf.;отве́дать;verkosten, schmecken, kosten, probieren
+926;imperf.;утомля́ть;ermüden, müde machen
+927;imperf.;колыха́ться;sanft schwingen, schwanken, sich bewegen, schaukeln, wehen
+928;perf.;насмотре́ться;genug sehen, sich sattsehen
+929;perf.;перебега́ть;hinüberlaufen, überqueren, überlaufen
+930;imperf.;ска́тываться;hinabrollen, schlittern, hinunterrrutschen
+931;imperf.;поте́ть;schwitzen, anlaufen
+932;imperf.;программи́ровать;programmieren
+933;imperf.;прикрепля́ть;befestigen, festmachen, anbringen
+934;imperf.;передвига́ть;verschieben, verrücken
+935;imperf.;бо́дрствовать;wach bleiben
+936;perf.;простуди́ться;sich erkälten, sich eine Erkältung zuziehen
+937;imperf.;дорожа́ть;teurer werden, sich verteuern
+938;imperf.;страхова́ть;versichern, sichern, absichern
+939;imperf.;умножа́ть;multiplizieren
+940;imperf.;кле́ить;kleben, leimen
+941;imperf.;консульти́ровать;beraten
+942;imperf.;разме́нивать;wechseln, abtauschen, tauschen
+943;imperf.;переспра́шивать;noch einmal fragen, nachfragen, nochmals fragen

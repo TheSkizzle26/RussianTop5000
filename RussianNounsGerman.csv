@@ -1,0 +1,2651 @@
+id;noun;translation
+1;весь;ganz, sämtlich
+2;мочь;können, imstande sein, dürfen
+3;челове́к;Mensch, Person, Mann
+4;год;Jahr
+5;вре́мя;Zeit
+6;знать;wissen, sich auskennen, Bescheid wissen, können
+7;день;Tag
+8;жизнь;Leben
+9;де́ло;Sache, Angelegenheit, Ding, Anliegen
+10;раз;mal
+11;рабо́та;Arbeit, Werk
+12;рука́;Hand
+13;го́род;Stadt
+14;вопро́с;Frage
+15;сло́во;Wort, Vokabel
+16;ме́сто;Platz, Sitzplatz, Koje
+17;ребёнок;Kind
+18;друг;Freund
+19;Росси́я;Russland
+20;мир;Welt, Erde
+21;слу́чай;Fall, Vorfall, Zwischenfall
+22;сторона́;Seite
+23;глаз;Auge
+24;дом;Haus, Gebäude, Zuhause, Heim
+25;страна́;Land, Staat, Gegend
+26;после́дний;letzter, der Letzte
+27;лицо́;Gesicht
+28;си́ла;Kraft, Stärke
+29;же́нщина;Frau, Dame
+30;часть;Teil, Stück, Anteil
+31;систе́ма;System
+32;вид;Sicht, Anblick, Anschein, Ansicht, Aussicht, Aussehen
+33;голова́;Kopf, Köpfchen, Gehirn, Verstand
+34;коне́ц;Ende, Schluss
+35;пробле́ма;Problem
+36;отноше́ние;Beziehung
+37;три;drei, 3
+38;пе́ред;vor
+39;о́браз;Bild, Gestalt, Figur
+40;Москва́;Moskau
+41;час;Stunde
+42;де́ньги;Geld
+43;земля́;Erde, Erdboden
+44;ру́сский;russisch
+45;кни́га;Buch
+46;компа́ния;Unternehmen, Firma
+47;исто́рия;Geschichte
+48;возмо́жность;Möglichkeit, Gelegenheit
+49;результа́т;Ergebnis, Resultat, Leistung
+50;маши́на;Auto
+51;гру́ппа;Gruppe
+52;война́;Krieg
+53;путь;Weg
+54;и́мя;Name, Rufname, Vorname
+55;отве́т;Antwort, Lösung
+56;бог;Gott
+57;вода́;Wasser
+58;язы́к;Sprache
+59;реше́ние;Entscheidung, Urteil
+60;наро́д;Volk, Menschen
+61;власть;Macht, Machtbefugnis
+62;ночь;Nacht
+63;дверь;Tür
+64;у́ровень;Stufe, Ebene, Niveau
+65;зако́н;Gesetz
+66;разви́тие;Entwicklung, Fortschritt, Wachstum
+67;програ́мма;Programm
+68;нача́ло;Anfang, Start
+69;оте́ц;Vater
+70;нога́;Bein
+71;моме́нт;Moment, Augenblick
+72;по́мощь;Hilfe
+73;цель;Ziel, Zielort, Zielobjekt, Zielscheibe
+74;чи́сло;Zahl, Anzahl
+75;ты́сяча;tausend, Tausend
+76;мину́та;Minute, Augenblick
+77;информа́ция;Information
+78;проце́сс;Prozess, Verlauf, Lauf
+79;а́втор;Autor, Verfasser, Komponist
+80;фо́рма;Form
+81;го́лос;Stimme
+82;ме́сяц;Monat
+83;мысль;Gedanke
+84;свет;Licht
+85;шко́ла;Schule
+86;де́йствие;Handlung, Aktion, Aktivität, Akt
+87;ка́чество;Qualität, Güte
+88;ситуа́ция;Situation, Lage
+89;о́бласть;Gebiet, Region, Gegend
+90;внима́ние;Aufmerksamkeit
+91;доро́га;Straße, Landstraße, Weg, Fahrweg, Fahrbahn, Bahn
+92;взгляд;Ansicht, Meinung, Sichtweise, Aspekt, Gesichtspunkt
+93;усло́вие;Bedingung, Voraussetzung, Prämisse, Kondition
+94;мужчи́на;Mann
+95;любо́вь;Liebe
+96;связь;Verbindung, Zusammenhang
+97;игра́;Spiel, Spielen
+98;организа́ция;Organisation, Organisierung
+99;статья́;Artikel, Aufsatz, Beitrag
+100;сре́дство;Mittel
+101;душа́;Seele
+102;те́ло;Körper
+103;жена́;Ehefrau, Frau
+104;пора́;Zeit, Jahreszeit
+105;письмо́;Brief, Schreiben
+106;о́бщество;Gesellschaft
+107;состоя́ние;Zustand, Stand, Lage, Status, Verfassung
+108;ве́чер;Abend
+109;смысл;Sinn, Zweck
+110;семья́;Familie
+111;ме́ра;Maß, Maßeinheit, Ausmaß
+112;госуда́рство;Staat
+113;вещь;Ding, Sache, Gegenstand
+114;просто́й;einfach, leicht, simpel, unkompliziert
+115;у́тро;Morgen, Tagesanfang
+116;мать;Mutter
+117;де́вушка;Mädchen, Fräulein, junge Frau
+118;вести́;führen, geleiten
+119;стол;Tisch
+120;причи́на;Grund, Ursache, Anlass
+121;прое́кт;Projekt, Vorhaben
+122;у́лица;Straße
+123;ры́нок;Markt, Markthalle
+124;то́чка;Punkt
+125;те́ма;Thema
+126;неде́ля;Woche
+127;ко́мната;Zimmer
+128;бе́лый;weiß, das Weiß
+129;центр;Mitte, Mittelpunkt
+130;цена́;Preis
+131;сын;Sohn
+132;де́ятельность;Tätigkeit
+133;иде́я;Idee, Gedanke, Einfall
+134;пра́вило;Regel, Vorschrift, Norm
+135;движе́ние;Bewegung
+136;ма́ма;Mama, Mutti
+137;коли́чество;Quantität, Menge
+138;чу́вство;Gefühl, Emotion
+139;смерть;Tod
+140;труд;Arbeit, Werk
+141;пять;fünf, 5
+142;зада́ча;Aufgabe, Problem
+143;мне́ние;Meinung, Ansicht
+144;чёрный;schwarz, Schwarz, dunkel, düster
+145;приме́р;Beispiel, Exempel
+146;положе́ние;Lage, Position, Stellung
+147;поря́док;Ordnung
+148;век;Jahrhundert
+149;муж;Mann, Ehemann
+150;речь;Rede, Ansprache, Sprache
+151;стена́;Wand
+152;окно́;Fenster
+153;план;Plan, Planebene, Entwurf, Grundriss
+154;тип;Typ, Typus
+155;сове́т;Rat, Ratschlag, Tipp
+156;о́пыт;Erfahrung, Praxis
+157;се́рдце;Herz
+158;нау́ка;Wissenschaft
+159;сообще́ние;Mitteilung, Meldung, Bericht, Benachrichtigung
+160;управле́ние;Verwaltung, Leitung, Administration, Direktion
+161;да́нные;Daten, Werte
+162;интере́с;Interesse
+163;газе́та;Zeitung
+164;материа́л;Material
+165;роль;Rolle, Walze
+166;а́рмия;Armee
+167;собы́тие;Ereignis, Erlebnis
+168;большинство́;Großteil
+169;пра́вда;Wahrheit
+170;кра́сный;rot
+171;прави́тельство;Regierung, Kabinett
+172;суд;Gericht
+173;президе́нт;Präsident
+174;рубль;Rubel
+175;фильм;Film
+176;би́знес;Business, Geschäft
+177;миллио́н;Million
+178;культу́ра;Kultur
+179;текст;Text, Wortlaut
+180;докуме́нт;Dokument
+181;член;Mitglied
+182;телефо́н;Telefon, Fernsprecher, Telefonnummer, Nummer
+183;спо́соб;Art, Verfahren, Methode, Weg
+184;тече́ние;Verlauf, Ablauf, Lauf
+185;счёт;Rechnung
+186;роди́тель;Elternteil
+187;разгово́р;Gespräch, Unterhaltung
+188;метр;Meter, Metermaß
+189;при́нцип;Prinzip, Grundsatz
+190;сайт;Webseite
+191;пра́вый;rechts, rechter, rechte, rechtes, gerecht, recht
+192;па́ртия;Partei, Gruppe, Trupp
+193;образова́ние;Bildung, Gebilde, Schaffung
+194;пери́од;Periode, Zeitraum, Zeitspanne
+195;па́ра;Paar
+196;ряд;Reihe, eine Reihe von, eine Anzahl von
+197;кварти́ра;Wohnung
+198;значе́ние;Bedeutung, Wichtigkeit, Bedeutsamkeit, Sinn
+199;жела́ние;Wunsch, Wille
+200;но́мер;Nummer, Ausgabe, Programmnummer
+201;о́чередь;Warteschlange, Schlange
+202;поли́тика;Politik
+203;класс;Klasse, Klassenzimmer
+204;брат;Bruder
+205;произво́дство;Produktion, Fertigung, Erzeugung, Herstellung
+206;райо́н;Bezirk, Kreis, Rayon, Distrikt, Ortsteil
+207;осно́ва;Basis, Fundament
+208;измене́ние;Veränderung, Änderung
+209;факт;Fakt, Tatsache
+210;не́бо;Himmel
+211;созда́ние;Schaffung, Erschaffung, Kreation
+212;направле́ние;Richtung, Strömung, Tendenz
+213;предприя́тие;Unternehmen
+214;шаг;Schritt
+215;по́ле;Feld, Acker
+216;ход;Gang, Lauf, Bewegung
+217;иссле́дование;Forschung, Untersuchung, Erforschung, Studie
+218;кома́нда;Mannschaft, Trupp, Besatzung
+219;ма́льчик;Junge
+220;ме́тод;Methode, Verfahren
+221;встре́ча;Treffen, Verabredung, Zusammenkunft, Empfang, Spiel, Feier
+222;сон;Schlaf, Traum
+223;слу́жба;Dienst, Amt
+224;во́здух;Luft
+225;кровь;Blut
+226;зре́ние;Sehkraft, Sehvermögen, Augenlicht
+227;врач;Arzt, Ärztin, Doktor, Mediziner
+228;по́вод;Anlass, Veranlassung, Motiv, Grund, Beweggrund, Vorwand
+229;рост;Wachstum
+230;зна́ние;Wissen
+231;населе́ние;Bevölkerung, Einwohnerschaft
+232;па́лец;Finger
+233;орга́н;Orgel
+234;до́ллар;Dollar
+235;уча́стие;Teilnahme, Beteiligung
+236;род;Art, Sorte
+237;де́вочка;Mädchen, kleines Mädchen, Kleine
+238;мо́ре;Meer, die See
+239;приро́да;Natur
+240;магази́н;Geschäft, Laden
+241;испо́льзование;Verwendung, Anwendung, Einsatz, Verwertung
+242;объе́кт;Objekt
+243;па́мять;Gedächtnis
+244;свобо́да;Freiheit
+245;борьба́;Kampf, Ringen, Ringkampf
+246;назва́ние;Name, Bezeichnung, Benennung
+247;предме́т;Gegenstand, Sache, Ding, Artikel
+248;плечо́;Schulter, Achsel
+249;му́зыка;Musik
+250;самолёт;Flugzeug
+251;пози́ция;Position, Stellung, Haltung, Einstellung, Standpunkt
+252;хара́ктер;Charakter, Natur, Art, Beschaffenheit, Eigenschaft
+253;разме́р;Größe, Abmessung, Betrag, Höhe, Dimension
+254;проду́кт;Produkt
+255;геро́й;Held
+256;со́лнце;Sonne
+257;дух;Geist, Gespenst
+258;сеть;Netz, -netz
+259;представи́тель;Vertreter, Repräsentant
+260;лес;Wald
+261;журна́л;Zeitschrift, Journal, Magazin
+262;март;März
+263;террито́рия;Territorium, Gebiet, Gelände
+264;иску́сство;Kunst, Fertigkeit
+265;уча́стник;Teilnehmer, Beteiligter
+266;вариа́нт;Variante
+267;судьба́;Schicksal, Los
+268;срок;Termin
+269;институ́т;Institut
+270;гость;Gast
+271;сою́з;Bund, Bündnis
+272;Интерне́т;Internet
+273;пе́сня;Lied, Song
+274;ум;Verstand, Klugheit, Intelligenz, Intellekt, Ratio
+275;сте́пень;Grad, Maß, Stufe, Klasse
+276;успе́х;Erfolg, Gelingen
+277;па́рень;Kerl, Junge, Bursche, Bengel
+278;това́р;Ware, Artikel, Gut, Handelsobjekt, Handelsgut, Gebrauchtware, Wirtschaftsgut, Handelsartikel
+279;предложе́ние;Vorschlag, Angebot, Empfehlung
+280;река́;Fluss, Strom
+281;фи́рма;Firma
+282;граждани́н;Bürger, Staatsbürger
+283;това́рищ;Kamerad, Kollege
+284;Евро́па;Europa
+285;карти́на;Bild, Gemälde
+286;созна́ние;Bewusstsein, Besinnung
+287;апре́ль;April
+288;исто́чник;Quelle, Ursprung
+289;дире́ктор;Direktor, Leiter
+290;грани́ца;Grenze, Grenzlinie
+291;полови́на;Hälfte, Mitte
+292;опера́ция;Operation
+293;вы́бор;Wahl, Auswahl
+294;оце́нка;Note, Zensur
+295;ого́нь;Feuer
+296;моде́ль;Modell, Beispiel
+297;специали́ст;Spezialist, Experte, Fachmann
+298;соба́ка;Hund
+299;компью́тер;Computer
+300;техноло́гия;Technologie
+301;де́рево;Baum
+302;вы́ход;Ausgang
+303;гора́;Berg
+304;бе́рег;Ufer, Land
+305;кора́бль;Schiff
+306;рабо́чий;Arbeiter, Arbeiternehmer, Arbeitskraft
+307;литерату́ра;Literatur
+308;среда́;Mittwoch
+309;сотру́дник;Mitarbeiter, Kollege, der Angestellte
+310;зал;Saal, Halle, Raum
+311;во́йско;Heer, Kriegsheer, Armee, Truppe
+312;структу́ра;Struktur
+313;бой;Kampf, Gefecht, Schlacht
+314;нача́льник;Vorgesetzter, Vorsteher, Chef, Leiter
+315;край;Rand, Grenze, Ende, Kante, Grat
+316;оши́бка;Fehler, Rechenfehler
+317;це́рковь;Kirche
+318;бу́дущее;Zukunft
+319;бума́га;Papier
+320;подде́ржка;Unterstützung, Beistand, Support
+321;ли́ния;Linie, Leitung
+322;защи́та;Schutz
+323;сча́стье;Glück
+324;рома́н;Roman
+325;ве́тер;Wind
+326;соста́в;Zusammensetzung, Zutaten, Gemisch
+327;англи́йский;englisch
+328;курс;Kurs
+329;тео́рия;Theorie
+330;простра́нство;Raum, Bereich, Erstreckung
+331;во́зраст;Alter, Lebensalter
+332;поня́тие;Begriff, Konzept
+333;поведе́ние;Verhalten
+334;спина́;Rücken
+335;услу́га;Dienstleistung, Dienst, Kundendienst
+336;ору́жие;Waffe, Waffen, Mittel
+337;США;USA, Vereinigte Staaten von Amerika
+338;страх;Angst, Schrecken
+339;страни́ца;Seite
+340;па́па;Papa, Vati
+341;враг;Feind, Gegner
+342;по́иск;Suche, Recherche
+343;руководи́тель;Leiter, Führer
+344;эконо́мика;Ökonomie, Wirtschaft, Ökonomik, Wirtschaftswissenschaft
+345;хозя́ин;Besitzer, Hausherr, Herr, Herrchen
+346;ка́мень;Stein
+347;расска́з;Erzählung, Geschichte
+348;звук;Laut, Klang
+349;солда́т;Soldat
+350;наде́жда;Hoffnung
+351;ка́рта;Karte, Landkarte, Spielkarte
+352;господи́н;Herr
+353;цвет;Farbe
+354;попы́тка;Versuch, Anstrengung
+355;круг;Kreis, Ring
+356;коммента́рий;Kommentar, Erläuterung
+357;глава́;Haupt, Oberhaupt, Chef, Leiter, Kopf
+358;уда́р;Schlag, Hieb, Erschütterung
+359;клие́нт;Kunde
+360;до́ктор;Arzt, Doktor
+361;дочь;Tochter
+362;респу́блика;Republik
+363;во́лос;Haar
+364;Герма́ния;Deutschland
+365;отсу́тствие;Abwesenheit, Fehlen, Mangel
+366;проце́нт;Prozent
+367;ма́сса;Masse, Menge
+368;ба́за;Basis, Grundlage
+369;необходи́мость;Notwendigkeit, Erfordernis, Unentbehrlichkeit
+370;ве́ра;Glaube, Glaubensbekenntnis, Religion
+371;студе́нт;Student
+372;ана́лиз;Analyse, Probe
+373;зда́ние;Gebäude
+374;ребя́та;Kinder, Jugendliche, Kerle, Jungs
+375;у́гол;Ecke, Winkel
+376;ско́рость;Geschwindigkeit, Schnelligkeit, Tempo
+377;тре́бование;Forderung, Anforderung, Begehren
+378;но́вость;Neuigkeit, das Neue
+379;спи́сок;Liste, Verzeichnis
+380;представле́ние;Vorstellung, Auffassung, Idee
+381;учи́тель;Lehrer
+382;вы́вод;Folgerung, Schlußfolgerung, Herleitung
+383;догово́р;Vertrag, Abkommen
+384;эне́ргия;Energie, Tatkraft
+385;неме́цкий;deutsch, Deutsch, das Deutsche
+386;боль;Schmerz, Schmerzen
+387;безопа́сность;Sicherheit, Gefahrlosigkeit
+388;май;Mai
+389;удово́льствие;Vergnügen, Spaß, Freude, Wohlgefallen
+390;спосо́бность;Fähigkeit, Befähigung
+391;ощуще́ние;Empfindung, Gefühl
+392;а́дрес;Adresse, Anschrift, Grußadresse, Ehrenschreiben
+393;писа́тель;Schriftsteller
+394;проти́вник;Gegner, Kontrahent, Widersacher, Feind
+395;сфе́ра;Sphäre, Bereich
+396;звезда́;Stern
+397;знак;Zeichen
+398;влия́ние;Einfluss, Einwirkung
+399;грудь;Brust
+400;двор;Hof
+401;банк;Bank, Geldinstitut
+402;контро́ль;Kontrolle
+403;пункт;Punkt, Stelle, Paragraph
+404;ра́дость;Freude
+405;чужо́й;fremd
+406;фу́нкция;Funktion
+407;впечатле́ние;Eindruck, Impression
+408;содержа́ние;Inhalt, Inhaltsverzeichnis
+409;основа́ние;Grundlage, Begründung, Anlass
+410;объём;Volumen, Rauminhalt
+411;режи́м;Regime, politisches Regime
+412;во́ля;Wille
+413;киломе́тр;Kilometer
+414;ли́чность;Persönlichkeit, Person
+415;здоро́вье;Gesundheit
+416;рот;Mund
+417;регио́н;Region
+418;преде́л;Grenze, Limit, Begrenzung, Höchstgrenze, Rand
+419;чита́тель;Leser
+420;стари́к;alter Mann
+421;пра́ктика;Praxis, Erfahrung
+422;знако́мый;bekannt, vertraut
+423;побе́да;Sieg, Erfolg
+424;элеме́нт;Element, Bestandteil, Grundstoff
+425;янва́рь;Januar, Jänner
+426;руково́дство;Leitung, Führung
+427;сто́имость;Kosten, Preis
+428;а́вгуст;August
+429;секу́нда;Sekunde, Augenblick
+430;жи́тель;Einwohner
+431;мно́жество;Vielzahl, Menge, große Anzahl
+432;пра́здник;Fest, Feier
+433;су́мма;Summe
+434;команди́р;Kommandeur, Chef, Führer, Kommandant, Leiter
+435;сце́на;Szene, Episode
+436;те́хника;Technik, Fertigkeit, Techniken, Fertigkeiten
+437;подгото́вка;Vorbereitung
+438;ито́г;Ergebnis
+439;сожале́ние;Bedauern
+440;у́хо;Ohr
+441;заня́тие;Unterricht, Unterrichtsstunde
+442;существова́ние;Existenz, Dasein
+443;мужи́к;Mann, Typ
+444;октя́брь;Oktober
+445;нос;Nase
+446;существо́;Wesen, Geschöpf, Kreatur, Figur
+447;генера́л;General
+448;сентя́брь;September
+449;клуб;Klub, Club, Verein, Klubhaus
+450;ле́то;Sommer
+451;францу́зский;französisch, Französisch
+452;оде́жда;Kleidung, Bekleidung, Kleider
+453;автомоби́ль;Auto, Automobil, Kraftwagen
+454;прода́жа;Verkauf, Handel
+455;ра́мка;kleiner Rahmen, Rahmen, Umrahmung
+456;дека́брь;Dezember
+457;теа́тр;Theater
+458;университе́т;Universität
+459;произведе́ние;Werk, Arbeit
+460;СССР;UdSSR, Union der Sozialistischen Sowjetrepubliken, Sowjetunion
+461;сестра́;Schwester
+462;фонд;Fonds, Geldfonds
+463;Фра́нция;Frankreich
+464;за́пад;Westen
+465;выраже́ние;Ausdruck, Äußerung
+466;ве́рсия;Version, Fassung
+467;мини́стр;Minister
+468;це́лое;das Ganze, das (große) Ganze, Gesamtheit, ganz, voll
+469;не́мец;Deutscher
+470;губа́;Lippe
+471;а́кция;Aktie
+472;Аме́рика;Amerika
+473;цвето́к;Blume
+474;суть;das Wesentliche, Kern, Wesen, Wesenskern, Essenz, Hauptsache
+475;заво́д;Fabrik, Betrieb
+476;федера́ция;Föderation, Bund, Verband
+477;приём;Aufnahme, Annahme
+478;осо́бенность;Besonderheit
+479;дере́вня;Dorf, Weiler
+480;понима́ние;Verständnis, Auffassung, Einsicht
+481;рожде́ние;Geburt
+482;февра́ль;Februar
+483;обстоя́тельство;Umstand, Sachlage
+484;ле́вый;linker, Links-, linksgerichtet, Linke
+485;ию́нь;Juni
+486;боле́знь;Krankheit
+487;пло́щадь;Platz, Fläche, Flächeninhalt
+488;подхо́д;Ansatz, Herangehen, Herangehensweise, Vorgehen
+489;ста́нция;Station, Stelle, Amt
+490;обуче́ние;Ausbildung, Schulung
+491;за́пись;Aufzeichnung, Notiz, Aufnahme
+492;соотве́тствие;Übereinstimmung, Entsprechung, Äquivalent
+493;поэ́т;Dichter
+494;офице́р;Offizier
+495;револю́ция;Revolution
+496;рекла́ма;Reklame, Werbung, Werbeanzeige
+497;вы́боры;Wahlen, Urnengang
+498;явле́ние;Phänomen
+499;отде́л;Abteilung, Teil, Rubrik
+500;коро́ль;König
+501;фронт;Front
+502;худо́жник;Künstler
+503;живо́тное;Tier, Lebewesen
+504;по́льзователь;Nutzer, Benutzer, Anwender
+505;стиль;Stil
+506;ию́ль;Juli
+507;но́рма;Norm
+508;отве́тственность;Verantwortung, Verantwortlichkeit
+509;переда́ча;Übertragung, Sendung, Fernsehsendung, Radiosendung
+510;фра́за;Phrase
+511;определе́ние;Definition, Bestimmung
+512;рабо́тник;Arbeiter
+513;зелёный;grün
+514;да́та;Datum, Zeitpunkt, Termin
+515;фотогра́фия;Foto, Aufnahme, Fotografie, Fotografieren
+516;волна́;Welle, Woge
+517;разрабо́тка;Ausarbeitung
+518;дохо́д;Einkommen, Einkünfte, Einnahme, Ertrag
+519;капита́н;Kapitän, Hauptmann, Mannschaftskapitän
+520;уси́лие;Anstrengung, Bemühung, Einsatz
+521;профе́ссор;Professor
+522;ноя́брь;November
+523;эта́п;Etappe, Entwicklungsstufe, Teilstrecke
+524;перево́д;Übersetzung, Dolmetschen, Übertragung, Translation
+525;фа́ктор;Faktor
+526;це́нность;Wert, Wertsache, Wertgegenstand, Kostbarkeit
+527;кана́л;Kanal, Fernsehkanal
+528;сравне́ние;Vergleich, Gegenüberstellung, Gleichnis, Komparation
+529;кабине́т;Arbeitszimmer, Büro, Dienstzimmer, Fachraum
+530;чай;Tee
+531;журнали́ст;Journalist
+532;проведе́ние;Durchführung
+533;лист;Blatt, Bogen, Blech
+534;обеспе́чение;Gewährleistung, Sicherstellung, Bereitstellung
+535;коми́ссия;Komission, Ausschuß, Gremium
+536;снег;Schnee
+537;зуб;Zahn
+538;тради́ция;Tradition
+539;высота́;Höhe
+540;фо́рум;Forum
+541;председа́тель;Vorsitzender
+542;о́стров;Insel
+543;ма́стер;Meister, Handwerker, Könner
+544;ку́хня;Küche
+545;де́тство;Kindheit
+546;сад;Garten, Obstgarten
+547;карма́н;Tasche
+548;сомне́ние;Zweifel, Bedenken
+549;со́тня;Hundert, hundert
+550;деся́ток;Zehn, zehn Stück
+551;уча́сток;Grundstück, Parzelle
+552;чёрт;Teufel, Unhold
+553;про́шлое;Vergangenheit
+554;строи́тельство;Bau, Errichtung, Aufbau
+555;Украи́на;Ukraine
+556;сосе́д;Nachbar
+557;пи́во;Bier
+558;устро́йство;Gerät, Anlage
+559;слеза́;Träne, Weinen
+560;библиоте́ка;Bibliothek, Bücherei
+561;обще́ние;Kommunikation, Gespräch
+562;ча́стность;Einzelheit, Detail
+563;нали́чие;Vorhandensein, Vorliegen, Existenz
+564;отли́чие;Unterschied
+565;по́езд;Zug
+566;царь;Zar, Herrscher, König
+567;проду́кция;Produktion, Erzeugnis
+568;примене́ние;Anwendung, Verwendung
+569;пото́к;Strom, Strömung
+570;настрое́ние;Stimmung
+571;реда́кция;Redaktion
+572;плане́та;Planet
+573;толпа́;Menschenmenge, Menge, Horde, Schar, Menschenmasse
+574;поколе́ние;Generation
+575;реа́кция;Reaktion, Echo
+576;механи́зм;Mechanismus
+577;пти́ца;Vogel, seltsamer Vogel
+578;же́ртва;Opfer
+579;хозя́йство;Wirtschaft, Betrieb
+580;учени́к;Schüler
+581;достиже́ние;Erreichung, Erlangung, Erreichen
+582;органи́зм;Organismus
+583;заявле́ние;Erklärung
+584;буты́лка;Flasche
+585;свято́й;heilig
+586;рису́нок;Zeichnung, Muster
+587;музе́й;Museum
+588;мозг;Gehirn, Hirn
+589;улы́бка;Lächeln
+590;дождь;Regen
+591;по́льза;Nutzen, Gewinn, Vorteil
+592;ба́бушка;Großmutter, Oma
+593;хлеб;Brot
+594;восто́к;Osten
+595;получе́ние;Erhalt, Bezug, Bekommen
+596;помеще́ние;Raum, Unterbringungsmöglichkeit, Räumlichkeit
+597;до́ля;Anteil, Bruchteil, Teil
+598;тень;Schatten, Schattenbild
+599;инструме́нт;Instrument, Gerät
+600;наруше́ние;Verstoß, Bruch
+601;ли́дер;Führer, Leader, Spitzenreiter
+602;комите́т;Komitee, Ausschuß
+603;сла́ва;Ruhm
+604;фигу́ра;Figur, Persönlichkeit
+605;ла́герь;Lager
+606;ко́жа;Haut
+607;след;Spur, Fährte
+608;со́бственность;Eigentum, Eigenbesitz, Eigentumsrecht
+609;у́жас;Schrecken, Grauen, Entsetzen
+610;разде́л;Teil, Teilgebiet, Aufteilung
+611;реализа́ция;Realisierung, Verwirklichung, Umsetzung
+612;зави́симость;Abhängigkeit
+613;поте́ря;Verlust, Schaden, Schwund, Einbuße
+614;реа́льность;Realität, Wirklichkeit
+615;собра́ние;Versammlung
+616;экра́н;Bildschirm
+617;пост;Posten, Position, Wachposten, Stellung, Amt
+618;зима́;Winter
+619;уро́к;Unterrichtsstunde, Stunde, Lehrstunde
+620;перехо́д;Übergang, Überweg, Wechsel, Transition
+621;крова́ть;Bett
+622;вино́;Wein
+623;секс;Sex
+624;ко́мплекс;Komplex, Gesamtheit, Verbund
+625;ро́дина;Heimat, Vaterland
+626;коле́но;Knie
+627;зо́на;Zone, Gebiet, Bereich
+628;изда́ние;Ausgabe, Auflage, Edition
+629;появле́ние;Erscheinen, Erscheinung, Auftreten
+630;евре́й;Jude
+631;акт;Aktion, Handlung, Tat, Akt
+632;при́знак;Merkmal, Kennzeichen
+633;и́стина;Wahrheit
+634;эта́ж;Etage, Geschoß
+635;потре́бность;Bedarf
+636;бюдже́т;Budget, Etat, Finanzhaushalt
+637;долг;Pflicht, Verpflichtung, Verbindlichkeit
+638;храм;Tempel
+639;князь;Fürst, Prinz
+640;опа́сность;Gefahr
+641;депута́т;Abgeordneter
+642;честь;Ehre
+643;учёт;Erfassung, Registrierung, Eintragung
+644;колле́га;Kollege, Kollegin
+645;гла́вное;das Wichtigste, die Hauptsache
+646;катего́рия;Kategorie, Gattung, Klasse
+647;прика́з;Befehl, Kommando, Order
+648;администра́ция;Verwaltung, Administration
+649;глубина́;Tiefe
+650;полёт;Flug, das Fliegen, Anflug
+651;эффе́кт;Effekt, Wirkung
+652;описа́ние;Beschreibung
+653;риск;Risiko, Wagnis
+654;подру́га;Freundin
+655;ло́шадь;Pferd
+656;коридо́р;Korridor, Gang, Flur
+657;капита́л;Kapital, Vermögen, Kapitalvermögen
+658;ко́нкурс;Wettbewerb, Preisausschreiben
+659;партнёр;Partner, Mitspieler, Gegenspieler
+660;исключе́ние;Ausschluss
+661;весна́;Frühling, Frühjahr
+662;красота́;Schönheit
+663;черта́;Strich, Linie
+664;три́дцать;dreißig
+665;схе́ма;Schema
+666;ры́ба;Fisch
+667;тру́бка;kleines Rohr, Röhrchen, Röhre
+668;аппара́т;Apparat, Gerät
+669;откры́тие;Eröffnung, Enthüllung, Entdeckung
+670;чу́до;Wunder, Mysterium, übernatürliches Phänomen
+671;фами́лия;Nachname, Familienname, Name
+672;ключ;Schlüssel
+673;кре́сло;Sessel, Lehnsessel
+674;ра́зница;Unterschied
+675;министе́рство;Ministerium
+676;кино́;Kino, Film, Filmkunst, Kinematographie
+677;штат;Personal, Personalbestand
+678;нало́г;Steuer, Abgabe
+679;све́дение;Information, Meldung, Auskunft, Daten, Nachricht, Mitteilung
+680;конфли́кт;Konflikt
+681;середи́на;Mitte
+682;пода́рок;Geschenk
+683;расчёт;Berechnung, Kalkulation
+684;за́пах;Geruch, Duft
+685;преступле́ние;Verbrechen
+686;обраще́ние;Umgang, Behandlung
+687;ка́мера;Kamera
+688;столи́ца;Hauptstadt
+689;торго́вля;Handel, Handelsgewerbe
+690;больни́ца;Krankenhaus, Spital
+691;та́йна;Geheimnis
+692;эпо́ха;Epoche
+693;выполне́ние;Ausführung, Erfüllung, Erledigung, Vollziehung, Vollzug
+694;вы́ставка;Ausstellung, Auslage
+695;вы́пуск;Ausgabe, Herausgabe
+696;уваже́ние;Respekt
+697;бу́ква;Buchstabe
+698;после́дствие;Folge, Konsequenz, Ergebnis
+699;изображе́ние;Darstellung, Gestaltung, Nachzeichnung
+700;заключе́ние;Abschluss, Schluss
+701;дета́ль;Detail, Einzelheit, Einzelteil, Teil, Werkstück
+702;авто́бус;Bus, Autobus, Omnibus
+703;воспомина́ние;Erinnerung
+704;челове́чество;Menschheit
+705;ко́рпус;Gebäude, Block
+706;вкус;Geschmack
+707;заседа́ние;Sitzung, Tagung
+708;миллиа́рд;Milliarde
+709;недоста́ток;Mangel, Knappheit, Makel
+710;перспекти́ва;Perspektive, Aussicht
+711;отделе́ние;Abteilung, Station, Zweigstelle, Filiale, Abteil, Fach, Teil, Gruppe
+712;ссы́лка;Verweis, Verweisung, Referenz, Link, Hinweis, Bezugnahme, Fußnote
+713;конфере́нция;Konferenz
+714;разреше́ние;Erlaubnis, Genehmigung, Bewilligung
+715;обе́д;Mittagessen, Essen
+716;угро́за;Bedrohung, Drohung, Androhung
+717;изуче́ние;Erlernen
+718;про́сьба;Bitte
+719;вход;Eingang
+720;отря́д;Trupp, Einheit
+721;телеви́зор;Fernseher, Fernsehgerät, Fernsehapparat
+722;во́дка;Wodka, Wässerchen, Schnaps
+723;вес;Gewicht, Einfluss
+724;дед;Großvater
+725;повыше́ние;Erhöhung
+726;кры́ша;Dach
+727;звоно́к;Klingel, Klingelzeichen, Forderung
+728;печа́ть;Stempel, Siegel
+729;ра́дио;Radio, Radioapparat, Radioempfänger
+730;конта́кт;Kontakt, Fühlung, Verbindung
+731;да́ма;Dame
+732;газ;Gas, Blähungen
+733;тво́рчество;Schaffen, Wirken, Werk
+734;пове́рхность;Oberfläche
+735;брак;Ehe
+736;ах;ach, ah
+737;мероприя́тие;Veranstaltung
+738;до́ступ;Zugang
+739;устано́вка;Installation, Aufbau, Aufstellung, Einrichtung
+740;сво́йство;Eigenschaft, Beschaffenheit, Attribut, Qualität, Zug, Natur
+741;бесе́да;Gespräch, Unterhaltung, Konversation
+742;стекло́;Glas, Glasscheibe, Glaswaren
+743;ресу́рс;Ressource, Vorräte, Hilfsquelle, Quellen
+744;зада́ние;Aufgabe, Auftrag
+745;рефо́рма;Reform
+746;обя́занность;Pflicht, Verpflichtung, Pflichten
+747;биле́т;Ticket, Eintrittskarte
+748;расхо́д;Verbrauch
+749;обору́дование;Ausrüstung, Ausstattung, Anlagen
+750;владе́лец;Besitzer, Inhaber
+751;дя́дя;Onkel
+752;крик;Schrei, Geschrei
+753;сигна́л;Signal, Zeichen
+754;формирова́ние;Formation, Formierung (Bildung), Herausbildung
+755;трава́;Gras, Rasen
+756;учрежде́ние;Einrichtung, Institution, Anstalt, Behörde, Amt
+757;лече́ние;Behandlung, Therapie
+758;Кита́й;China
+759;показа́тель;Indikator, Kennzahl, Kenngröße, Kennwert, Messgröße, Index
+760;замо́к;Schloss, Türschloss
+761;я́щик;Kasten, Kiste
+762;возде́йствие;Einwirkung, Auswirkung
+763;обсужде́ние;Besprechung
+764;стул;Stuhl
+765;ска́зка;Märchen
+766;обстано́вка;Verhältnisse, Umstände, Atmosphäre
+767;расстоя́ние;Abstand, Strecke, Distanz
+768;шум;Lärm
+769;беда́;Unglück, Unheil, Misere, Leid
+770;диск;Scheibe, Platte, Disk
+771;ше́я;Hals
+772;америка́нец;Amerikaner
+773;шанс;Chance, Aussicht
+774;ко́фе;Kaffee
+775;кни́жка;Büchlein
+776;действи́тельность;Wirklichkeit, Realität
+777;чте́ние;Lesen, Lektüre, Lesung
+778;ло́дка;Boot
+779;су́тки;Tag und Nacht, 24 Stunden, Tag
+780;давле́ние;Druck
+781;уби́йство;Mord, Ermordung, Totschlag
+782;ле́стница;Treppe, Stiege
+783;потреби́тель;Verbraucher, Konsument
+784;кусо́к;Stück, Scheibe, Bissen
+785;страте́гия;Strategie
+786;набо́р;Set, Satz, Garnitur, Konvolut
+787;ци́фра;Ziffer, Zahl
+788;досто́инство;Würde, Wert, Vorzug
+789;се́рия;Serie, Reihe
+790;кадр;Bild, Filmbild, Einzelbild, Standbild, Szenenbild
+791;посте́ль;Bett
+792;штаб;Stab
+793;малы́ш;Kleiner, Kurzer, Knirps, Baby, kleiner Mann
+794;мили́ция;Miliz, Polizei
+795;процеду́ра;Prozedur, Verfahren, Heilsverfahren
+796;ожида́ние;Erwartung
+797;госпо́дь;Herr
+798;филосо́фия;Philosophie
+799;еда́;Essen, Kost, Speise
+800;смех;Lachen, Gelächter
+801;води́тель;Fahrer
+802;игро́к;Spieler
+803;блок;Block
+804;мост;Brücke
+805;пое́здка;Reise, Ausflug
+806;ра́зум;Vernunft, Verstand
+807;конце́пция;Konzept, Konzeption, Auffassung
+808;чино́вник;Beamter, Beamtin, Beamtenseele, Bürokrat
+809;субъе́кт;Subjekt
+810;тишина́;Stille, Ruhe
+811;слух;Gerücht
+812;покупа́тель;Käufer, Kunde
+813;выступле́ние;Auftritt, Darbietung
+814;увеличе́ние;Vergrößerung, Erweiterung
+815;зарпла́та;Lohn
+816;до́лжность;Amt, Dienststellung, Stelle
+817;о́сень;Herbst
+818;ро́дственник;Verwandter, Angehöriger
+819;паке́т;Paket
+820;зри́тель;Zuschauer, Zuseher, Kinobesucher, Fernsehzuschauer
+821;рестора́н;Restaurant
+822;пла́та;Zahlung, Bezahlung
+823;судья́;Richter, Richterin
+824;охра́на;Schutz, Bewahrung
+825;публика́ция;Publikation, Verröffentlichung
+826;луна́;Mond
+827;ло́гика;Logik
+828;зе́ркало;Spiegel
+829;су́щность;Wesen
+830;сле́дствие;Folge, Konsequenz, Schlußfolgerung
+831;ладо́нь;Handfläche, (innere) Hand
+832;строка́;Zeile, Reihe
+833;больно́й;krank, wund
+834;законода́тельство;Gesetzgebung
+835;мечта́;Traum, Wunschtraum
+836;пита́ние;Ernährung, Nahrung, Kost
+837;файл;Datei
+838;флот;Flotte, Marine
+839;рели́гия;Religion
+840;ко́шка;Katze
+841;зака́з;Bestellung
+842;тон;Ton, Klang, Laut, Tönung, Farbe
+843;оборо́на;Verteidigung, Abwehr
+844;прове́рка;Überprüfung, Prüfung, Kontrolle
+845;реда́ктор;Redakteur, Lektor
+846;крыло́;Flügel, Kotflügel, Tragflügel
+847;ду́ма;Gedanke
+848;запа́с;Reserve, Rücklage
+849;исполне́ние;Ausführung
+850;замести́тель;Stellvertreter, Vize-, Vertreter
+851;полко́вник;Oberst
+852;кри́зис;Krise
+853;при́быль;Gewinn, Profit
+854;спор;Streit, Auseinandersetzung, Meinungsverschiedenheit
+855;о́зеро;See
+856;дно;Boden, Grund
+857;те́рмин;Fachbegriff, Terminus, Fachwort, Fachausdruck
+858;воро́та;Tor, Pforte
+859;приня́тие;Annahme, Verabschiedung
+860;экспе́рт;Experte, Sachverständiger
+861;характери́стика;Charakteristik, Beurteilung
+862;конце́рт;Konzert
+863;дыха́ние;Atem, Atmung
+864;темнота́;Dunkelheit
+865;экспериме́нт;Experiment, Versuch
+866;аге́нтство;Agentur, Vertretung
+867;пи́ща;Nahrung, Kost, Essen
+868;се́вер;Norden
+869;интервью́;Interview
+870;поку́пка;Einkauf
+871;воспита́ние;Erziehung
+872;Христо́с;Christus
+873;сюже́т;Handlung, Gegenstand, Inhalt
+874;перегово́ры;Verhandlungen
+875;пого́да;Wetter
+876;ограниче́ние;Begrenzung, Beschränkung
+877;тенде́нция;Tendenz, Trend, Neigung
+878;прису́тствие;Anwesenheit, Präsenz
+879;кита́йский;chinesisch
+880;производи́тель;Produzent, Hersteller
+881;шу́тка;Scherz
+882;голубо́й;hellblau, himmelblau
+883;регистра́ция;Registrierung, Eintragung
+884;лётчик;Pilot, Flieger
+885;молодёжь;Jugend, die Jugendlichen, junge Leute
+886;докла́д;Bericht
+887;оконча́ние;Ende, Endung, Beendigung
+888;си́мвол;Symbol, Sinnbild
+889;кандида́т;Kandidat, Anwärter
+890;ата́ка;Attacke, Angriff
+891;кле́тка;Käfig, Kasten
+892;слой;Schicht
+893;назначе́ние;Bestimmung, Zweck
+894;сме́на;Wechsel, Ablösung, Auswechslung
+895;парк;Park
+896;тюрьма́;Gefängnis
+897;наблюде́ние;Beobachtung, Aufsicht, Kontrolle
+898;ми́нимум;Minimum
+899;мя́со;Fleisch
+900;соглаше́ние;Vereinbarung, Übereinkommen, Abkommen, Einverständnis
+901;преиму́щество;Vorteil
+902;ку́ча;Haufen, Menge
+903;поко́й;Ruhe
+904;бок;Seite, Flanke
+905;тру́дность;Schwierigkeit
+906;объясне́ние;Erklärung, Erläuterung
+907;дура́к;Idiot, Dummkopf, Schwachkopf, Trottel, Narr, Depp
+908;сотру́дничество;Zusammenarbeit, Mitarbeit, Mitwirkung, Partnerschaft
+909;фон;Hintergrund, Untergrund, Grund
+910;конь;Pferd, Ross, Springer
+911;путеше́ствие;Reise
+912;площа́дка;Platz, Plattform, Treppenabsatz
+913;взаимоде́йствие;Wechselwirkung, Zusammenarbeit, Zusammenwirken, Interaktion
+914;импе́рия;Imperium
+915;едини́ца;Einheit, Maßeinheit
+916;температу́ра;Temperatur, Fieber
+917;пла́тье;Kleid
+918;зло;das Böse, Bosheit
+919;о́тдых;Erholung, Erholungsphase
+920;труба́;Rohr, Röhre
+921;станда́рт;Standard, Norm
+922;отчёт;Bericht, Report
+923;цивилиза́ция;Zivilisation
+924;пацие́нт;Patient
+925;ста́тус;Status
+926;ма́сло;Butter
+927;ста́вка;Einsatz, Wetteinsatz
+928;вина́;Schuld, Verschulden
+929;молоко́;Milch
+930;страсть;Leidenschaft
+931;костю́м;Anzug
+932;грех;Sünde
+933;дворе́ц;Palast
+934;стака́н;Glas
+935;кот;Kater, Katze
+936;часы́;Uhr
+937;лоб;Stirn
+938;промы́шленность;Industrie, Gewerbe
+939;спорт;Sport, Sportart
+940;о́трасль;Branche, Zweig
+941;юг;Süden
+942;взрыв;Explosion
+943;обме́н;Tausch, Austausch, Umtausch
+944;демокра́тия;Demokratie
+945;стремле́ние;Streben, Bestreben
+946;отка́з;Ablehnung, Weigerung, Verzicht, Absage, Verweigerung
+947;забо́та;Sorge, Obsorge
+948;нож;Messer
+949;ваго́н;Waggon
+950;мышле́ние;Denken
+951;поли́ция;Polizei
+952;о́круг;Bezirk, Kreis
+953;вещество́;Substanz
+954;продолже́ние;Fortsetzung
+955;бла́го;Wohl
+956;нефть;Erdöl
+957;акаде́мия;Akademie
+958;сантиме́тр;Zentimeter
+959;живо́т;Bauch
+960;карти́нка;Bild, Abbildung, Bildchen
+961;шту́ка;Stück
+962;возвраще́ние;Rückkehr
+963;образе́ц;Vorbild
+964;профе́ссия;Beruf
+965;гости́ница;Hotel
+966;заболева́ние;Erkrankung, Krankheit
+967;кампа́ния;Kampagne, Feldzug, Aktion
+968;село́;Dorf, großes Dorf, größere Siedlung, Marktflecken, ländliche Kleinstadt
+969;по́чта;Post, Postamt
+970;па́уза;Pause
+971;пала́та;Krankenzimmer, Krankensaal
+972;креди́т;Kredit
+973;суббо́та;Samstag, Sonnabend
+974;уве́ренность;Zuversicht, Vertrauen, Selbstvertrauen
+975;слу́шатель;Zuhörer, Hörer
+976;лев;Löwe
+977;коллекти́в;Kollektiv, Gemeinschaft, Team, Belegschaft
+978;добро́;Gutes, Wohltat
+979;тро́е;drei
+980;уче́ние;Lehre, Lernen
+981;воскресе́нье;Sonntag
+982;доказа́тельство;Beweis
+983;спрос;Nachfrage
+984;разли́чие;Unterschied
+985;ко́рень;Wurzel
+986;пя́тница;Freitag
+987;продаве́ц;Verkäufer
+988;величина́;Größe
+989;напряже́ние;Spannung
+990;крестья́нин;Bauer
+991;преподава́тель;Hochschullehrer, Dozent, Lehrer, Lektor
+992;кольцо́;Ring
+993;доска́;Brett, Planke, Bohle
+994;япо́нский;japanisch
+995;верши́на;Gipfel, Berggipfel, Wipfel, Baumwipfel
+996;секре́т;Geheimnis
+997;эффекти́вность;Effektivität
+998;иму́щество;Vermögen, Eigentum
+999;строй;Ordnung, Struktur
+1000;ру́чка;Stift, Schreibstift, Füller, Federhalter
+1001;персона́ж;Figur, handelnde Person, Persönlichkeit
+1002;утвержде́ние;Behauptung
+1003;понеде́льник;Montag
+1004;портре́т;Porträt
+1005;поро́г;Schwelle, Türschwelle, Stromschnelle
+1006;объедине́ние;Vereinigung, Zusammenschluß
+1007;остально́е;Rest
+1008;се́ктор;Sektor, Kreisausschnitt, Abteilung, Zweig
+1009;приложе́ние;Anwendung
+1010;подро́бность;Einzelheit, Detail
+1011;луч;Strahl
+1012;привы́чка;Gewohnheit, Angewohnheit
+1013;пре́сса;Presse
+1014;эмо́ция;Emotion
+1015;испыта́ние;Prüfung, Test, Versuch
+1016;восприя́тие;Wahrnehmung, Empfinden, Auffassung
+1017;лейтена́нт;Leutnant
+1018;наступле́ние;Eintritt, Anbruch, Beginn
+1019;актёр;Schauspieler
+1020;тра́нспорт;Transport, Beförderung, Verkehrwesen, Verkehrsmittel, Beförderungsmittel
+1021;хвост;Schwanz, Ende
+1022;свиде́тель;Zeuge, Augenzeuge, Trauzeuge
+1023;килогра́мм;Kilogramm
+1024;удивле́ние;Überraschung
+1025;экза́мен;Prüfung, Examen
+1026;цикл;Zyklus, Reihe, Folge
+1027;ме́неджер;Manager
+1028;су́мка;Tasche, Handtasche
+1029;на́дпись;Aufschrift, Inschrift
+1030;зо́лото;Gold, Goldmedaille
+1031;сигаре́та;Zigarette
+1032;цита́та;Zitat
+1033;полоса́;Streifen, Band, Landstrich
+1034;о́блако;Wolke
+1035;взро́слый;erwachsen
+1036;ре́йтинг;Bewertung, Rating
+1037;похо́д;Wanderung, Ausflug, Besuch, Marsch, Kampagne
+1038;указа́ние;Anweisung, Weisung, Instruktion, Anordnung
+1039;веду́щий;führend
+1040;том;Band
+1041;посту́пок;Handlung, Tat
+1042;па́мятник;Denkmal, Monument
+1043;атмосфе́ра;Atmosphäre
+1044;о́фис;Büro
+1045;проявле́ние;Ausdruck, Bezeigung, Bekundung, Äußerung
+1046;на́ция;Nation
+1047;телеви́дение;Fernsehen
+1048;инвести́ция;Investition
+1049;инжене́р;Ingenieur, Diplomingenieur
+1050;знако́мство;Bekanntschaft
+1051;дневни́к;Tagebuch
+1052;Петербу́рг;St. Petersburg
+1053;аспе́кт;Aspekt, Gesichtspunkt
+1054;оста́ток;Rest, Überbleibsel, Relikt
+1055;кно́пка;Knopf, Taste, Button
+1056;сде́лка;Geschäft, Abmachung, Abkommen, Handel
+1057;режиссёр;Regisseur
+1058;океа́н;Ozean
+1059;оте́ль;Hotel
+1060;ба́ба;Weib, Bauernfrau
+1061;распростране́ние;Verbreitung, Ausbreitung, Ausdehnung
+1062;секрета́рь;Sekretär, Schriftführer, Protokollführer
+1063;мгнове́ние;Augenblick, Moment
+1064;посети́тель;Besucher
+1065;архи́в;Archiv, Aktei, Dokumentensammlung
+1066;сохране́ние;Bewahrung, Aufbewahrung, Verwahrung
+1067;импера́тор;Imperator
+1068;вселе́нная;Weltall, Universum
+1069;СМИ;Massenmedien, Masseninformationsmittel, Medien
+1070;губерна́тор;Gouverneur
+1071;уме́ние;Fähigkeit, Fertigkeit
+1072;ста́дия;Stadium, Phase
+1073;инициати́ва;Initiative, Begehren
+1074;призна́ние;Anerkennung, Würdigung
+1075;масшта́б;Maßstab, Ausmaß, Maß
+1076;ремо́нт;Reparatur, Instamdsetzung
+1077;пятна́дцать;fünfzehn
+1078;дым;Rauch
+1079;та́нец;Tanz
+1080;распоряже́ние;Anordnung, Verfügung, Anweisung, Befehl
+1081;ле́кция;Vorlesung, Vortrag
+1082;опла́та;Bezahlung
+1083;вероя́тность;Wahrscheinlichkeit
+1084;щека́;Wange, Backe
+1085;пара́метр;Parameter
+1086;аге́нт;Agent, Informant, Kundschafter, Spion
+1087;согла́сие;Zustimmung, Zusage
+1088;рубе́ж;Grenze, Linie
+1089;коро́бка;Kasten, Schachtel, Box
+1090;крите́рий;Kriterium
+1091;ма́рка;Marke, Briefmarke, Wertmarke, Handelsmarke
+1092;происхожде́ние;Herkunft, Abstammung, Ursprung
+1093;прия́тель;Kumpel, Kamerad
+1094;пу́блика;Publikum, Besucher, Zuschauer
+1095;вуз;Hochschule
+1096;моли́тва;Gebet
+1097;се́рвер;Server
+1098;метро́;U-Bahn, Metro
+1099;эфи́р;Sendung
+1100;табли́ца;Tabelle, Liste
+1101;сопротивле́ние;Widerstand
+1102;длина́;Länge
+1103;кри́тика;Kritik
+1104;уда́ча;Glück, gutes Gelingen, Erfolg
+1105;дру́жба;Freundschaft
+1106;наме́рение;Absicht, Intention
+1107;крест;Kreuz
+1108;сниже́ние;Senkung, Verringerung, Reduzierung, Ermäßigung
+1109;сбор;Sammlung, Einsammeln, Erhebung, Beitreibung
+1110;протяже́ние;Länge, Ausdehnung, Strecke, Zeitspanne
+1111;у́жин;Abendessen, Abendbrot
+1112;колесо́;Rad
+1113;дви́гатель;Motor
+1114;переме́на;Veränderung, Änderung
+1115;тала́нт;Talent, Begabung
+1116;приве́т;Hallo, Grüß dich, Grüß euch
+1117;диску́ссия;Diskussion, Erörterung, Debatte
+1118;свяще́нник;Priester, Pfarrer
+1119;поворо́т;Kurve, Abbiegung
+1120;труп;Leiche, Leichnam
+1121;сочине́ние;Aufsatz, verfasste Schrift
+1122;упражне́ние;Übung, Training, Trainieren
+1123;наказа́ние;Strafe, Bestrafung
+1124;автома́т;Automat
+1125;зверь;Tier
+1126;ю́ноша;junger Mann, Jüngling, Junior, Junge
+1127;семина́р;Seminar
+1128;дива́н;Sofa, Couch
+1129;нарко́тик;Droge, Rauschgift
+1130;меч;Schwert
+1131;сло́жность;Schwierigkeit, Kompliziertheit
+1132;мешо́к;Sack, Beutel
+1133;со́весть;Gewissen
+1134;пре́мия;Prämie, Preis, Leistungsprämie
+1135;пассажи́р;Passagier, Fahrgast, Fluggast
+1136;поэ́зия;Poesie
+1137;обрабо́тка;Bearbeitung, Behandlung
+1138;психоло́гия;Psychologie, Mentalität
+1139;жильё;Unterkunft, Quartier, Behausung
+1140;код;Code, Kode, Schlüssel, Vorwahlnummer
+1141;помо́щник;Helfer, Gehilfe
+1142;Ита́лия;Italien
+1143;экипа́ж;Besatzung, Mannschaft
+1144;сцена́рий;Drehbuch
+1145;лёд;Eis
+1146;предпринима́тель;Unternehmer
+1147;ассоциа́ция;Assoziation, Gedankenverbindung
+1148;спекта́кль;Aufführung, Theaterstück, Vorstellung
+1149;кра́ска;Farbe, Färbung
+1150;раке́та;Rakete
+1151;постановле́ние;Verordnung, Beschluss, Resolution
+1152;свиде́тельство;Zeugnis, Bezeugung, Zeugenaussage
+1153;потоло́к;Decke, Zimmerdecke
+1154;аудито́рия;Auditorium, Zuhörerschaft, Zuhörer
+1155;песо́к;Sand
+1156;грязь;Schmutz, Dreck
+1157;а́нгел;Engel
+1158;монасты́рь;Kloster
+1159;анекдо́т;Anekdote
+1160;маршру́т;Route, Reiseroute, Wanderroute, Strecke, Linie
+1161;о́тпуск;Urlaub
+1162;соо́бщество;Gemeinschaft, Gesellschaft
+1163;пыль;Staub
+1164;паде́ние;Fall, Verfall, Untergang, Niedergang
+1165;расте́ние;Pflanze
+1166;аргуме́нт;Argument, Beweis
+1167;введе́ние;Einführung
+1168;бое́ц;Kämpfer
+1169;ткань;Stoff
+1170;нужда́;Bedürfnis, Bedürftigkeit
+1171;го́рло;Hals, Mündung
+1172;до́чка;Tochter
+1173;кость;Knochen
+1174;сто́лик;Tischchen, kleiner Tisch, Beistelltisch
+1175;яйцо́;Ei
+1176;склад;Lager, Lagerraum, Vorratsraum, Speicherraum
+1177;темп;Tempo
+1178;запро́с;Anfrage, Aufforderung, Forderung
+1179;адвока́т;Anwalt, Rechtsanwalt
+1180;форма́т;Format
+1181;пистоле́т;Pistole
+1182;подро́сток;Jugendlicher, Teenager
+1183;бо́мба;Bombe
+1184;ухо́д;Pflege, Versorgung
+1185;заведе́ние;Einrichtung
+1186;ба́шня;Turm
+1187;го́ре;Kummer, Gram, Kümmernis, Verdruss
+1188;хозя́йка;Besitzerin, Hausherrin, Frau des Hauses, Hausfrau
+1189;на́вык;Fertigkeit
+1190;бога́тство;Reichtum
+1191;пораже́ние;Niederlage
+1192;подразделе́ние;Unterteilung, Untergliederung, Gliederung
+1193;моти́в;Motiv, Beweggrund, Melodie
+1194;туале́т;Toilette
+1195;ба́нка;Glas, Konservenglas, Einmachglas
+1196;остано́вка;Haltestelle, Station
+1197;трево́га;Angst, Alarm, Aufregung
+1198;оборо́т;Wendung, Rückseite
+1199;порт;Hafen
+1200;су́дно;Schiff
+1201;плод;Frucht
+1202;борт;Bord, Bordwand, Seitenwand, Borte, Bande
+1203;соедине́ние;Verbindung
+1204;контра́кт;Vertrag, Kontrakt
+1205;сва́дьба;Hochzeit
+1206;дове́рие;Vertrauen
+1207;диало́г;Dialog, Zwiegespräch
+1208;тума́н;Nebel
+1209;восто́рг;Begeisterung, Entzücken
+1210;прибо́р;Gerät, Instrument
+1211;то́чность;Genauigkeit, Exaktheit, Präzision
+1212;девчо́нка;Mädchen, Göre, Mädel
+1213;персона́л;Personal
+1214;молча́ние;Schweigen
+1215;мальчи́шка;Junge, Knabe
+1216;очки́;Brille
+1217;конститу́ция;Verfassung, Grundgesetz
+1218;ко́декс;Kodex
+1219;опера́тор;Operator, Bediener
+1220;бере́менность;Schwangerschaft
+1221;майо́р;Major
+1222;иссле́дователь;Forscher, Erforscher
+1223;францу́з;Franzose
+1224;препара́т;Präparat
+1225;игру́шка;Spielzeug
+1226;констру́кция;Konstruktion, Aufbau, Bauart, Bau
+1227;сезо́н;Saison, Jahreszeit
+1228;фо́рмула;Formel
+1229;рассмотре́ние;Betrachtung, Durchsicht, Untersuchung, Prüfung, Erörterung, Behandlung
+1230;наси́лие;Gewalt, Zwang
+1231;кула́к;Faust
+1232;жест;Geste
+1233;англича́нин;Engländer
+1234;фи́зика;Physik
+1235;ка́рточка;Karte, Kärtchen, Bildkärtchen
+1236;брига́да;Brigade
+1237;обслу́живание;Bedienung
+1238;спасе́ние;Rettung, Bergung
+1239;лаборато́рия;Labor
+1240;ка́пля;Tropfen, ein bißchen, ein wenig
+1241;па́спорт;Pass, Personalausweis, Ausweis, Reisepass
+1242;по́лка;Regal, Ablage, Regalbrett, Regalfach
+1243;ги́бель;Untergang, Verfall, Tod
+1244;вы́зов;Herausforderung, Aufforderung,
+1245;дар;Gabe, Begabung
+1246;протоко́л;Protokoll
+1247;акти́вность;Aktivität, Tatkraft
+1248;рекоменда́ция;Empfehlung
+1249;объявле́ние;Ankündigung, Bekanntmachung, Ansage, Durchsage, Verkündung, Aushang, Information
+1250;лека́рство;Medizin, Arzneimittel, Heilmittel
+1251;посёлок;Siedlung, Ansiedling
+1252;выска́зывание;Äußerung, Erklärung
+1253;карье́ра;Karriere, Laufbahn
+1254;замеча́ние;Bemerkung, Anmerkung, Äußerung, Hinweis
+1255;моро́з;Frost
+1256;альбо́м;Album
+1257;вокза́л;Bahnhof
+1258;справедли́вость;Gerechtigkeit, Berechtigtheit
+1259;страда́ние;Leiden, Qual
+1260;шар;Kugel, Ball
+1261;поли́тик;Politiker
+1262;запи́ска;Zettel, Notiz
+1263;да́ча;Datscha, Wochenendhaus, Sommerfrische
+1264;осуществле́ние;Durchführung, Verwirklichung, Durchsetzung, Ausübung, Erfüllung
+1265;ко́смос;Kosmos, Weltall, Weltraum
+1266;изде́лие;Produkt, Erzeugnis, Ware, Arbeitsgut
+1267;гара́нтия;Garantie
+1268;противоре́чие;Widerspruch, Gegensatz, Diskrepanz
+1269;обяза́тельство;Verpflichtung, Obliegenheit
+1270;моги́ла;Grab
+1271;ору́дие;Werkzeug, Gerät, Instrument
+1272;миг;Augenblick
+1273;подъе́зд;Eingang, Hauseingang, Aufgang, Treppenflur
+1274;тест;Test
+1275;украи́нский;ukrainisch
+1276;груз;Fracht, Ladung
+1277;пятно́;Fleck, Flecken
+1278;коммуни́ст;Kommunist
+1279;инстру́кция;Instruktion, Anweisung, Anleitung, Vorschrift, Gebrauchsanweisung
+1280;воображе́ние;Vorstellungskraft, Einbildung, Phantasie, Fantasie
+1281;пу́ля;Kugel, Projektil
+1282;построе́ние;Aufbau
+1283;охо́та;Jagd
+1284;кафе́;Café
+1285;по́чва;Boden, Erdboden
+1286;би́тва;Schlacht
+1287;факульте́т;Fakultät
+1288;мето́дика;Methodik
+1289;стихотворе́ние;Gedicht
+1290;сбо́рник;Sammlung
+1291;разве́дка;Aufklärung, Erkundung
+1292;куст;Busch
+1293;хо́лод;Kälte
+1294;одино́чество;Einsamkeit
+1295;фанта́зия;Phantasie, Einbildungskraft, Phantasiegebilde, Trugbild, Phantasterei, Einfall, Grille, Laune, Fantasie, Improvisation
+1296;плюс;Plus, plus, Pluszeichen
+1297;ми́на;Mine
+1298;уще́рб;Schaden, Nachteil, Verlust
+1299;волк;Wolf
+1300;пала́тка;Zelt, Bude, Verkaufsstand, Kiosk
+1301;расшире́ние;Erweiterung, Ausbau
+1302;сало́н;Salon, Vorführraum, Fahrgastraum, Kabine
+1303;тепло́;Wärme
+1304;столе́тие;Jahrhundert
+1305;вы́стрел;Schuss
+1306;го́лод;Hunger, Hungersnot
+1307;костёр;Lagerfeuer, Feuer, Scheiterhaufen
+1308;победи́тель;Sieger
+1309;шкаф;Schrank
+1310;траге́дия;Tragödie
+1311;жанр;Genre
+1312;четве́рг;Donnerstag
+1313;холм;Hügel
+1314;не́нависть;Hass
+1315;фестива́ль;Festival, Festspiele
+1316;ко́пия;Kopie, Abschrift, Zweitschrift, Abzug
+1317;удовлетворе́ние;Befriedigung, Erfüllung
+1318;у́зел;Knoten, Bündel
+1319;частота́;Frequenz
+1320;психо́лог;Psychologe
+1321;финанси́рование;Finanzierung
+1322;вред;Schaden, Nachteil
+1323;идеоло́гия;Ideologie
+1324;кома́ндование;Kommando, Leitung, Truppenführung
+1325;убежде́ние;Überzeugung, Überreden, Überzeugen
+1326;вто́рник;Dienstag
+1327;зва́ние;Rang, Dienstgrad, Titel
+1328;обвине́ние;Beschuldigung, Anschuldigung, Anklage
+1329;литр;Liter
+1330;уче́бник;Lehrbuch, Schulbuch
+1331;гото́вность;Bereitschaft, Bereitwilligkeit
+1332;ле́нта;Band, Schleife, Streifen
+1333;спу́тник;Satellit, Trabant
+1334;нагру́зка;Belastung, Auslastung, Last
+1335;цепь;Kette
+1336;идеа́л;Ideal
+1337;эпизо́д;Episode
+1338;визи́т;Besuch, Visite
+1339;о́рден;Orden
+1340;парла́мент;Parlament
+1341;скала́;Fels, Felsen
+1342;собо́р;Kathedrale, Dom, Münster
+1343;коло́нна;Säule
+1344;конте́кст;Kontext, Zusammenhang
+1345;соревнова́ние;Wettbewerb, Wettkampf, Wettstreit
+1346;конкуре́нция;Konkurrenz
+1347;глу́пость;Dummheit
+1348;городо́к;Städtchen, KIeinstadt
+1349;ро́за;Rose
+1350;люби́тель;Liebhaber, Fan
+1351;распределе́ние;Verteilung, Einteilung, Einsatz, Absolventeneinsatz
+1352;обзо́р;Überblick, Übersicht
+1353;прете́нзия;Anspruch, Forderung
+1354;руба́шка;Hemd
+1355;корреспонде́нт;Korrespondent, Berichterstatter
+1356;за́втрак;Frühstück
+1357;нападе́ние;Angriff, Sturm
+1358;бар;Bar
+1359;тоска́;Sehnsucht, Öde, Langeweile
+1360;пе́нсия;Rente
+1361;тури́ст;Tourist, Wanderer
+1362;мо́да;Mode
+1363;восстановле́ние;Wiederherstellung, Restauration, Restaurierung
+1364;разрабо́тчик;Entwickler, Konstrukteur
+1365;еди́нство;Einheit
+1366;инве́стор;Investor
+1367;возникнове́ние;Entstehung
+1368;сте́нка;kleine Wand, Wand, Wandung
+1369;музыка́нт;Musiker
+1370;мо́щность;Leistung, Kapazität
+1371;пье́са;Stück, Aufführung, Spiel
+1372;десятиле́тие;Jahrzehnt, der zehnte Jahrestag
+1373;изве́стие;Nachricht
+1374;иностра́нец;Ausländer
+1375;экспеди́ция;Expedition
+1376;улучше́ние;Verbesserung
+1377;прогре́сс;Fortschritt
+1378;я́блоко;Apfel
+1379;короле́ва;Königin
+1380;по́яс;Gürtel, Gurt, Hosengürtel
+1381;ме́стность;Örtlichkeit
+1382;стару́ха;alte Frau, Alte
+1383;аэродро́м;Flugplatz
+1384;сою́зник;Verbündeter, Alliierter
+1385;аэропо́рт;Flughafen
+1386;дисципли́на;Disziplin
+1387;А́зия;Asien
+1388;миф;Mythos
+1389;сокраще́ние;Kürzung, Reduzierung, Kontraktion, Verringerung, Verkürzung, Abbau
+1390;сапо́г;Stiefel
+1391;ме́лочь;Kleinigkeit, Bagatelle, Nichtigkeit
+1392;кусо́чек;Stückchen, ein kleines Stück
+1393;жа́лоба;Beschwerde
+1394;спра́ва;rechts, rechter Hand
+1395;конкуре́нт;Konkurrent, Mitbewerber, Konkurrenz
+1396;ма́ска;Maske, Larve
+1397;коро́ва;Kuh
+1398;потребле́ние;Verbrauch, Konsum
+1399;освобожде́ние;Befreiung
+1400;напи́ток;Getränk
+1401;по́дпись;Unterschrift
+1402;матема́тика;Mathematik
+1403;авторите́т;Autorität, Ansehen
+1404;отраже́ние;Reflexion, Spiegelbild, Widerhall, Abbild
+1405;мото́р;Motor
+1406;кремль;Kreml
+1407;по́льский;polnisch
+1408;измере́ние;Messung, Dimension
+1409;сту́дия;Studio, Atelier, Probebühne
+1410;по́весть;Erzählung
+1411;компоне́нт;Komponente, Bestandteil
+1412;неве́ста;Braut, die Verlobte
+1413;го́рдость;Stolz
+1414;вклад;Beitrag, Einsatz, Mitwirkung
+1415;мета́лл;Metall
+1416;Русь;Rus
+1417;пребыва́ние;Aufenthalt
+1418;ложь;Lüge
+1419;катастро́фа;Katastrophe, Katastrophenfall, Unglück
+1420;про́филь;Profil
+1421;эксплуата́ция;Ausbeutung, Nutzbarmachung
+1422;кварта́л;Quartal, Vierteljahr
+1423;пожа́р;Brand, Feuer, Brandfall, Feuersbrunst
+1424;подъём;Aufstieg, Ansteigen, Hebung, Besteigung, Heben
+1425;стати́стика;Statistik
+1426;проце́ссор;Prozessor, Mikroprozessor
+1427;руль;Lenkrad, Lenker, Lenkstange
+1428;уби́йца;Mörder, Mörderin
+1429;шесто́й;sechster
+1430;супру́г;Ehemann, Ehepartner, Gatte
+1431;прогно́з;Prognose
+1432;собесе́дник;Gesprächspartner
+1433;свида́ние;Verabredung, Date, Rendezvous
+1434;то́нна;Tonne
+1435;медве́дь;Bär
+1436;платфо́рма;Plattform
+1437;са́хар;Zucker
+1438;эволю́ция;Evolution
+1439;пусты́ня;Wüste
+1440;ме́бель;Möbel, Einrichtung
+1441;оби́да;Kränkung
+1442;горизо́нт;Horizont
+1443;сочета́ние;Kombination
+1444;арти́ст;Künstler, Schauspieler, Artist
+1445;ча́шка;Tasse
+1446;съезд;Kongress, Tagung, Ankunft, Zusammenkunft
+1447;принц;Prinz
+1448;спра́вка;Bescheinigung, Nachweis
+1449;приобрете́ние;Erwerb, Anschaffung, Kauf
+1450;гра́фик;Zeitplan, Terminplan, Plan
+1451;профессиона́л;Profi, Fachmann
+1452;фило́соф;Philosoph
+1453;гнев;Zorn, Wut
+1454;ве́тка;Zweig, Ast
+1455;сла́бость;Schwäche, schwache Seite
+1456;де́душка;Großvater, Opa
+1457;кре́пость;Festung, Burg
+1458;опро́с;Umfrage, Erhebung, Abfrage, Rundfrage
+1459;консульта́нт;Berater
+1460;незави́симость;Unabhängigkeit, Eigenständigkeit (Autonomie), Selbständigkeit
+1461;свеча́;Kerze
+1462;катало́г;Katalog
+1463;доли́на;Tal
+1464;ствол;Stamm, Schaft, Strang
+1465;колле́кция;Sammlung
+1466;забо́р;Zaun
+1467;отча́яние;Verzweiflung
+1468;благода́рность;Dankbarkeit, Erkenntlichkeit
+1469;награ́да;Auszeichnung, Belohnung, Lohn, Prämie, Preis
+1470;фо́то;Foto, Bild
+1471;установле́ние;Festlegung, Bestimmung, Festsetzung, Einführung
+1472;оппози́ция;Opposition
+1473;гра́дус;Grad
+1474;таре́лка;Teller
+1475;предположе́ние;Vermutung, Annahme, Mutmaßung
+1476;ступе́нь;Stufe
+1477;молоде́ц;Prachtkerl
+1478;хране́ние;Aufbewahrung, Verwahrung
+1479;изда́тельство;Verlag
+1480;экземпля́р;Exemplar
+1481;неуда́ча;Misserfolg, Pech, Schlappe
+1482;исто́рик;Historiker, Geschichtsforscher
+1483;ядро́;Kern, Kugel
+1484;пре́док;Vorfahr, Urahn
+1485;медици́на;Medizin
+1486;му́дрость;Weisheit
+1487;россия́нин;Russe, Bürger Russlands, russischer Staatsbürger
+1488;сок;Saft
+1489;течь;fließen, strömen, quellen, auslaufen
+1490;престу́пник;Verbrecher
+1491;расположе́ние;Lage, Anordung, Position, Standort, Aufstellung
+1492;слова́рь;Wörterbuch, Wörterverzeichnis
+1493;ра́на;Wunde
+1494;ка́федра;Lehrstuhl, Kathedra, Professur
+1495;блю́до;Speise, Gericht, Platte
+1496;зака́зчик;Besteller, Kunde, Auftraggeber
+1497;посо́л;Botschafter
+1498;мышь;Maus
+1499;верёвка;Seil, Strick, Schnur, Leine
+1500;по́за;Pose, Haltung
+1501;волне́ние;Aufregung, Unruhe
+1502;ла́па;Pfote, Tatze
+1503;тётя;Tante
+1504;размышле́ние;Nachdenken
+1505;мука́;Mehl
+1506;архитекту́ра;Architektur, Baukunst, Baustil
+1507;обы́чай;Brauch, Sitte, Gewohnheit, Usus
+1508;шко́льник;Schüler, Schuljunge
+1509;ветера́н;Veteran
+1510;ла́мпа;Lampe, Leuchte, Röhre
+1511;лице́нзия;Lizenz
+1512;мате́рия;Materie
+1513;прогу́лка;Spaziergang, Spazierfahrt
+1514;разры́в;Riss, Ruptur
+1515;пустота́;Leere, Vakuum
+1516;заме́на;Ersatz, Ersetzung
+1517;трениро́вка;Training, Trainieren, Übung
+1518;мо́лодость;Jugend
+1519;ю́мор;Humor
+1520;А́фрика;Afrika
+1521;пригово́р;Urteil
+1522;алкого́ль;Alkohol
+1523;диза́йн;Design, Formgestaltung
+1524;рассле́дование;Untersuchung, Ermittlung
+1525;просмо́тр;Durchsicht
+1526;уничтоже́ние;Vernichtung, Ausrottung, Zerstörung, Beseitigung, Abschaffung
+1527;спа́льня;Schlafzimmer, Schlafraum
+1528;попра́вка;Korrektur, Verbesserung
+1529;про́за;Prosa
+1530;поста́вка;Lieferung, Belieferung, gewerbliche Lieferung
+1531;сканда́л;Skandal, Radau, Krach
+1532;соотноше́ние;Verhältnis, Relation, Wechselbeziehung, Korrelation
+1533;ад;Hölle, Inferno
+1534;одея́ло;Bettdecke, Decke
+1535;мы́шца;Muskel
+1536;укрепле́ние;Stärkung
+1537;учёба;Studium
+1538;фа́брика;Fabrik, Betrieb
+1539;пеще́ра;Höhle
+1540;монито́р;Monitor, Bildschirm
+1541;матч;Match, Wettkampf, Spiel
+1542;поду́шка;Kissen
+1543;препя́тствие;Hindernis
+1544;фона́рь;Laterne
+1545;лифт;Aufzug, Lift, Fahrstuhl
+1546;департа́мент;Abteilung, Sachgebiet, Ministerium
+1547;подтвержде́ние;Bestätigung
+1548;батаре́я;Batterie, Akku
+1549;се́рвис;Service, Kundendienst
+1550;флаг;Flagge
+1551;посо́бие;Beihilfe, Unterstützung
+1552;приключе́ние;Abenteuer
+1553;доро́жка;Weg, Fuß­weg, Pfad
+1554;неприя́тность;Unannehmlichkeit, Ärger
+1555;внук;Enkel
+1556;посла́ние;Botschaft, Schreiben, Nachricht, Message
+1557;рассве́т;Morgendämmerung, Morgengrauen
+1558;пляж;Strand, Badestrand
+1559;че́тверть;Viertel
+1560;вор;Dieb
+1561;любопы́тство;Neugier, Neugierde
+1562;эли́та;Elite
+1563;оформле́ние;Gestaltung, Ausgestaltung, Aufmachung
+1564;по́двиг;Heldentat, Großtat, heroische Aktion
+1565;ритм;Rhythmus
+1566;заверше́ние;Beendigung, Abschluss
+1567;голосова́ние;Abstimmung
+1568;о́тзыв;Bewertung, Kritik
+1569;нерв;Nerv
+1570;пило́т;Pilot, Flugzeugführer
+1571;иллю́зия;Illusion, Täuschung
+1572;христиани́н;Christ
+1573;акаде́мик;Akademiker, Akademiemitglied
+1574;выходно́й;arbeitsfrei
+1575;тра́сса;Trasse, Bahn, Strecke
+1576;ге́ний;Genie
+1577;тя́жесть;Schwere, Gewicht
+1578;запре́т;Verbot
+1579;уголо́к;Ecke, Winkel, Winkelchen
+1580;тре́нер;Trainer
+1581;вы́года;Vorteil, Nutzen
+1582;рок;Schicksal, Verhängnis
+1583;москви́ч;Moskauer
+1584;переры́в;Unterbrechung
+1585;бассе́йн;Schwimmbad
+1586;употребле́ние;Gebrauch, Benutzung
+1587;гроб;Sarg
+1588;мэр;Bürgermeister
+1589;каби́на;Kabine, Kanzel
+1590;зая́вка;Anmeldung
+1591;кри́тик;Kritiker
+1592;ку́ртка;Jacke, Blouson, Windjacke
+1593;внедре́ние;Einführung
+1594;бельё;Wäsche
+1595;носи́тель;Träger
+1596;обще́ственность;Öffentlichkeit, gesellschaftliche Organisationen
+1597;милиционе́р;Milizionär
+1598;чи́сленность;Anzahl, Stärke
+1599;валю́та;Währung
+1600;кла́дбище;Friedhof
+1601;ико́на;Ikone
+1602;после́довательность;Reihenfolge, Folge, Aufeinanderfolge, Abfolge, Sequenz
+1603;полице́йский;polizeilich, Polizei-
+1604;проте́ст;Protest
+1605;боти́нок;Schuh
+1606;две́сти;zweihundert
+1607;показа́ние;Aussage, Bezeugung
+1608;специа́льность;Fachbereich, Fach, Fachgebiet, Beruf
+1609;поса́дка;Landung
+1610;холоди́льник;Kühlschrank, Kühlraum, Kühlwagen
+1611;шо́у;Show
+1612;копе́йка;Kopeke
+1613;стих;Vers
+1614;террори́ст;Terrorist
+1615;учи́лище;Lehranstalt, Schule, Bildungseinrichtung
+1616;инвали́д;Behinderter, Invalide
+1617;подря́д;hintereinander, der Reihe nach, nacheinander
+1618;чемода́н;Koffer
+1619;приглаше́ние;Einladung, Aufforderung
+1620;ро́ды;Geburt, Entbindung
+1621;пёс;männlicher Hund, Rüde
+1622;младе́нец;Säugling, Kleinkind
+1623;подозре́ние;Verdacht
+1624;фрагме́нт;Fragment, Bruchstück
+1625;постано́вка;Aufführung, Inszenierung
+1626;дыра́;Loch
+1627;сраже́ние;Kampf, Schlacht, Gefecht
+1628;бала́нс;Bilanz
+1629;мо́рда;Maul, Gesicht, Fresse, Schnauze
+1630;подва́л;Keller
+1631;ви́за;Visum, Sichtvermerk
+1632;э́хо;Echo, Widerhall
+1633;социали́зм;Sozialismus
+1634;хор;Chor
+1635;рука́в;Ärmel
+1636;разруше́ние;Zerstörung, Vernichtung
+1637;столо́вая;Kantine, Mensa, Speisegaststätte
+1638;верх;oben
+1639;шеф;Chef, Pate
+1640;посеще́ние;Besuch
+1641;па́лка;Stock
+1642;плита́;Herd, Kochherd
+1643;бровь;Augenbraue, Braue
+1644;рай;Paradies
+1645;перево́дчик;Übersetzer, Dolmetscher
+1646;равнове́сие;Gleichgewicht, Parität
+1647;сле́дователь;Ermittler, Untersuchungsführer
+1648;обеща́ние;Versprechen
+1649;посо́льство;Botschaft
+1650;прие́зд;Ankunft
+1651;быт;Alltag, Alltagsleben, Lebensweise, Lebensformen, Lebensbedingungen
+1652;мастерска́я;Werkstatt, Atelier
+1653;прохо́д;Durchgang, Passage
+1654;па́чка;Päckchen, Packung
+1655;плани́рование;Planung, Schwebeflug, Gleitflug
+1656;Би́блия;Bibel
+1657;бизнесме́н;Geschäftsmann
+1658;настро́йка;Einstellung
+1659;ветвь;Ast, Zweig
+1660;производи́тельность;Produktivität, Leistungsfähigkeit
+1661;грамм;Gramm
+1662;такси́;Taxi
+1663;треть;Drittel
+1664;плато́к;Kopftuch, Tuch
+1665;кита́ец;Chinese
+1666;рак;Krebs
+1667;программи́ст;Programmierer
+1668;охра́нник;Wachmann, Bewacher, Wächter
+1669;футбо́л;Fußball, Fußballspiel
+1670;соль;Salz
+1671;вступле́ние;Einleitung, Vorwort, Vorspiel
+1672;ма́ксимум;Maximum, höchstens, maximal
+1673;поро́да;Rasse, Gattung
+1674;шоссе́;Landstraße, Autostraße
+1675;происше́ствие;Vorfall, Vorkommnis, Zwischenfall
+1676;чистота́;Sauberkeit, Reinlichkeit
+1677;ку́рица;Huhn, Henne
+1678;но́жка;Beinchen, kleines Bein, Fuß, Stiel
+1679;вы́плата;Auszahlung, Ausschüttung
+1680;я́ма;Grube
+1681;плен;Gefangenschaft
+1682;сни́мок;Aufnahme, Foto, Bild
+1683;соблюде́ние;Einhaltung, Beachtung, Befolgung
+1684;ло́жка;Löffel
+1685;идио́т;Idiot
+1686;то́пливо;Brennstoff, Heizmaterial
+1687;ковёр;Teppich
+1688;консульта́ция;Beratung, Konsultation, Beratungsstelle
+1689;фина́л;Finale, Schluß, Endspiel
+1690;заме́тка;Notiz, kurze Mitteilung, Anmerkung
+1691;галере́я;Galerie, Gang
+1692;сре́днее;Durchschnitt, Mittel, im Mittleren
+1693;избира́тель;Wähler
+1694;несча́стье;Unglück, Pech
+1695;жени́х;Bräutigam, Freier
+1696;ви́рус;Virus
+1697;моне́та;Münze
+1698;жи́дкость;Flüssigkeit
+1699;фина́нсы;Finanzen
+1700;зага́дка;Rätsel, Geheimnis, Mysterium
+1701;ма́гия;Magie, Hexerei, Zauberkunst
+1702;исполни́тель;Darsteller, Interpret
+1703;юри́ст;Jurist
+1704;пропага́нда;Propaganda, Propagierung
+1705;аре́ст;Arrest
+1706;терпе́ние;Geduld
+1707;мора́ль;Moral
+1708;дипло́м;Diplom
+1709;цепо́чка;Kette, Halskette
+1710;му́сор;Müll, Abfall
+1711;разделе́ние;Teilung, Aufteilung, Unterteilung
+1712;ша́пка;Mütze, Kappe
+1713;ро́бот;Roboter
+1714;отбо́р;Auswahl
+1715;тари́ф;Tarif
+1716;уста́лость;Müdigkeit
+1717;борода́;Bart
+1718;стару́шка;alte Frau
+1719;защи́тник;Schützer, Beschützer, Fürsprecher
+1720;педаго́г;Pädagoge
+1721;части́ца;Teilchen, kleiner Teil, Partikel
+1722;звено́;Glied, Kettenglied, Gruppe, Unterabteilung
+1723;наслажде́ние;Genuss
+1724;шок;Schock
+1725;банди́т;Bandit
+1726;бли́зость;Nähe, Verbundenheit
+1727;гости́ная;Wohnzimmer
+1728;ту́ча;Wolke, Regenwolke
+1729;популя́рность;Popularität
+1730;тур;Tour, Rundreise
+1731;балко́н;Balkon
+1732;гита́ра;Gitarre
+1733;ло́коть;Ellbogen
+1734;ми́нус;minus, Minus, Minuszeichen
+1735;споко́йствие;Ruhe, Stille
+1736;проще́ние;Verzeihung
+1737;выпускни́к;Absolvent, Schulabgänger
+1738;поцелу́й;Kuss
+1739;чемпиона́т;Meisterschaft
+1740;щит;Schild, Tafel
+1741;приз;Preis
+1742;отте́нок;Farbton, Tönung, Farbstich
+1743;со́бственник;Eigentümer, Besitzer, Inhaber
+1744;доста́вка;Lieferung, Zustellung, Auslieferung
+1745;поступле́ние;Aufnahme, Beginn, Eintritt, Eintreffen
+1746;регули́рование;Regulierung
+1747;гипо́теза;Hypothese
+1748;отъе́зд;Abreise
+1749;коло́ния;Kolonie
+1750;размеще́ние;Unterbringung, Ansiedlung
+1751;ви́део;Video
+1752;страхова́ние;Versicherung
+1753;развлече́ние;Unterhaltung, Zerstreuung
+1754;ю́ность;Jugend
+1755;пот;Schweiß
+1756;посу́да;Geschirr
+1757;фаши́ст;Faschist
+1758;ва́нная;Badezimmer, Bad
+1759;стре́лка;Pfeil
+1760;проспе́кт;Allee, breite langezogene Straße, Boulevard, Avenue, Promenade
+1761;турни́р;Turnier
+1762;иск;Klage
+1763;фа́за;Phase, Entwicklungsstufe
+1764;сорт;Sorte, Art
+1765;грузови́к;Lastwagen, Laster, LKW, Lastkraftwagen
+1766;дина́мика;Dynamik
+1767;па́пка;Ordner, Mappe
+1768;по́лдень;Mittag
+1769;духи́;Parfüm
+1770;боло́то;Sumpf
+1771;ава́рия;Unfall, Havarie, Unglück
+1772;инсти́нкт;Instinkt, Trieb
+1773;маг;Magier, Zauberer, Zauberkünstler
+1774;стро́чка;Zeile
+1775;желу́док;Magen
+1776;побере́жье;Küste, Strand, Ufer
+1777;япо́нец;Japaner
+1778;ра́са;Rasse
+1779;нуль;Null
+1780;кры́шка;Deckel
+1781;те́зис;These, Leitsatz
+1782;недви́жимость;Immobilie
+1783;ведро́;Eimer
+1784;интелле́кт;Intellekt, Intelligenz, Verstand
+1785;плащ;Mantel, Staubmantel
+1786;принадле́жность;Zugehörigkeit, Angehörigkeit
+1787;христиа́нство;Christentum
+1788;мо́лния;Blitz
+1789;ва́жность;Wichtigkeit, Bedeutung
+1790;компенса́ция;Kompensation
+1791;наблюда́тель;Beobachter
+1792;облегче́ние;Erleichterung
+1793;табле́тка;Tablette
+1794;беспоко́йство;Unruhe, Ruhelosigkeit
+1795;изготовле́ние;Herstellung, Produktion
+1796;поставщи́к;Lieferant
+1797;меню́;Menü
+1798;моря́к;Seemann
+1799;платёж;Zahlung, Einzahlung
+1800;акце́нт;Akzent, Betonung, Aussprache
+1801;мощь;Macht, Kraft, Stärke, Leistung
+1802;супру́га;Ehefrau, Ehepartnerin, Gattin
+1803;меда́ль;Medaille
+1804;брю́ки;Hose
+1805;ви́димость;Sichtbarkeit, Sicht
+1806;ружьё;Gewehr, Flinte
+1807;дья́вол;Teufel, Diabolus
+1808;блеск;Glanz, Pracht, Prunk
+1809;хала́т;Hausmantel, Morgenrock, Bademantel
+1810;примеча́ние;Anmerkung, Marginalie
+1811;казнь;Hinrichtung
+1812;пальто́;Mantel
+1813;капитали́зм;Kapitalismus
+1814;разво́д;Scheidung, Ehescheidung
+1815;колеба́ние;Schwankung, Schwanken, Wanken
+1816;кры́са;Ratte
+1817;жара́;Hitze
+1818;предупрежде́ние;Warnung, Warnhinweis, Verwarnung
+1819;велосипе́д;Fahrrad, Rad
+1820;ООН;UNO
+1821;реце́пт;Rezept
+1822;мело́дия;Melodie
+1823;карто́шка;Kartoffel, Kartoffelknolle
+1824;смесь;Mischung
+1825;му́ха;Fliege
+1826;вне́шность;Äußeres, Äußere
+1827;мастерство́;Geschick, Geschicklichkeit, Können
+1828;столкнове́ние;Zusammenstoß, Kollision, Konflikt, Widerstreit
+1829;радиоста́нция;Radiostation, Rundfunkstation, Sender
+1830;дополне́ние;Ergänzung, Objekt
+1831;бюро́;Büro, Stelle
+1832;вмеша́тельство;Einmischung
+1833;здравоохране́ние;Gesundheitswesen
+1834;приорите́т;Priorität, Vorrangstellung
+1835;о́бувь;Schuhe, Schuhwerk
+1836;стоя́нка;Parkplatz, Standplatz, Liegeplatz, Rastplatz
+1837;демонстра́ция;Demonstration, Kundgebung, Vorführung, Bekundung
+1838;гармо́ния;Harmonie, Wohlklang, Einklang, Eintracht, Harmonielehre
+1839;ориента́ция;Orientierung, Ausrichtung
+1840;го́нка;Rennen, Wettrennen, Wettlauf
+1841;ток;Strom
+1842;бензи́н;Benzin
+1843;зерно́;Getreide, Korn
+1844;группиро́вка;Gruppierung
+1845;усиле́ние;Verstärkung, Verschärfung, Steigerung
+1846;интерфе́йс;Schnittstelle, Interface, Programmieroberfläche
+1847;мо́дуль;Modul
+1848;квалифика́ция;Qualifikation, Qualifizierung, Fach, Beruf
+1849;сыр;Käse
+1850;обма́н;Betrug
+1851;национа́льность;Nationalität
+1852;зре́лище;Schauspiel, Anblick
+1853;гриб;Pilz
+1854;про́вод;Leitung, Draht, Kabel
+1855;фрукт;Frucht, Früchtchen
+1856;штраф;Strafe, Strafzettel, Bußgeld
+1857;ба́ня;Badehaus, Banja, Dampfbad
+1858;церемо́ния;Zeremonie
+1859;возбужде́ние;Erregung, Aufregung
+1860;сове́тник;Berater, Rat, Ratgeber
+1861;ступе́нька;Stufe, Sprosse
+1862;оригина́л;Original, Urschrift, Manuskript, Sonderling
+1863;жи́вопись;Malerei
+1864;бока́л;Weinglas, Glas, Becher
+1865;нить;Faden
+1866;балл;Punktzahl, Punktwert, Score
+1867;ю́бка;Rock
+1868;сопе́рник;Rivale, Nebenbuhler, Gegner, Konkurrent
+1869;инспе́ктор;Inspektor
+1870;сиде́нье;Sitz, Sitzpolster
+1871;вспы́шка;Aufleuchten, Aufflammen, Auflodern, Aufblitzen, Ausbruch
+1872;стаби́льность;Stabilität, Festigkeit, Sicherheit, Verlässlichkeit
+1873;е́вро;Euro
+1874;интерпрета́ция;Interpretation, Auslegung, Deutung
+1875;свинья́;Schwein, Sau, Keiler
+1876;желе́зо;Eisen
+1877;ва́нна;Badewanne, Wanne
+1878;полго́да;ein halbes Jahr, Halbjahr, 6 Monate
+1879;ста́рость;Alter, Greisenalter
+1880;постро́йка;Bauwerk, Bau, Bebauung, Errichtung
+1881;разнообра́зие;Vielfalt, Verschiedenartigkeit, Mannigfaltigkeit, Unterschiedlichkeit
+1882;кли́мат;Klima
+1883;змея́;Schlange
+1884;отве́рстие;Öffnung, Loch, Spalt
+1885;администра́тор;Administrator, Verwalter, verantwortlicher Leiter, Geschäftsführer, Empfangschef
+1886;эксперти́за;Expertise, Begutachtung
+1887;биогра́фия;Biographie, Lebenslauf
+1888;строе́ние;Bau, Aufbau, Struktur, Gebäude
+1889;плёнка;dünne Schicht, Häutchen, Membran
+1890;ноутбу́к;Laptop
+1891;тра́вма;Trauma
+1892;рюкза́к;Rucksack
+1893;тётка;Tante
+1894;пото́мок;Nachkomme, Nachfahre
+1895;кру́жка;Becher
+1896;при́ступ;Anfall
+1897;бедро́;Hüfte
+1898;э́кспорт;Export, Ausfuhr
+1899;патро́н;Patrone, Fassung
+1900;интеллиге́нция;Intelligenzija, gebildete Schicht, Intelligenz
+1901;сда́ча;Wechselgeld, Rückgeld
+1902;опо́ра;Stütze, Halt
+1903;освеще́ние;Beleuchtung, Licht
+1904;вертолёт;Hubschrauber, Helikopter
+1905;ду́ра;Idiotin, weiblicher Dummkopf, dumme Gans, blöde Kuh, Zicke
+1906;пейза́ж;Landschaft, Landschaftsbild
+1907;боеви́к;Kämpfer, Freischärler
+1908;печа́ль;Traurigkeit, Trauer, Kummer, Gram
+1909;пиджа́к;Sakko, Jackett, Blazer
+1910;пане́ль;Paneel, Platte, Plattenbauelement,
+1911;хрен;Meerrettich, Kren
+1912;космона́вт;Kosmonaut
+1913;жа́жда;Durst
+1914;ре́чка;kleiner Fluss, Bach, Flüsschen
+1915;совоку́пность;Gesamtheit, Ganzes, Komplex
+1916;диа́гноз;Diagnose
+1917;дра́ка;Prügelei, Schlägerei
+1918;иллюстра́ция;Illustration, Abbildung
+1919;ка́ша;Brei, Grütze
+1920;поры́в;Impuls, Ausbruch, Stoß
+1921;обновле́ние;Erneuerung
+1922;кошма́р;Albtraum, Alptraum
+1923;компози́ция;Komposition
+1924;лук;Zwiebel
+1925;диапазо́н;Bereich, Umfang, Bandbreite
+1926;слон;Elefant
+1927;прое́зд;Durchfahrt
+1928;торго́вец;Händler
+1929;ку́кла;Puppe
+1930;чемпио́н;Meister, Champion, Sieger
+1931;выделе́ние;Hervorhebung
+1932;прыжо́к;Sprung, Absprung, Hüpfer
+1933;фунт;Pfund
+1934;у́голь;Kohle
+1935;листо́к;kleines Blatt
+1936;я́рость;Wut, Rage
+1937;мяч;Ball
+1938;но́готь;Nagel, Fingernagel, Fußnagel
+1939;носо́к;Socke
+1940;дие́та;Diät
+1941;совреме́нник;Zeitgenosse
+1942;поврежде́ние;Beschädigung, Schädigung, Schaden
+1943;ве́на;Vene
+1944;топо́р;Axt, Beil
+1945;коммуни́зм;Kommunismus
+1946;конве́рт;Briefumschlag, Kuvert
+1947;ник;Spitzname, Pseudonym
+1948;реме́нь;Gürtel, Riemen, Gurt
+1949;за́яц;Hase
+1950;любо́вник;Liebhaber
+1951;каранда́ш;Bleistift, Stift
+1952;ус;Schnurrbart
+1953;разря́д;Kategorie, Klasse, Rang
+1954;принце́сса;Prinzessin
+1955;пар;Dampf
+1956;сосу́д;Behälter, Gefäß
+1957;и́ндекс;Index, Kennziffer
+1958;самоуправле́ние;Selbstverwaltung, Autonomie, Selbstbestimmung, Selbstbestimmungsrecht
+1959;лу́жа;Pfütze, Lache
+1960;пси́хика;Psyche, seelische Verfassung
+1961;орёл;Adler
+1962;ре́плика;Zwischenruf, Erwiderung, Stichwort
+1963;телегра́мма;Telegramm
+1964;се́ссия;Sitzung, Tagung
+1965;кинотеа́тр;Kino, Filmtheater
+1966;компле́кт;Set, Satz, Garnitur
+1967;учи́тельница;Lehrerin
+1968;ве́чность;Ewigkeit
+1969;тре́нинг;Training, Trainingsprogramm
+1970;интегра́ция;Integration
+1971;конья́к;Kognak, Weinbrand
+1972;зали́в;Bucht, Meerbusen
+1973;дефици́т;Defizit, Mangel
+1974;пенсионе́р;Rentner
+1975;пожела́ние;Wunsch
+1976;порта́л;Portal, Webportal
+1977;программи́рование;Programmierung
+1978;сеа́нс;Vorstellung
+1979;ка́сса;Kasse, Schalter, Zahlbox
+1980;скаме́йка;Sitzbank, Parkbank
+1981;спортсме́н;Sportler
+1982;старт;Start, Startplatz, Startlinie
+1983;изобрете́ние;Erfindung
+1984;алгори́тм;Algorithmus
+1985;заключённый;Gefangener, Häftling
+1986;кирпи́ч;Ziegel, Ziegelstein
+1987;стук;Klopfen
+1988;работода́тель;Arbeitgeber
+1989;аре́нда;Miete, Pacht
+1990;невозмо́жность;Unmöglichkeit
+1991;тропа́;Pfad, Fußweg
+1992;ЕС;EU, Europäische Union, Europäische Gemeinschaft
+1993;заты́лок;Hinterkopf
+1994;раздраже́ние;Reizung
+1995;календа́рь;Kalender
+1996;подру́жка;Freundin
+1997;ширина́;Breite, Weite
+1998;зака́т;Sonnenuntergang
+1999;торжество́;Feier
+2000;написа́ние;Schreibweise
+2001;оди́ннадцать;elf, 11
+2002;модерниза́ция;Modernisierung
+2003;инфраструкту́ра;Infrastruktur
+2004;перепи́ска;Korrespondenz, Umschreiben, Abschreiben, Abtippen, Briefwechsel, Briefe
+2005;ми́тинг;Kundgebung, Meeting
+2006;госпожа́;Frau, Fräulein
+2007;самоуби́йство;Selbstmord, Suizid
+2008;гнездо́;Nest, Horst, Sitz
+2009;поэ́ма;Gedicht, Poem
+2010;мы́ло;Seife
+2011;ранг;Rang
+2012;блин;Pfannkuchen
+2013;корру́пция;Korruption, Bestechung
+2014;жир;Fett
+2015;фи́нский;Finnisch, Finnische Sprache
+2016;подборо́док;Kinn
+2017;о́пера;Oper, Opernhaus
+2018;суп;Suppe
+2019;арома́т;Duft, Aroma, Wohlgeruch
+2020;по́лночь;Mitternacht
+2021;разочарова́ние;Enttäuschung
+2022;Госду́ма;Staatsduma, Duma
+2023;сосе́дка;Nachbarin
+2024;гражда́нство;Staatsbürgerschaft, Staatsangehörigkeit
+2025;огонёк;kleines Feuer, kleine Flamme
+2026;общежи́тие;Wohnheim, Studentenheim
+2027;фильтр;Filter
+2028;бу́ря;Sturm
+2029;ерунда́;Unsinn, Quatsch
+2030;му́жество;Mut, Mannesmut, Tapferkeit, Courage
+2031;печь;Ofen, Herd
+2032;анали́тик;Analytiker
+2033;фи́зик;Physiker
+2034;паро́ль;Passwort, Kennwort
+2035;шофёр;Fahrer, Kraftfahrer
+2036;заде́ржка;Verzögerung
+2037;инфля́ция;Inflation
+2038;экску́рсия;Ausflug, Tour, Gruppe von Ausflugsteilnehmern
+2039;депре́ссия;Depression, Niedergeschlagenheit, Flaute
+2040;украше́ние;Schmuck, Ausschmückung, Schmuckstück
+2041;при́зрак;Gespenst, Phantom
+2042;продолжи́тельность;Dauer
+2043;о́вощ;Gemüse
+2044;сновиде́ние;Traum
+2045;сериа́л;Fernsehserie
+2046;уменьше́ние;Verringerung, Verminderung, Minderung, Rückgang
+2047;переу́лок;Gasse, Quergasse
+2048;симпто́м;Symptom, Anzeichen
+2049;прожива́ние;Aufenthalt, Unterkunft
+2050;фо́кус;Fokus, Brennpunkt, Schwerpunkt
+2051;мы́шка;Mäuschen, kleine Maus, Maus
+2052;бо́чка;Fass
+2053;барье́р;Barriere, Schranke, Hürde
+2054;увлече́ние;Hobby, Begeisterung, Schwung, Eifer, Leidenschaft
+2055;обсле́дование;Untersuchung, Überprüfung
+2056;пло́скость;Fläche, Ebene
+2057;террори́зм;Terrorismus
+2058;диста́нция;Distanz, Strecke
+2059;прохо́жий;Passant
+2060;делега́ция;Delegation, Abordnung
+2061;за́висть;Neid
+2062;трамва́й;Straßenbahn
+2063;комбина́ция;Kombination
+2064;решётка;Gitter
+2065;коме́дия;Komödie, Lustspiel
+2066;мёд;Honig
+2067;энерге́тика;Energetik
+2068;функциони́рование;Funktion, Betrieb, Funktionieren
+2069;шампа́нское;Champagner, Sekt
+2070;экономи́ст;Ökonom, Wirtschaftswissenschaftler
+2071;заголо́вок;Überschrift, Betreff, Headline, Titel
+2072;руче́й;Bach
+2073;тести́рование;Test, Einstufungstest
+2074;гара́ж;Garage
+2075;ру́брика;Rubrik, Spalte
+2076;дра́ма;Drama
+2077;включе́ние;Einschalten, Anschaltung, Einschaltung, Schaltung
+2078;концентра́ция;Konzentration, Konzentrieren
+2079;актри́са;Schauspielerin
+2080;командиро́вка;Dienstreise, Geschäftsreise
+2081;ось;Achse
+2082;грек;Grieche
+2083;пре́лесть;Reiz, Charme
+2084;простота́;Einfachheit, Schlichtheit, Natürlichkeit, Treuherzigkeit, Einfalt
+2085;рог;Horn, Signalhorn
+2086;ген;Gen
+2087;герои́ня;Heldin
+2088;новичо́к;Neuling, Anfänger
+2089;возвра́т;Rückgabe, Erstattung
+2090;ликвида́ция;Liquidierung, Liquidation, Abschaffung, Beseitigung
+2091;винто́вка;Gewehr, Büchse
+2092;исла́м;Islam
+2093;упако́вка;Verpackung, Packung
+2094;родны́е;Verwandte, die Verwandten
+2095;сюрпри́з;Überraschung
+2096;перево́зка;Transport
+2097;щель;Spalt, Spalte, Möse
+2098;сырьё;Rohstoff, Rohmaterial
+2099;мусульма́нин;Muslim, Moslem, Mohammedaner
+2100;тротуа́р;Bürgersteig, Trottoir
+2101;па́ника;Panik
+2102;рейс;Flug, Linie
+2103;рождество́;Weihnachten
+2104;по́рция;Portion
+2105;схо́дство;Ähnlichkeit, Affinität
+2106;вечери́нка;Party, Abendgesellschaft
+2107;осмо́тр;Untersuchung, Inaugenscheinnahme
+2108;бык;Stier, Bulle, Ochse
+2109;коэффицие́нт;Koeffizient
+2110;плака́т;Plakat
+2111;мат;Matte
+2112;ве́рность;Treue, Loyalität, Hingabe, Ergebenheit
+2113;и́мпульс;Impuls, Antrieb
+2114;ме́неджмент;Management
+2115;приготовле́ние;Kochen, Zubereitung, Anfertigung, Produktion
+2116;вы́лет;Abflug, Start
+2117;удо́бство;Bequemlichkeit, Komfort, Annehmlichkeit
+2118;повторе́ние;Wiederholung
+2119;поля́к;Pole
+2120;душ;Dusche
+2121;лёгкость;Leichtigkeit, Leichtheit, Gewandtheit
+2122;нетерпе́ние;Ungeduld
+2123;ча́йник;Teekanne, Teekessel
+2124;убы́ток;Verlust, Nachteil
+2125;архите́ктор;Architekt, Baumeister
+2126;допро́с;Verhör, Vernehmung
+2127;эконо́мия;Ökonomie
+2128;энтузиа́зм;Enthusiasmus, Elan, Begeisterung
+2129;висо́к;Schläfe
+2130;поруче́ние;Auftrag, Beauftragung
+2131;че́реп;Schädel
+2132;отклоне́ние;Abweichung, Ablenkung
+2133;козёл;Ziege, Ziegenbock
+2134;симпа́тия;Sympathie, Zuneigung
+2135;огоро́д;Gemüsegarten, Gartenanlage, Nutzgarten
+2136;кисть;Hand
+2137;абоне́нт;Abonnent
+2138;ра́венство;Gleichheit
+2139;се́кция;Sektion, Abteilung, Montagebauteil, Teil
+2140;урожа́й;Ernte, Ernteertrag, Ertrag
+2141;реконстру́кция;Rekonstruktion, Umgestaltung, Modernisierung
+2142;о́черк;Skizze, Grundriss, Aufriss
+2143;обезья́на;Affe
+2144;за́пуск;Start
+2145;фанта́стика;Science-Fiction, Fantastik, Fantasie, Utopie, Unvorstellbare
+2146;контине́нт;Kontinent, Festland
+2147;гвоздь;Nagel
+2148;яд;Gift
+2149;строи́тель;Bauarbeiter
+2150;представи́тельство;Vertretung
+2151;база́р;Basar
+2152;кружо́к;kleiner Kreis, Kreis, kleine Scheibe, kleiner Ring
+2153;серебро́;Silber, Silbermedaille
+2154;полнота́;Fülle, Korpulenz, Beleibtheit
+2155;подключе́ние;Anschluss, Anschaltung
+2156;жа́лость;Mitleid
+2157;презента́ция;Präsentation
+2158;звон;Läuten, Geläute, Gebimmel
+2159;констру́ктор;Konstrukteur
+2160;по́хороны;Beerdigung
+2161;бе́дность;Armut
+2162;формулиро́вка;Formulierung
+2163;колбаса́;Wurst
+2164;корзи́на;Korb
+2165;анало́гия;Analogie, Ähnlichkeit
+2166;микрофо́н;Mikrofon, Mikrophon
+2167;прибы́тие;Ankunft, Anreise
+2168;перча́тка;Handschuh
+2169;инстру́ктор;Instruktor, Instrukteur
+2170;ски́дка;Preisnachlass, Ermäßigung, Nachlass, Rabatt, Skonto, Bonus, Abzug
+2171;акционе́р;Aktionär, Aktieninhaber
+2172;изложе́ние;Darlegung
+2173;содержи́мое;Inhalt, Content
+2174;квадра́т;Quadrat, die zweite Potenz
+2175;ла́мпочка;Glühbirne, Glühlampe
+2176;за́дница;Hintern, Arsch, Po
+2177;стресс;Stress
+2178;индустри́я;Industrie
+2179;га́лстук;Krawatte, Schlips
+2180;полоте́нце;Handtuch, Geschirrtuch, Badetuch
+2181;струя́;Strahl, Strömung
+2182;грана́та;Granate
+2183;изме́на;Verrat, Treuebruch
+2184;пе́ние;Gesang
+2185;ка́бель;Kabel
+2186;возраже́ние;Widerspruch, Einwand
+2187;проводни́к;Führer, Leiter
+2188;проекти́рование;Planung, Entwerfen, Entwicklung
+2189;ста́туя;Statue
+2190;не́жность;Zärtlichkeit
+2191;хи́мия;Chemie
+2192;сыно́к;kleiner Sohn
+2193;стыд;Scham
+2194;выжива́ние;Überleben, Durchkommen, Durchsetzen, Behaupten, Überlebenskunst
+2195;тысячеле́тие;Jahrtausend, Tausendjahrfeier, tausendjähriges Jubiläum
+2196;ба́бочка;Schmetterling, Falter
+2197;про́бка;Verkehrsstau
+2198;восхище́ние;Bewunderung, Faszination
+2199;мрак;Dunkelheit, Dunkel
+2200;совпаде́ние;Zufall, Zusammentreffen, Übereinstimmung
+2201;би́ржа;Börse
+2202;монстр;Monster, Ungeheuer
+2203;интуи́ция;Intuition, Eingebung
+2204;мотива́ция;Motivation
+2205;превраще́ние;Verwandlung, Metamorphose
+2206;спи́нка;Rückenlehne, Lehne
+2207;отвраще́ние;Abscheu, Ekel, Widerwille
+2208;ара́б;Araber
+2209;и́мидж;Image, Persönlichkeit
+2210;ве́дьма;Hexe
+2211;колле́дж;College, Fachhochschule, Berufsschule
+2212;оказа́ние;Erweisen, Bezeigen
+2213;анке́та;Fragebogen
+2214;незнако́мец;Unbekannter
+2215;сосна́;Kiefer, Föhre
+2216;овца́;Schaf
+2217;расстро́йство;Störung, Ungleichgewicht, Durcheinander, Unordnung
+2218;толчо́к;Stoß, Ruck, Schub
+2219;оболо́чка;Hülle
+2220;вы́езд;Ausfahrt, Abfahrt
+2221;окре́стность;Umgebung, Umland, Umkreis, Gegend
+2222;классифика́ция;Klassifizierung
+2223;деклара́ция;Deklaration
+2224;случа́йность;Zufall, Zufälligkeit
+2225;отступле́ние;Rückzug, Rückmarsch
+2226;гром;Donner
+2227;промежу́ток;Abstand, Zwischenraum
+2228;разнови́дность;Variante
+2229;Алла́х;Allah, Gott
+2230;кла́виша;Taste
+2231;шерсть;Wolle, Haar
+2232;конфе́та;Bonbon
+2233;лову́шка;Falle
+2234;тупи́к;Sackgasse, Abstellgleis
+2235;переворо́т;Umsturz, Putsch
+2236;приближе́ние;Annäherung, Nahen, Herannahen, Heranrücken
+2237;че́люсть;Kiefer, Kinnbacke, Gebiß
+2238;интона́ция;Intonation, Tonfall
+2239;вздох;Seufzer
+2240;бе́женец;Flüchtling
+2241;премье́р;Premierminister
+2242;агре́ссия;Aggression, Angriff, Aggressionsakt
+2243;взвод;Zug
+2244;взя́тка;Bestechungsgeld, Bestechung, Schmiergeld
+2245;сооте́чественник;Landsmann
+2246;зало́жник;Geisel
+2247;компози́тор;Komponist
+2248;жи́тельство;Wohnsitz
+2249;вы́дача;Ausgabe, Aushändigung, Ausstellung, Auszahlung, Auslieferung
+2250;рю́мка;Schnapsglas, Spirituosenglas, Shotglas
+2251;коло́нка;Spalte, Kolumne, Kolonne
+2252;отры́вок;Auszug, Bruchstück, Fragment
+2253;пе́чка;Ofen
+2254;тигр;Tiger
+2255;фото́граф;Fotograf
+2256;деле́ние;Teilung, Division, Teilstrich
+2257;ввод;Eingabe, Einsetzung, Einführung, Einleiten, Input
+2258;юбиле́й;Jubiläum
+2259;витри́на;Schaufenster, Auslage, Schaukasten
+2260;сала́т;Salat
+2261;спра́вочник;Nachschlagewerk, Nachschlagebuch
+2262;ана́лог;Entsprechung, Analogon
+2263;официа́нт;Kellner, Ober
+2264;влады́ка;Herrscher, Herr, Bischof, Erzpriester
+2265;щено́к;Welpe, junger Hund, Hündchen
+2266;пла́вание;Schwimmen
+2267;электри́чество;Elektrizität, Strom
+2268;расписа́ние;Zeitplan, Ablaufplan, Fahrplan, Flugplan
+2269;пиро́г;Kuchen
+2270;безу́мие;Wahnsinn, Verrücktheit, Irrsinn, Tollheit
+2271;вели́чие;Größe, Erhabenheit
+2272;певе́ц;Sänger
+2273;тетра́дь;Heft
+2274;вложе́ние;Anlage, Investition, Einlage
+2275;олимпиа́да;Olympiade
+2276;армяни́н;Armenier
+2277;клавиату́ра;Tastatur, Klaviatur
+2278;медсестра́;Krankenschwester
+2279;буке́т;Blumenstrauß, Bouquet
+2280;вдова́;Witwe
+2281;европе́ец;Europäer
+2282;меньшинство́;Minderheit
+2283;обло́жка;Umschlag, Buchumschlag, Buchdeckel, Titelseite, Einband, Hülle
+2284;бал;Ball, Tanzveranstaltung
+2285;ссо́ра;Streit, Zwist, Streiterei, Zank
+2286;кран;Hahn
+2287;тря́пка;Lappen, Tuch, Waschlappen
+2288;апте́ка;Apotheke
+2289;треуго́льник;Dreieck
+2290;аппети́т;Appetit
+2291;презервати́в;Kondom
+2292;детекти́в;Krimi, Kriminalgeschichte, Kriminalfilm, Kriminalroman
+2293;чече́нец;Tschetschene
+2294;кошелёк;Geldbeutel, Portemonnaie, Geldbörse
+2295;непра́вда;Unwahrheit, Lüge
+2296;витами́н;Vitamin
+2297;простыня́;Bettlaken, Laken, Bettuch
+2298;наименова́ние;Bezeichnung, Name
+2299;фотоаппара́т;Fotoapparat, Kamera
+2300;сме́лость;Mut
+2301;капу́ста;Kohl
+2302;тро́йка;Troika, Dreiergespann, Trio, Dreiergruppe
+2303;диза́йнер;Designer, Industrieformgestalter
+2304;путеше́ственник;Reisender
+2305;блонди́нка;Blondine
+2306;бег;Lauf
+2307;ды́рка;Loch, Einstichstelle, Guckloch, Öse, Leerstelle, Lücke, Durchschuss
+2308;КПРФ;KPRF, Kommunistische Partei der Russischen Föderation
+2309;ёлка;Weihnachtsbaum, Christbaum, Tannenbaum
+2310;спи́чка;Streichholz
+2311;электроэне́ргия;Elektroenergie, elektrische Energie
+2312;предло́г;Präposition
+2313;холл;Halle, Empfangshalle
+2314;сочу́вствие;Mitgefühl, Anteilnahme
+2315;прила́вок;Theke
+2316;ре́вность;Eifersucht
+2317;доброта́;Güte, Warmherzigkeit
+2318;мотоци́кл;Motorrad
+2319;закры́тие;Schließung, Abschluss
+2320;тури́зм;Tourismus, Touristik, Wandersport, Bergsteigen
+2321;кани́кулы;Ferien
+2322;пожа́рный;Feuerwehrmann
+2323;пульт;Fernbedienung, Bedieneinrichtung
+2324;кла́ссика;Klassik
+2325;удостовере́ние;Ausweis, Nachweis, Identifizierung, Legitimation
+2326;ве́ко;Augenlid
+2327;по́люс;Pol
+2328;насеко́мое;Insekt
+2329;гроза́;Gewitter
+2330;энциклопе́дия;Enzyklopädie, Lexikon, Konversationslexikon
+2331;то́рмоз;Bremse, Bremspedal
+2332;ноль;Null, null
+2333;при́нтер;Drucker, Printer
+2334;бело́к;Eiweiß, Eiweißstoff
+2335;моро́женое;Eis, Speiseeis
+2336;таба́к;Tabak
+2337;отме́тка;Anmerkung, Notiz, Vermerk
+2338;трусы́;Unterhose
+2339;по́вар;Koch
+2340;изве́стность;Bekanntheit, Berühmtheit, Ruhm
+2341;пе́на;Schaum
+2342;Бу́дда;Buddha
+2343;настоя́щее;Gegenwart
+2344;огуре́ц;Gurke
+2345;подоко́нник;Fensterbank, Fensterbrett, Fenstersims
+2346;телекана́л;Fernsehkanal
+2347;толщина́;Dicke, Stärke
+2348;пле́нный;Gefangener, Gefangene
+2349;бага́ж;Gepäck
+2350;глаго́л;Verb, Zeitwort
+2351;откры́тка;Postkarte, Ansichtskarte
+2352;ВИЧ;HIV, HI-Virus, HIV-Infektion
+2353;реко́рд;Rekord, Höchstleistung, Spitzenleistung
+2354;электри́чка;elektrische Eisenbahn, elektrische Stadtbahn
+2355;проща́ние;Abschied
+2356;цирк;Zirkus
+2357;ни́щий;Bettler
+2358;посы́лка;Paket, Postpaket, Päckchen
+2359;ха́кер;Hacker
+2360;геогра́фия;Geographie, Erdkunde
+2361;сбо́рная;Auswahlmannschaft, Auswahlteam, Auswahl
+2362;перекрёсток;Kreuzung, Straßenkreuzung, Kreuzweg
+2363;поздравле́ние;Gratulation, Glückwunsch
+2364;тера́кт;Terroranschlag, Terrorakt
+2365;крем;Creme
+2366;близне́ц;Zwilling
+2367;перее́зд;Umzug, Übersiedlung
+2368;бале́т;Ballett
+2369;биоло́гия;Biologie
+2370;джи́нсы;Jeans
+2371;стадио́н;Stadion, Sportplatz
+2372;комфо́рт;Komfort, Bequemlichkeit
+2373;факс;Fax
+2374;перено́с;Übertragung, Verschiebung
+2375;запасно́й;Reserve-, Ersatz-
+2376;гимн;Hymne
+2377;бульва́р;Boulevard
+2378;бокс;Boxen, Boxkampf
+2379;патрио́т;Patriot
+2380;деся́тка;Zehn, Zehnrubelschein
+2381;убо́рка;Aufräumen
+2382;прихо́жая;Flur, Hausflur, Korridor
+2383;оре́х;Nuss, Nussbaum
+2384;котёнок;Kätzchen, junge Katze
+2385;ра́ковина;Waschbecken, Spülbecken, Ausguß
+2386;ви́лка;Gabel
+2387;страхо́вка;Versicherung, Absicherung, Versicherungssumme, Versicherungsprämie, Versicherungsbeitrag
+2388;скульпту́ра;Skulptur
+2389;скамья́;Sitzbank, Bank
+2390;пу́говица;Knopf, Annähknopf
+2391;шокола́д;Schokolade
+2392;оптими́зм;Optimismus
+2393;ша́хматы;Schach, Schachspiel, Schachfiguren
+2394;уко́л;Stich, Einstich
+2395;лы́жа;Ski
+2396;пра́вильность;Richtigkeit
+2397;Вене́ра;Venus
+2398;племя́нник;Neffe
+2399;анте́нна;Antenne
+2400;воспита́тель;Erzieher
+2401;взлёт;Abheben, Start
+2402;приве́тствие;Begrüßung, Begrüßungsrede
+2403;извине́ние;Entschuldigung
+2404;про́пуск;Passierschein, Einlassschein, Durchlassschein, Kennkarte
+2405;кла́ссик;Klassiker
+2406;поликли́ника;Poliklinik
+2407;грипп;Grippe
+2408;указа́тель;Anzeiger
+2409;тёща;Schwiegermutter, Mutter der Ehefrau
+2410;я́года;Beere
+2411;испу́г;Schreck
+2412;конте́йнер;Container, Behälter
+2413;причёска;Frisur
+2414;бутербро́д;belegtes Brot, Schnitte
+2415;кома́р;Mücke
+2416;студе́нтка;Studentin
+2417;каблу́к;Schuhabsatz
+2418;моби́льник;Mobiltelefon
+2419;мо́стик;kleine Brücke, Steg
+2420;аре́на;Arena, Schauplatz, Kampfplatz
+2421;казино́;Casino
+2422;дога́дка;Ahnung, Vermutung, Mutmaßung
+2423;абза́ц;Absatz, Abschnitt
+2424;ня́ня;Kindermädchen, Kinderfrau, Tagesmutter
+2425;тост;Toast, Trinkspruch, Toastbrot
+2426;дискоте́ка;Diskothek, Disko
+2427;купе́;Abteil
+2428;су́ша;Land, Festland
+2429;град;Hagel
+2430;комплиме́нт;Kompliment
+2431;бланк;Formular, Vordruck
+2432;Па́сха;Ostern, Osterfest
+2433;голла́ндский;holländisch
+2434;моде́м;Modem
+2435;ре́ктор;Rektor
+2436;земля́к;Landsmann
+2437;те́сто;Teig
+2438;карто́фель;Kartoffel
+2439;пятёрка;Fünf, fünf Rubel, Fünfer, Fünfrubelschein
+2440;вну́чка;Enkelin
+2441;пле́ер;Player
+2442;куре́ние;Rauchen
+2443;аккумуля́тор;Batterie, Akku
+2444;коро́на;Krone
+2445;украи́нец;Ukrainer
+2446;блокно́т;Notizblock, Schreibblock
+2447;заку́ска;Vorspeise
+2448;по́черк;Handschrift
+2449;суперма́ркет;Supermarkt
+2450;коза́;Ziege
+2451;перело́м;Bruch, Fraktur
+2452;ма́йка;T-Shirt, Nicki
+2453;унита́з;Toilette, Kloschüssel, Klosettbecken, Toilettenschüssel
+2454;ресни́ца;Wimper
+2455;слог;Silbe
+2456;торт;Torte
+2457;финн;Finne
+2458;магнитофо́н;Tonbandgerät
+2459;самостоя́тельность;Selbständigkeit, Unabhängigkeit, Souveränität
+2460;пя́тка;Ferse, Hacke
+2461;прова́йдер;Anbieter, Provider, Internetanbieter
+2462;чат;Chat, Chatraum
+2463;лине́йка;Lineal
+2464;патриоти́зм;Patriotismus
+2465;цент;Cent
+2466;вы́веска;Schild, Aushängeschild, Werbeschild
+2467;дворяни́н;Adliger
+2468;въезд;Einfahrt
+2469;загрязне́ние;Verschmutzung, Verunreinigung
+2470;чек;Scheck, Bankscheck, Kassenzettel, Kassenbon, Bon
+2471;тролле́йбус;Oberleitungsbus, O-Bus
+2472;непонима́ние;Unverständnis, Verständnislosigkeit, Mangel an Verständnis
+2473;корм;Futter, Futtermittel
+2474;зоопа́рк;Zoo, Tiergarten
+2475;певи́ца;Sängerin
+2476;занаве́ска;Vorhang
+2477;кастрю́ля;Kochtopf, Topf, Kaserolle
+2478;сви́тер;Pullover
+2479;помидо́р;Tomate
+2480;пра́зднование;Feier, Feiern
+2481;низ;Unterteil
+2482;моноло́г;Monolog
+2483;зять;Schwiegersohn, Schwager
+2484;подно́с;Tablett, Servierbrett
+2485;автомаши́на;Auto, Kraftwagen, Wagen
+2486;ва́за;Vase
+2487;доба́вка;Zusatz, Zusatzstoff
+2488;профессионали́зм;Professionalität, Meisterschaft
+2489;пе́рец;Pfeffer
+2490;быстрота́;Schnelligkeit, Geschwindigkeit
+2491;полуо́стров;Halbinsel
+2492;блог;Blog
+2493;отхо́ды;Abfälle, Abfallprodukte, Müll
+2494;кокте́йль;Cocktail
+2495;пешехо́д;Fußgänger
+2496;иуде́й;Jude
+2497;посло́вица;Sprichwort
+2498;буфе́т;Buffet, Imbißraum, Erfrischungsraum
+2499;грамма́тика;Grammatik
+2500;боксёр;Boxer
+2501;па́рта;Schulbank
+2502;стипе́ндия;Stipendium
+2503;лень;Faulheit
+2504;бана́н;Banane, Bananenbaum
+2505;отопле́ние;Heizung, Beheizung, Befeuerung
+2506;ра́дуга;Regenbogen
+2507;кио́ск;Kiosk, Verkaufsstand, Stand
+2508;поле́зность;Nützlichkeit, Nutzen
+2509;вака́нсия;freie Stelle, Vakanz
+2510;продавщи́ца;Verkäuferin
+2511;брошю́ра;Broschüre
+2512;алфави́т;Alphabet, ABC
+2513;однокла́ссник;Klassenkamerad, Mitschüler
+2514;испа́нец;Spanier
+2515;гид;Fremdenführer, Stadtführer, Museumsführer, Reiseführer
+2516;налогопла́тельщик;Steuerzahler
+2517;четвёрка;Vier, Vierer
+2518;весы́;Waage
+2519;выключа́тель;Schalter
+2520;просту́да;Erkältung
+2521;бинт;Binde
+2522;загла́вие;Titel
+2523;распрода́жа;Ausverkauf
+2524;творо́г;Quark
+2525;смета́на;saure Sahne, Schmand
+2526;гель;Gel
+2527;ко́микс;Comic
+2528;спортза́л;Sporthalle, Turnhalle, Fitnessstudio
+2529;като́к;Eisbahn
+2530;семёрка;Sieben, Gruppe von sieben
+2531;отправи́тель;Absender
+2532;апартаме́нты;Apartment, Appartement, Zimmerflucht, Gemächer
+2533;купа́льник;Badeanzug
+2534;гольф;Golf
+2535;зонт;Schirm, Sonnenschirm, Regenschirm
+2536;пе́рсик;Pfirsich, Pfirsichbaum
+2537;шампу́нь;Shampoo, Shampoon, Haarwaschmittel, Haarwäsche
+2538;баскетбо́л;Basketball
+2539;прилага́тельное;Adjektiv
+2540;свёкла;rote Beete, rote Rübe
+2541;девя́тка;Neun
+2542;кавы́чка;Anführungszeichen, Gänsefüßchen
+2543;клубни́ка;Erdbeere, Gartenerdbeere
+2544;пижа́ма;Pyjama, Schlafanzug
+2545;кле́точка;Zelle
+2546;космодро́м;Weltraumbahnhof, Raumfahrtzentrum
+2547;павли́н;Pfau
+2548;самодержа́вие;Autokratie, Selbstherrschaft, Absolutismus
+2549;у́ксус;Essig
+2550;экзо́тика;Exotik
+2551;блю́дце;Untertasse
+2552;конспе́кт;Zusammenfassung, Inhaltsübersicht, Konspekt, Mitschrift
+2553;ли́фчик;BH, Büstenhalter
+2554;мину́точка;Moment, Moment mal, eine Minute, ein kleiner Augenblick, ein Momentchen
+2555;перекры́тие;Überdeckung, Überbietung, Übererfüllung
+2556;хмель;Hopfen
+2557;во́рох;Haufen, Menge, Unmasse
+2558;подви́жность;Beweglichkeit, Mobilität
+2559;приба́вка;Zuschlag, Zusatz, Zugabe, Gehaltserhöhung
+2560;штурва́л;Steuerrad
+2561;повседне́вность;Alltäglichkeit
+2562;синхрониза́ция;Synchronisierung, Synchronisation
+2563;швейца́р;Pförtner, Portier
+2564;штукату́рка;Putz, Stuck
+2565;анти́чность;Antike
+2566;перебро́ска;Verlegung, Verschiebung, Transport
+2567;пе́шка;Bauer
+2568;предохрани́тель;Sicherung, Schutzvorrichtung
+2569;сбо́рище;Versammlung, Menschenauflauf
+2570;сде́рживание;Zurückhaltung, Aufhalten, Bremsen
+2571;СМС;SMS, SMS-Nachricht
+2572;сце́нка;kleine Szene, Episode, Szenchen
+2573;конфе́тка;Bonbon, kleine Praline
+2574;марихуа́на;Marihuana
+2575;царе́вна;Prinzessin, Zarentochter
+2576;во́льность;Freiheit
+2577;комо́д;Kommode
+2578;космополи́т;Weltbürger
+2579;мураве́йник;Ameisenhaufen
+2580;радиоприёмник;Radioempfänger, Radio, Radioapparat
+2581;бегемо́т;Flusspferd, Nilpferd, Hip­po­po­ta­mus
+2582;воодушевле́ние;Begeisterung
+2583;лингви́ст;Linguist, Sprachwissenschaftler
+2584;наём;Anstellung, Einstellung, Anwerben
+2585;пови́нность;Pflicht, Verpflichtung
+2586;созида́ние;Schaffen, Schöpfung, Schaffung, Erschaffung
+2587;глуби́нка;Provinz, Provinznest, Krähwinkel, Kleinkleckersdorf
+2588;зати́шье;Ruhe, Flaute, Windstille, Stille
+2589;кульмина́ция;Höhepunkt
+2590;фанто́м;Phantom
+2591;була́вка;Stecknadel, Anstecknadel
+2592;рукопожа́тие;Händedruck, Händeschütteln, Handschlag
+2593;ту́мбочка;Nachttisch
+2594;хло́пец;Junge, Bursche
+2595;а́йсберг;Eisberg
+2596;атеи́зм;Atheismus
+2597;ветчина́;Schinken
+2598;выведе́ние;Herausführung
+2599;инвали́дность;Behinderung, Invalidität, Arbeitsunfähigkeit
+2600;килова́тт;Kilowatt
+2601;поря́дочность;Anständigkeit, Anstand, Gehörigkeit, Honorigkeit, Ehrenhaftigkeit, Ehrbarkeit, Fairness, Fair-Play
+2602;пресече́ние;Unterbindung
+2603;рада́р;Radar, Radargerät
+2604;распя́тие;Kreuzigung
+2605;столбе́ц;Spalte, Kolumne, Kolonne
+2606;блинда́ж;Unterstand, Bunker
+2607;квас;Kwas
+2608;кла́стер;Cluster, Computercluster, zusammengehöriger Bereich
+2609;пле́сень;Schimmel, Schimmelpilz, Moder
+2610;сде́ржанность;Zurückhaltung, Selbstbeherrschung
+2611;слепота́;Blindheit
+2612;спазм;Krampf
+2613;тюльпа́н;Tulpe
+2614;ареста́нт;Häftling, Strafgefangener
+2615;каче́ли;Schaukel
+2616;му́мия;Mumie
+2617;плеть;Peitsche
+2618;худо́жница;Künstlerin
+2619;сыно́чек;kleiner Sohn, Goldjunge, liebster Sohnemann
+2620;паде́ж;Kasus, Fall
+2621;поно́с;Durchfall
+2622;свини́на;Schweinefleisch
+2623;чернови́к;Entwurf, Konzept
+2624;врата́рь;Torwart, Tormann
+2625;на́сморк;Schnupfen
+2626;не́мка;Deutsche
+2627;автоотве́тчик;Anrufbeantworter
+2628;прича́стие;Partizip
+2629;санда́лии;Sandalen
+2630;местоиме́ние;Pronomen, Fürwort
+2631;логи́н;Login
+2632;ды́ня;Melone, Zuckermelone
+2633;фи́тнес;Fitness
+2634;оса́дки;Niederschlag, Niederschläge, Sediment, Sedimente
+2635;сковорода́;Pfanne, Bratpfanne
+2636;я́сли;Krippe, Futterkasten, Raufe
+2637;волейбо́л;Volleyball
+2638;тю́бик;Tube
+2639;мандари́н;Mandarine, Mandarinenbaum
+2640;транскри́пция;Transkription
+2641;чаевы́е;Trinkgeld
+2642;бюстга́льтер;Büstenhalter, BH
+2643;бо́улинг;Bowling
+2644;застёжка;Verschluss
+2645;пла́стырь;Pflaster
+2646;банкома́т;Geldautomat, Bankomat
+2647;сма́йлик;Smiley
+2648;гла́сный;Vokal, Selbstlaut
+2649;жалюзи́;Jalousie
+2650;жиле́тка;kleine Weste

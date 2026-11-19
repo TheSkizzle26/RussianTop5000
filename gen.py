@@ -76,13 +76,38 @@ def generate() -> list[list[str]]:
 
     return out
 
-def main():
-    data = generate()
-
+def export_all(data: list[list[str]]):
     with open("RussianTop5000German.csv", "w") as file:
         writer = csv.writer(file, delimiter=";")
         writer.writerow(["id", "bare", "accented", "type", "translation", "aspect", "level"])
         writer.writerows(data)
+
+def export_type(data: list[list[str]], type: str, include_aspect: bool = False):
+    if not len(type):
+        return
+
+    aspects = {
+        "both": "beide",
+        "perfective": "perf.",
+        "imperfective": "imperf."
+    }
+
+    with open(f"Russian{type[0].upper() + type[1:]}sGerman.csv", "w") as file:
+        writer = csv.writer(file, delimiter=";")
+        writer.writerow(["id", *(["aspect"] if include_aspect else []), type, "translation"])
+
+        i = 1
+        for line in data:
+            if line[3] == type:
+                writer.writerow([i, *([aspects[line[5]]] if include_aspect else []), line[2], line[4]])
+                i += 1
+
+def main():
+    data = generate()
+    export_all(data)
+    export_type(data, "noun")
+    export_type(data, "verb", include_aspect=True)
+    export_type(data, "adjective")
 
 
 if __name__ == "__main__":

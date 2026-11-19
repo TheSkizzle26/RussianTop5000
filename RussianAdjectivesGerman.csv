@@ -1,0 +1,865 @@
+id;adjective;translation
+1;оди́н;eins, 1
+2;пе́рвый;erster, erste, erstes
+3;но́вый;neu
+4;большо́й;groß
+5;хоро́ший;gut, schön
+6;второ́й;zweiter
+7;не́который;einige, etliche, mehrere, manche
+8;мно́гие;viele, manche, einige
+9;высо́кий;hoch, erhaben
+10;ну́жный;nötig, notwendig
+11;ма́ленький;klein, winzig
+12;росси́йский;russisch, Russland-
+13;по́лный;voll, komplett, lückenlos
+14;гла́вный;Haupt-, hauptsächlich
+15;ста́рый;alt, Alt-
+16;сле́дующий;nächster, kommender, Nächster
+17;подо́бный;ähnlich
+18;ра́зный;verschieden, anders, unterschiedlich, verschiedenartig, allerlei
+19;о́бщий;gemeinsam, Gesamt-
+20;со́бственный;eigener, Eigen-, eigen
+21;молодо́й;jung
+22;ва́жный;wichtig, bedeutend
+23;основно́й;grundlegend, hauptsächlich, grundsätzlich, elementar, Grund-, Haupt-
+24;настоя́щий;echt, authentisch
+25;госуда́рственный;Staats-, staatlich
+26;да́нный;gegeben, vorliegend
+27;ра́вный;gleich, gleichberechtigt
+28;изве́стный;bekannt, berühmt, berüchtigt
+29;сове́тский;sowjetisch
+30;лу́чший;bester, am besten, besser, bessere
+31;огро́мный;riesig, Riesen-, riesengroß
+32;вели́кий;groß, gewaltig
+33;си́льный;stark, kräftig, heftig, leistungsstark
+34;тре́тий;dritter, der Dritte
+35;гото́вый;bereit
+36;полити́ческий;politisch
+37;о́ба;beide, beiden
+38;совреме́нный;gegenwärtig, Gegenwarts-, zeitgemäß
+39;плохо́й;schlecht, schlimm, übel
+40;интере́сный;interessant
+41;необходи́мый;notwendig, unumgänglich, nötig
+42;разли́чный;verschieden, verschiedenartig
+43;социа́льный;sozial, Sozial-
+44;вое́нный;Kriegs-, kriegerisch, Rüstungs-, Wehr-
+45;це́лый;ganz, voll
+46;живо́й;lebend, live, Lebe-
+47;небольшо́й;nicht groß, klein, gering
+48;еди́нственный;einziger, einzig, alleinig, Einzel-
+49;вну́тренний;innerlich, inner, innerer, innere, intern
+50;возмо́жный;möglich
+51;бли́зкий;nah, baldig, ähnlich, verwandt
+52;челове́ческий;menschlich, Menschen-
+53;экономи́ческий;ökonomisch, Wirtschafts-, wirtschaftlich, wirtschaftswissenschaftlich
+54;ме́стный;örtlich, lokal, Orts-, Lokal-, ortsansässig, hiesig, einheimisch
+55;определённый;bestimmt, klar festgesetzt, eindeutig, gewiss
+56;осо́бый;besonders, besondere, besonderer
+57;до́брый;gutmütig, gutherzig, freundlich, nett
+58;остально́й;übrig, restlich, sonstig
+59;обще́ственный;öffentlich, sozial, gemeinschaftlich, ehrenamtlich
+60;обы́чный;gewöhnlich, normal, gewohnt, üblich
+61;похо́жий;ähnlich, ähneln
+62;дорого́й;teuer, kostbar, wert
+63;реа́льный;real, realistisch, reell, realisierbar, durchführbar, echt
+64;кру́пный;groß, Groß-, bedeutend
+65;бо́льший;größer, der größere
+66;ли́чный;persönlich
+67;отде́льный;getrennt, gesondert, separat, Sonder-
+68;сре́дний;durchschnittlich, Durchschnitts-
+69;серьёзный;ernst, ernsthaft, ernstlich
+70;национа́льный;national, National-
+71;америка́нский;amerikanisch
+72;свобо́дный;frei, ungebunden, unbesetzt, leer, freizügig
+73;междунаро́дный;international
+74;спосо́бный;fähig, -fähig, befähigt
+75;по́здний;spät
+76;моско́вский;Moskauer
+77;норма́льный;normal
+78;краси́вый;schön, hübsch
+79;нау́чный;wissenschaftlich, akademisch
+80;мирово́й;weltweit, global
+81;де́тский;Kinder-
+82;широ́кий;breit
+83;прекра́сный;schön, wunderbar
+84;вне́шний;äußerlich, extern
+85;тяжёлый;schwer
+86;сло́жный;kompliziert, schwierig
+87;коро́ткий;kurz, knapp
+88;стра́нный;seltsam, merkwürdig
+89;ни́зкий;niedrig, klein, tief, flach
+90;про́шлый;vergangen, vorig
+91;бы́стрый;schnell, rasch
+92;вы́сший;höchster
+93;дли́нный;lang
+94;бы́вший;ehemalig, einstig
+95;чи́стый;sauber
+96;стра́шный;furchtbar, fürchterlich, grässlich, hässlich
+97;специа́льный;speziell, Spezial-, extra, fachlich
+98;кра́йний;äußerst, extrem
+99;еди́ный;einheitlich, Einheits-
+100;прямо́й;gerade, unmittelbar
+101;до́лгий;lang
+102;конкре́тный;konkret
+103;откры́тый;offen, geöffnet, offenherzig, unbedeckt
+104;не́кий;ein gewisser, ein bestimmter
+105;за́падный;westlich, West-
+106;люби́мый;Lieblings-
+107;уве́ренный;zuversichtlich, sicher, selbstsicher, überzeugt
+108;пра́вильный;richtig, regelkonform, korrekt
+109;физи́ческий;physisch, körperlich, Körper-
+110;ме́дленный;langsam
+111;боево́й;Kampf-, Gefechts-
+112;постоя́нный;beständig, regelmäßig
+113;же́нский;weiblich
+114;очередно́й;folgend, nächst
+115;счастли́вый;glücklich
+116;истори́ческий;historisch, geschichtlich
+117;лёгкий;leicht, nicht schwer, einfach
+118;соотве́тствующий;entsprechend, gehörig, passend, geeignet
+119;городско́й;städtisch, Stadt-, Stadtverkehr
+120;мно́гое;vieles, viel
+121;глубо́кий;tief
+122;ста́рший;älter, der Älterste, der ältere
+123;ма́лый;klein, gering
+124;ча́стный;privat, Privat-
+125;фина́нсовый;finanziell
+126;золото́й;golden, Gold-, goldig
+127;тёмный;dunkel, finster
+128;дополни́тельный;zusätzlich, extra, Extra-
+129;пусто́й;leer, hohl
+130;холо́дный;kalt, leicht, kühl
+131;центра́льный;zentral, Zentral-
+132;профессиона́льный;professionell, Profi-
+133;федера́льный;föderal, Bundes-
+134;техни́ческий;technisch
+135;родно́й;heimisch, heimatlich, eigen-, Heimat-
+136;значи́тельный;bedeutend, bedeutsam, beachtlich
+137;наро́дный;völkisch, volkstümlich, volkseigen-, national
+138;учёный;gelehrt, wissenschaftlich
+139;ближа́йший;nächster
+140;информацио́нный;informativ
+141;европе́йский;europäisch
+142;бу́дущий;zukünftig, kommend, künftig, angehend, werdend, nachmalig
+143;я́сный;klar, hell, heiter, deutlich
+144;се́верный;nördlich, Nord-
+145;поле́зный;nützlich, nutzbringend, sinnvoll, praktisch, hilfreich, Nutz-
+146;подро́бный;ausführlich, eingehend
+147;сла́бый;schwach, schwächlich, gebrechlich, leistungsschwach, kraftlos, schlaff, matt
+148;ны́нешний;derzeitig, jetzig, gegenwärtig, heutig, momentan, augenblicklich, diesjährig
+149;гражда́нский;bürgerlich, Bürger-
+150;дре́вний;uralt, alt
+151;невозмо́жный;unmöglich, unerfüllbar, unerträglich
+152;есте́ственный;natürlich, naturgemäß
+153;иностра́нный;ausländisch, fremd, Auslands-, Fremd-, Außen-
+154;ма́ссовый;massenhaft, Massen-
+155;прия́тный;angenehm, annehmlich, nett
+156;поня́тный;verständlich
+157;про́чий;sonstig, anderweitig
+158;то́нкий;dünn, schlank
+159;я́ркий;hell, grell
+160;дальне́йший;weiter, ferner, weiterführend
+161;ве́рный;richtig, wahr
+162;ме́лкий;klein, Klein-, fein
+163;согла́сный;einverstanden, zustimmend, willens
+164;здоро́вый;gesund
+165;вероя́тный;wahrscheinlich, vermutlich
+166;у́мный;klug, gescheit, vernünftig, verständig
+167;пре́жний;früher, vergangen, vorig, bisherig, ehemalig, vorherig
+168;официа́льный;offiziell, amtlich
+169;тру́дный;schwierig
+170;дома́шний;häuslich
+171;сего́дняшний;heutig, von heute
+172;опа́сный;gefährlich
+173;бога́тый;reich, reichlich
+174;морско́й;Meeres-, Meer-, See-
+175;акти́вный;aktiv, tätig, tatkräftig, engagiert
+176;электро́нный;elektronisch
+177;замеча́тельный;bemerkenswert, beachtlich, vortrefflich, ausgezeichnet, hervorragend, herausragend
+178;ми́лый;lieb
+179;традицио́нный;traditionell, herkömmlich, konventionell
+180;торго́вый;Handels-, Einkaufs-, Geschäfts-
+181;горя́чий;heiß
+182;ночно́й;nächtlich, Nacht-
+183;то́чный;genau, exakt, präzise
+184;восто́чный;östlich, Ost-
+185;знамени́тый;berühmt, bekannt, prominent
+186;тёплый;warm
+187;ти́хий;leise, gedämpft
+188;медици́нский;medizinisch, ärztlich
+189;культу́рный;kulturell, Kultur-, gesittet
+190;предыду́щий;vorherig, vorig, vorhergehend
+191;ра́нний;früh, Früh-, frühzeitig
+192;бе́дный;arm, dürftig, karg
+193;рад;froh, erfreut
+194;литерату́рный;literarisch, Literatur-
+195;тво́рческий;kreativ
+196;материа́льный;materiell
+197;уче́бный;schulisch
+198;желе́зный;eisern, Eisen-
+199;се́рый;grau
+200;мо́щный;mächtig, gewaltig
+201;эффекти́вный;effektiv
+202;ни́жний;unterer, unten liegend, Unter-
+203;ю́жный;südlich, Süd-
+204;и́стинный;wahrhaft, wahr, wirklich
+205;мя́гкий;weich, zart, gedämpft
+206;худо́жественный;künstlerisch, schöngeistig
+207;четвёртый;vierter, der vierte
+208;ве́чный;ewig
+209;мужско́й;männlich, Männer-, Herren-
+210;ли́шний;überflüssig, unnötig
+211;свя́занный;verbunden
+212;све́жий;frisch, quellfrisch, kühl
+213;оте́чественный;vaterländisch
+214;уважа́емый;respektiert, angesehen, geachtet
+215;семе́йный;familiär, häuslich
+216;све́тлый;hell, klar
+217;споко́йный;ruhig, still
+218;весёлый;fröhlich
+219;удо́бный;bequem, günstig, geeignet, passend, angebracht, schicklich
+220;буква́льный;buchstäblich
+221;религио́зный;religiös, gläubig, fromm
+222;ве́рхний;oberer, obere, oberes, Ober-
+223;внима́тельный;aufmerksam
+224;многочи́сленный;zahlreich, sehr viele
+225;жи́зненный;lebenswichtig, lebensnotwendig
+226;у́зкий;schmal, eng, knapp
+227;це́нный;wertvoll, edel, kostbar
+228;о́стрый;scharf, spitz, beißend, stechend
+229;далёкий;weit, fern, entfernt, entlegen, fremd
+230;удиви́тельный;erstaunlich
+231;мёртвый;tot
+232;внеза́пный;plötzlich, unerwartet, überraschend, abrupt
+233;компью́терный;Computer-
+234;си́ний;blau, dunkelblau, tiefblau, indigo
+235;обра́тный;umgekehrt, entgegengesetzt, gegenteilig
+236;да́льний;fern, entlegen
+237;бо́жий;göttlich
+238;характе́рный;charakteristisch, ausgeprägt, markant, charaktervoll, kennzeichnend, bezeichnend für
+239;ужа́сный;schrecklich, grauenhaft
+240;то́лстый;dick, korpulent, beleibt
+241;отли́чный;ausgezeichnet, fabelhaft, hervorragend
+242;сосе́дний;benachbart
+243;жёсткий;hart, zäh, rauh
+244;пя́тый;fünfter, der Fünfte
+245;коне́чный;endlich, final
+246;кру́глый;rund, kreisförmig, kreisrund
+247;ди́кий;wild
+248;мла́дший;jünger, jüngerer, der jüngere, untergeordnet, Unter-, der untere
+249;совме́стный;gemeinschaftlich, Gemeinschafts-
+250;региона́льный;regional, Regional-
+251;кре́пкий;stark
+252;генера́льный;generell, allgemein, General-
+253;досто́йный;würdig, wert, gebührend
+254;сексуа́льный;sexuell, Sexual-, sexy
+255;музыка́льный;musikalisch, Musik-
+256;винова́тый;schuldig
+257;индивидуа́льный;individuell, persönlich, Einzel-, Selbst-
+258;положи́тельный;positiv
+259;ви́дный;sichtbar, erkennbar, bedeutend, , ansehnlich
+260;психологи́ческий;psychologisch
+261;глу́пый;dumm, doof
+262;за́дний;hinterer, rückwärtig, Hinter-, Rück-
+263;досту́пный;zugänglich, erreichbar
+264;незави́симый;unabhängig
+265;со́лнечный;sonnig
+266;че́стный;ehrlich, redlich, fair, rechtschaffen
+267;класси́ческий;klassisch
+268;правосла́вный;orthodox
+269;практи́ческий;praktisch
+270;злой;böse, arg, boshaft, zornig
+271;юриди́ческий;juristisch
+272;ре́дкий;selten, spärlich, schütter, licht, dünn
+273;неизве́стный;unbekannt, nicht bekannt
+274;сухо́й;trocken, dürr, vertrocknet, getrocknet, Trocken-
+275;суще́ственный;wesentlich, bedeutend, relevant, signifikant, erheblich
+276;несча́стный;unglücklich
+277;де́нежный;Geld-, finanziell, monetär, pekuniär, Währungs-
+278;дово́льный;zufrieden
+279;популя́рный;populär
+280;после́дующий;nachfolgend, darauffolgend, folgend, anschließend
+281;очеви́дный;offensichtlich, offenbar, offenkundig
+282;земно́й;Erd-, irdisch, terrestrisch
+283;жёлтый;gelb
+284;суде́бный;gerichtlich, Gerichts-, Rechts-
+285;деревя́нный;hölzern, Holz-
+286;шко́льный;schulisch, Schul-
+287;косми́ческий;kosmisch, Weltraum-, Raum-
+288;полово́й;geschlechtlich, Geschlechts-, sexuell
+289;гря́зный;schmutzig, unsauber
+290;делово́й;geschäftlich, Geschäfts-
+291;телефо́нный;telefonisch, Telefon-, Fernsprech-
+292;комме́рческий;kommerziell
+293;обяза́тельный;verpflichtend, verbindlich, Pflicht-, obligatorisch
+294;се́льский;dörflich
+295;ре́зкий;abrupt, plötzlich
+296;одина́ковый;gleich, gleichartig, identisch
+297;стро́гий;streng, hart, genau, rigoros
+298;противополо́жный;entgegengesetzt, gegensätzlich, gegenteilig
+299;я́дерный;nuklear, Kern-
+300;окружа́ющий;umgebend, umliegend
+301;уника́льный;einzigartig, Einzel-, als Unikat
+302;рекла́мный;Werbe-, Reklame-
+303;возду́шный;Luft-, Aero-
+304;уголо́вный;kriminell, Kriminal-
+305;ка́менный;Stein-, steinern, steinig
+306;евре́йский;jüdisch
+307;успе́шный;erfolgreich
+308;приро́дный;natürlich, naturgegeben, angeboren
+309;таково́й;solcher, derartig(er), dieser, solch ein(er)
+310;разу́мный;vernünftig, verständig, vernunftsmäßig, vernunftbegabt
+311;случа́йный;zufällig, Zufalls-, versehentlich, unvorhergesehen, gelegentlich, Gelegenheits-
+312;теку́щий;laufend, aktuell
+313;неприя́тный;unangenehm, peinlich, ärgerlich
+314;спорти́вный;sportlich, Sport-
+315;програ́ммный;Programm-, Software-, programmatisch, softwareseitig
+316;правово́й;rechtlich, Rechts-, juristisch
+317;нало́говый;steuerlich, Steuer-
+318;пья́ный;betrunken, besoffen, berauscht
+319;твёрдый;hart
+320;ле́тний;sommerlich, Sommer-
+321;интеллектуа́льный;intellektuell, intelligent
+322;смешно́й;lustig, komisch, witzig
+323;абсолю́тный;absolut
+324;бесконе́чный;unendlich, ohne Ende, endlos
+325;ю́ный;jung, jugendlich
+326;неожи́данный;unerwartet, wider Erwarten, plötzlich
+327;дли́тельный;lang
+328;го́лый;nackt, bloß, kahl
+329;ми́рный;friedlich
+330;стратеги́ческий;strategisch
+331;мора́льный;moralisch, sittlich
+332;моби́льный;mobil, Mobil-, beweglich, flexibel
+333;трудово́й;Arbeits-
+334;непоня́тный;unverständlich, unbegreiflich, merkwürdig
+335;областно́й;Gebiets-
+336;доста́точный;ausreichend, genug, genügend
+337;ры́ночный;marktwirtschaftlich
+338;привы́чный;gewohnt, gewöhnlich, gewöhnt
+339;необы́чный;ungewöhnlich, außergewöhnlich, ungewohnt
+340;предназна́ченный;bestimmt für, zugeordnet, vorgesehen
+341;демократи́ческий;demokratisch
+342;идеа́льный;ideal, perfekt
+343;чёткий;klar, deutlich
+344;беспла́тный;kostenlos, unentgeltlich, frei
+345;не́жный;zärtlich
+346;брита́нский;britisch
+347;существу́ющий;existierend
+348;о́пытный;erfahren, routiniert, versiert
+349;промы́шленный;industriell, Industrie-
+350;верхо́вный;oberster, Ober-
+351;жесто́кий;grausam
+352;администрати́вный;administrativ, Verwaltungs-
+353;та́йный;geheim, heimlich, verborgen
+354;ка́чественный;qualitativ, Qualitäts-
+355;осо́бенный;besonders
+356;аналоги́чный;analog, gleichartig, ähnlich
+357;самостоя́тельный;selbstständig, Selbst-, unabhängig, souverän
+358;всео́бщий;allgemein
+359;исхо́дный;Ausgangs-, Quell-
+360;дешёвый;billig, kostengünstig
+361;непосре́дственный;unmittelbar, direkt, natürlich, unbefangen
+362;го́рный;Berg-, Gebirgs-, bergig, gebirgig, Bergbau-
+363;максима́льный;maximal, Maximal-, Höchst-
+364;вооружённый;bewaffnet, ausgerüstet
+365;станда́ртный;Standard-, standardisiert, Typen-, typisiert
+366;одино́кий;einsam
+367;парти́йный;parteilich
+368;не́рвный;nervös
+369;скро́мный;bescheiden, anspruchslos
+370;заме́тный;bemerkbar, merklich, erkennbar, auffallen, bedeutend
+371;ско́рый;schnell, rasch
+372;гру́бый;grob, barsch, rauh, hart
+373;минима́льный;minimal, Mindest-, Minimal-
+374;глоба́льный;global, Global-
+375;разнообра́зный;vielfältig
+376;надёжный;zuverlässig, verlässlich
+377;де́йствующий;handelnd, wirkend
+378;произво́дственный;Produktions-, Fertigungs-, Herstellungs-
+379;отве́тственный;verantwortlich, schwerwiegend, entscheidend
+380;незнако́мый;unbekannt, fremd
+381;мо́крый;feucht, klamm
+382;важне́йший;wichtigster, bedeutungsvoll, bedeutsam, wesentlich, relevant
+383;я́вный;offensichtlich, offenbar, offen
+384;великоле́пный;großartig
+385;ключево́й;Schlüssel-, Grund-, entscheidend
+386;филосо́фский;philosophisch
+387;зи́мний;winterlich, Winter-
+388;свяще́нный;heilig, geheiligt
+389;вече́рний;abendlich, Abend-
+390;христиа́нский;christlich
+391;недоста́точный;ungenügend, unzureichend, nicht hinreichend
+392;лесно́й;Wald-, Holz-, Forst-
+393;зарубе́жный;ausländisch, Auslands-
+394;ро́зовый;rosa, rosafarben, rosig, Rosen-
+395;сетево́й;Netz-, Netzwerk-, vernetzt
+396;иску́сственный;künstlich, unecht, falsch
+397;эмоциона́льный;emotional
+398;прили́чный;anständig
+399;италья́нский;italienisch
+400;отрица́тельный;negativ
+401;блестя́щий;glänzend, strahlend, funkelnd
+402;печа́льный;traurig, betrübt, wehmütig
+403;квадра́тный;quadratisch, Quadrat-
+404;нача́льный;anfänglich, initial, elementar
+405;вы́годный;vorteilhaft, nutzbringend
+406;тра́нспортный;Transport-
+407;неплохо́й;nicht schlecht, ganz gut, akzeptabel
+408;прозра́чный;durchsichtig, transparent
+409;двойно́й;doppelt, zweifach, Doppel-
+410;пи́сьменный;schriftlich, Schreib-
+411;густо́й;dicht, dick
+412;инвестицио́нный;Investitions-
+413;небе́сный;himmlisch
+414;экологи́ческий;ökologisch, auf den Umweltschutz bezogen
+415;предвари́тельный;vorläufig, vorbereitend, vorhergehend, vorzeitig
+416;пере́дний;vorderer, Spitzen-
+417;подходя́щий;passend, angemessen, annehmbar, richtig,
+418;непра́вильный;falsch, nicht richtig, unrichtig, unrecht, irrtümlich
+419;теорети́ческий;theoretisch
+420;кра́ткий;kurz, Kurz-, knapp, in knappen Worten
+421;справедли́вый;gerecht, fair
+422;оконча́тельный;endgültig
+423;головно́й;Kopf-, der vordere, Vorder-, Vor-
+424;чуде́сный;wunderbar, wunderschön, wundervoll
+425;металли́ческий;metallisch, Metall-
+426;уда́чный;erfolgreich
+427;крити́ческий;kritisch
+428;негати́вный;negativ, abschlägig, ablehnend, Negativ-
+429;пожило́й;alt, betagt, bejahrt, bei Jahren
+430;оригина́льный;original, echt, originell, Original-
+431;почто́вый;Post-, Brief-
+432;церко́вный;kirchlich, Kirchen-
+433;сла́дкий;süß
+434;невероя́тный;unwahrscheinlich
+435;зако́нный;gesetzlich, rechtmäßig, legitim,
+436;суро́вый;streng
+437;обыкнове́нный;gewöhnlich, üblich
+438;проти́вный;widerlich, abstoßend, ekelhaft, widerwärtig
+439;взаи́мный;gegenseitig, beiderseitig, wechselseitig
+440;типи́чный;typisch, kennzeichnend, charakteristisch
+441;цифрово́й;digital, Digital-
+442;благоро́дный;edel, edelmütig
+443;муниципа́льный;kommunal, Kommunal-, Gemeinde-, städtisch
+444;мра́чный;düster, trübselig
+445;те́сный;eng, intim, schmal
+446;виртуа́льный;virtuell
+447;сере́бряный;silbern, Silber-
+448;ба́зовый;grundlegend
+449;гро́мкий;laut
+450;гига́нтский;gigantisch, riesig, riesenhaft
+451;электри́ческий;elektrisch
+452;дурно́й;schlecht, übel, böse, verwerflich
+453;избира́тельный;Wahl-, zu wählen
+454;вре́дный;schädlich, abträglich, ungesund
+455;стари́нный;alt, althergebracht, altertümlich
+456;глухо́й;taub, dumpf, stimmlos
+457;нра́вственный;moralisch, sittlich
+458;психи́ческий;psychisch, seelisch
+459;математи́ческий;mathematisch, Mathematik-
+460;закры́тый;geschlossen
+461;сро́чный;dringend, dringlich
+462;хими́ческий;chemisch
+463;технологи́ческий;technologisch
+464;жило́й;Wohn-
+465;короле́вский;königlich, Königs-
+466;образова́тельный;bildend, Bildungs-
+467;ежедне́вный;täglich, Tages-
+468;страхово́й;Versicherungs-
+469;боже́ственный;göttlich
+470;усто́йчивый;widerstandsfähig, stabil, standfest, beständig, fest, standhaft
+471;белору́сский;weißrussisch, belorussisch
+472;логи́ческий;logisch
+473;сумасше́дший;verrückt, wahnsinnig, irre, geisteskrank
+474;соверше́нный;vollkommen, ganz, völlig, komplett
+475;у́тренний;morgendlich
+476;актуа́льный;aktuell, zeitgemäß
+477;всеми́рный;weltweit
+478;тала́нтливый;talentiert, begabt, talentvoll
+479;энергети́ческий;energetisch, Energie-, Kraft-
+480;цветно́й;farbig, bunt, Farb-, Bunt-
+481;ука́занный;angegeben, genannt
+482;ба́нковский;Bank-, Banken-, Finanz
+483;волше́бный;magisch, zauberhaft, bezaubernd
+484;седьмо́й;siebter, siebte, siebtes
+485;коммунисти́ческий;kommunistisch
+486;му́дрый;weise, klug
+487;бле́дный;blass, bleich
+488;хозя́йственный;wirtschaftlich, haushälterisch, ökonomisch, herrisch
+489;благода́рный;dankbar
+490;мо́дный;modisch, modern
+491;игрово́й;spielerisch
+492;железнодоро́жный;Eisenbahn-, Bahn-, Zug-
+493;кни́жный;Buch-, Bücher-
+494;ра́достный;erfreulich, froh, lustig
+495;неви́димый;unsichtbar
+496;сплошно́й;durchgängig, ununterbrochen, kompakt, durchgehend, kontinuierlich
+497;социалисти́ческий;sozialistisch
+498;наибо́льший;größte, allergrößte, meiste, höchst
+499;ры́жий;rothaarig, rot
+500;ограни́ченный;begrenzt, limitiert, knapp, eingeschränkt
+501;бытово́й;alltäglich, gewöhnlich
+502;ра́звитый;entwickelt, auseinandergewickelt
+503;служе́бный;dienstlich, Dienst-
+504;систе́мный;systemisch, System-, grundlegend
+505;бюдже́тный;Budget-
+506;вчера́шний;gestrig, von gestern
+507;ро́вный;eben, glatt
+508;повы́шенный;erhöht, erhoben, gesteigert
+509;голо́дный;hungrig
+510;любопы́тный;neugierig
+511;универса́льный;universell, universal, Universal
+512;ло́жный;falsch, Fehl-
+513;привлека́тельный;anziehend, reizend, anmutig
+514;за́нятый;beschäftigt
+515;а́томный;atomar, Atom-
+516;симпати́чный;sympathisch, anziehend, angenehm, einnehmend
+517;выдаю́щийся;hervorragend, herausragend, außergewöhnlich
+518;секре́тный;geheim, vertraulich
+519;бесполе́зный;nutzlos, unnütz
+520;подво́дный;Unterwasser-, Untersee-
+521;уча́щийся;Schüler, Student, Studierender
+522;жу́ткий;unheimlich, gruslig, schaurig
+523;райо́нный;Bezirks-, Kreis-, Stadtbezirks-
+524;вра́жеский;feindlich
+525;таи́нственный;geheimnisvoll
+526;коллекти́вный;kollektiv, Kollektiv-, Gemeinschafts-
+527;биологи́ческий;biologisch
+528;гру́стный;traurig, schwermütig
+529;либера́льный;liberal
+530;бума́жный;Papier-
+531;грома́дный;riesig, riesengroß
+532;бессмы́сленный;sinnlos
+533;бу́рный;stürmisch, ungestüm, heftig
+534;пло́тный;dicht, kompakt, kräftig
+535;фундамента́льный;fundamental, gründlich, grundlegend, solide
+536;автомати́ческий;automatisch, selbsttätig, Selbst-, mechanisch, unbewußt, unwillkürlich
+537;специфи́ческий;spezifisch
+538;заба́вный;amüsant, lustig
+539;обши́рный;umfangreich, weitreichend, umfassend, groß
+540;автомоби́льный;Auto-, Automobil-
+541;посторо́нний;fremd, unbekannt
+542;нефтяно́й;Erdöl-
+543;открове́нный;offen, freimütig, unverhüllt
+544;и́скренний;aufrichtig
+545;сво́йственный;charakteristisch, typisch, eigen, eigenschaftlich, eigentümlich, innewohnend
+546;строи́тельный;Bau-
+547;форма́льный;formal, formell
+548;худо́й;dünn, schlank
+549;позити́вный;positiv
+550;действи́тельный;gültig, wirksam
+551;напряжённый;angespannt, gespannt, angestrengt
+552;театра́льный;theatralisch
+553;принципиа́льный;prinzipiell, prinzipienfest, prinzipientreu
+554;звёздный;Stern-, Sternen-
+555;крова́вый;blutig, blutrot
+556;го́рький;bitter
+557;контро́льный;Kontroll-
+558;кла́ссный;klasse
+559;чече́нский;tscheschenisch
+560;стекля́нный;gläsern, Glas-
+561;сме́лый;mutig, couragiert, gewagt
+562;педагоги́ческий;pädagogisch
+563;доро́жный;Straßen-, Weg-
+564;велича́йший;größter, größte, größtes, höchste, höchstes, höchster
+565;поэти́ческий;poetisch, dichterisch
+566;прави́тельственный;Regierungs-
+567;торже́ственный;feierlich, festlich, pompös
+568;недово́льный;unzufrieden
+569;ара́бский;arabisch
+570;оптима́льный;optimal
+571;безопа́сный;sicher, geschützt
+572;драгоце́нный;kostbar, edel
+573;могу́чий;mächtig
+574;весе́нний;Frühlings-, Frühjahrs-
+575;ледяно́й;eisig, eiskalt
+576;фантасти́ческий;fantastisch, phantastisch, unwirklich, wunderlich, großartig
+577;седо́й;ergraut, grauhaarig
+578;студе́нческий;studentisch
+579;вку́сный;lecker
+580;идеологи́ческий;ideologisch
+581;персона́льный;persönlich, Personal-
+582;испа́нский;spanisch
+583;проше́дший;vergangen, vorig
+584;реши́тельный;entschlossen, entschieden, kategorisch, fest, entscheidend
+585;дневно́й;täglich, Tages-
+586;лу́нный;Mond-
+587;вре́менный;zeitweilig, temporär, vorübergehend
+588;слепо́й;blind
+589;повседне́вный;alltäglich, Alltags-
+590;элемента́рный;elementar, grundlegend, Anfangs-, primitiv, einfach, Elementar-
+591;языково́й;sprachlich, Sprach-
+592;пра́здничный;festlich, feierlich
+593;креди́тный;Kredit-
+594;незначи́тельный;unbedeutend, geringfügig, unwesentlich, gering
+595;восьмо́й;achter, der achte
+596;незако́нный;ungesetzlich, gesetzwidrig, widerrechtlich
+597;президе́нтский;Präsidenten-, präsidial, Präsidial-
+598;сне́жный;Schnee-
+599;исключи́тельный;ausschließlich
+600;ску́чный;langweilig, fade, öde, trist
+601;нема́лый;nicht klein, erheblich, nicht wenig
+602;неве́рный;falsch, unrichtig
+603;слу́жащий;Angestellter, Beamter
+604;нену́жный;unnötig, unnütz
+605;передово́й;fortschrittlich, fortgeschritten
+606;пло́ский;flach, platt
+607;тупо́й;dumm, unsensibel, stumpfsinnig, stupide
+608;предстоя́щий;bevorstehend, kommend
+609;конституцио́нный;konstitutionell, verfassungsmäßig, Verfassungs-
+610;ху́дший;schlimmster
+611;альтернати́вный;alternativ, Szene-
+612;рациона́льный;rational, zweckmäßig, vernünftig
+613;лати́нский;lateinisch
+614;функциона́льный;funktional, funktionell
+615;жела́ющий;willig, begierig
+616;ко́жаный;Leder-
+617;целево́й;zielgerichtet, zielgebunden
+618;го́рдый;stolz
+619;молодёжный;jugendlich
+620;любо́вный;Liebes-, liebevoll, zärtlich
+621;печа́тный;gedruckt, Druck-
+622;непреры́вный;ununterbrochen, unaufhörlich, pausenlos
+623;гениа́льный;genial
+624;операцио́нный;operativ, Operations-
+625;фаши́стский;faschistisch
+626;земе́льный;Land-, Boden-, Landes-, Länder-
+627;ча́стый;häufig, wiederholt, oft
+628;гуманита́рный;humanitär
+629;хи́трый;schlau, gewieft, pfiffig
+630;ежего́дный;jährlich, alljährlich, Jahres-
+631;натура́льный;natürlich, naturgemäß, echt, Natur-
+632;со́товый;Mobil-, Mobiltelefon-, Handy-
+633;жа́ркий;heiß, heftig
+634;за́работный;Lohn-, Arbeits-, Gehalts-
+635;маги́ческий;magisch, zauberhaft
+636;подзе́мный;unterirdisch
+637;наилу́чший;bester, am besten, beste
+638;соли́дный;solide, haltbar, gediegen, gründlich, gesetzt
+639;сыро́й;feucht, nass
+640;траги́ческий;tragisch
+641;у́мственный;geistig, Geistes-
+642;наи́вный;naiv
+643;осе́нний;herbstlich
+644;крестья́нский;bäuerlich
+645;столи́чный;hauptstädtisch, Hauptstadt-
+646;телевизио́нный;Fernseh-
+647;относи́тельный;relativ, verhältnismässig
+648;во́дный;Wasser-
+649;организацио́нный;organisatorisch, Organisations-
+650;механи́ческий;mechanisch
+651;ора́нжевый;orange, orangefarben, orangefarbig
+652;созна́тельный;bewusst, pflichtbewußt
+653;га́зовый;Gas-
+654;деся́тый;zehnter
+655;бере́менный;schwanger, trächtig
+656;про́чный;robust, fest, stabil
+657;до́лжный;gebührend, angemessen, angebracht, schulden
+658;жи́рный;fettig, fetthaltig, Fett-
+659;паралле́льный;parallel, gleichlaufend
+660;тамо́женный;Zoll-
+661;гла́дкий;glatt, eben
+662;регуля́рный;regelmäßig, geregelt
+663;това́рный;Waren-, Güter-
+664;усло́вный;bedingt, konditional
+665;стро́йный;schlank, harmonisch, logisch
+666;боле́зненный;krankhaft, schmerzhaft, schmerzlich
+667;ви́димый;sichtbar, scheinbar
+668;роско́шный;luxuriös, Luxus-
+669;дереве́нский;dörflich, ländlich
+670;стаби́льный;stabil, Stabil-
+671;специализи́рованный;spezialisiert
+672;жена́тый;verheiratet
+673;престу́пный;verbrecherisch, sträflich
+674;стально́й;Stahl-, aus Stahl
+675;звуково́й;akustisch
+676;кори́чневый;braun
+677;годово́й;jährlich, Jahres-
+678;ко́мплексный;komplex, Komplex-
+679;парла́ментский;parlamentarisch, Parlaments-
+680;арме́йский;Armee-
+681;неизме́нный;unveränderlich, beständig, gleichbleibend
+682;абстра́ктный;abstrakt
+683;неуда́чный;misslungen, verfehlt, erfolglos, missglückt
+684;потреби́тельский;Verbraucher-, konsumorientiert, Verbrauches-, Konsum-, Genuss-, Konsumenten-, konsumentenhaft
+685;аналити́ческий;analytisch
+686;ручно́й;Hand-
+687;осторо́жный;vorsichtig, behutsam, achtsam
+688;девя́тый;neunter, der neunte
+689;академи́ческий;akademisch, Akademie-
+690;нове́йший;neuester, allerneuester
+691;матери́нский;mütterlich, Mütter-
+692;примити́вный;primitiv
+693;отврати́тельный;widerlich, abscheulich, grässlich
+694;вла́жный;feucht
+695;о́гненный;feurig, Feuer-
+696;во́льный;frei, ungebunden
+697;невысо́кий;nicht hoch, niedrig, nicht groß, klein, mäßig, erschwinglich
+698;авиацио́нный;Flugzeug-, Flieger-, Flug-, Luft-
+699;ла́сковый;liebevoll, zärtlich, sanft
+700;смерте́льный;tödlich, letal, Tod-, Todes-, Sterbens-
+701;жили́щный;Wohnungs-, Wohn-
+702;чрезвыча́йный;außerordentlich, außergewöhnlich
+703;уста́лый;müde, ermüdet
+704;долгосро́чный;langfristig, Dauer-
+705;защи́тный;Schutz-, Abwehr-
+706;пенсио́нный;Renten-
+707;ме́дный;Kupfer-, kupfern
+708;этни́ческий;ethnisch
+709;у́личный;Straßen-
+710;агресси́вный;aggressiv, Aggressions-
+711;серде́чный;herzlich, innig, Herz-
+712;инди́йский;indisch
+713;территориа́льный;territorial, Territorial-
+714;колосса́льный;kolossal, riesig
+715;пла́стиковый;Plastik-, Kunststoff-
+716;непросто́й;nicht einfach, kompliziert
+717;эксперимента́льный;experimentell, Versuchs-, Experimental-
+718;цивилизо́ванный;zivilisiert
+719;факти́ческий;faktisch, tatsächlich, wirklich
+720;после́довательный;folgerichtig, konsequent, überzeugt
+721;моло́чный;Milch-
+722;изя́щный;elegant, fein
+723;тре́звый;nüchtern, abstinent
+724;автоно́мный;autonom
+725;входно́й;Eingangs-, Eintritts-
+726;трево́жный;beunruhigend, besorgniserregend
+727;артиллери́йский;Artillerie-
+728;буржуа́зный;bürgerlich, Bürger-
+729;географи́ческий;geographisch
+730;иссле́довательский;Forschungs-
+731;роди́тельский;Eltern-
+732;нового́дний;Neujahrs-
+733;грандио́зный;grandios
+734;дру́жеский;freundschaftlich, Freundschafts-, freundlich
+735;интенси́вный;intensiv
+736;необыкнове́нный;außergewöhnlich, außerordentlich
+737;романти́ческий;romantisch
+738;бухга́лтерский;buchhalterisch, Buchhaltungs-
+739;соба́чий;Hunde-
+740;гра́мотный;kompetent, fachkundig, sachkundig, fehlerfrei
+741;валю́тный;Währungs-, Devisen-
+742;ую́тный;gemütlich
+743;инти́мный;intim, vertraut, innig
+744;нелёгкий;schwierig, schwer
+745;и́збранный;gewählt, ausgewählt
+746;вертика́льный;senkrecht, vertikal
+747;нева́жный;unwichtig
+748;бана́льный;banal, abgedroschen
+749;энерги́чный;energisch, tatkräftig
+750;бе́шеный;wütend, tollwütig
+751;влюблённый;verliebt, der Verliebte
+752;пла́тный;kostenpflichtig, gebührenpflichtig, entgeltlich, gegen Bezahlung, für Geld
+753;доброво́льный;freiwillig
+754;исла́мский;islamisch, Islam-
+755;туристи́ческий;Touristen-, Reise-
+756;олимпи́йский;olympisch, Olympia-
+757;шу́мный;laut, lärmend
+758;футбо́льный;Fussball-
+759;жи́дкий;flüssig, liquide
+760;октя́брьский;Oktober-
+761;разноцве́тный;bunt, vielfarbig
+762;ска́зочный;märchenhaft, fabelhaft, sagenhaft
+763;ча́йный;Tee-
+764;начина́ющий;angehend
+765;ве́жливый;höflich
+766;у́стный;mündlich
+767;мусульма́нский;muslimisch
+768;за́втрашний;morgig, Morgen-
+769;ве́рующий;gläubig
+770;встре́чный;entgegenkommend
+771;дежу́рный;diensthabend
+772;прохла́дный;kühl, frisch
+773;документа́льный;dokumentarisch
+774;со́нный;schläfrig, verschlafen
+775;шёлковый;seiden, Seiden-, aus Seide
+776;двадца́тый;zwanzigster
+777;нару́жный;Außen-
+778;университе́тский;Universitäts-
+779;аккура́тный;akkurat, genau
+780;террористи́ческий;terroristisch, Terror-
+781;вино́вный;schuldig, schuld
+782;лени́вый;faul, lässig
+783;африка́нский;afrikanisch
+784;алкого́льный;alkoholisch
+785;лы́сый;kahl, kahlköpfig
+786;сы́тый;satt
+787;ку́хонный;Küchen-
+788;назе́мный;Boden-, Erd-, Land-
+789;зубно́й;Zahn-, Dental, Dentallaut, Zahnlaut
+790;уме́ренный;mäßig, moderat
+791;несправедли́вый;ungerecht, unberechtigt
+792;солёный;salzig, gesalzen, Salz-, eingesalzen
+793;нулево́й;Null-, nullter
+794;неме́дленный;sofort, sofortig
+795;расти́тельный;pflanzlich, Pflanzen-
+796;часово́й;Wache, Wachposten
+797;азиа́тский;asiatisch
+798;жа́дный;gierig, habsüchtig
+799;несовершенноле́тний;minderjährig, unmündig
+800;развито́й;entwickelt, kultiviert, gebildet
+801;ненорма́льный;verrückt, abnormal
+802;ры́бный;Fisch-
+803;уби́тый;getötet, ermordet, gefallen, ausgelöscht
+804;фиоле́товый;violett, lila
+805;некраси́вый;unschön, häßlich
+806;жа́реный;gebraten, Brat-
+807;по́дданный;Untertan
+808;безрабо́тный;arbeitslos
+809;спонта́нный;spontan, freiwillig, von sich aus
+810;общи́тельный;gesellig, kontaktfreudig
+811;восьмидеся́тый;achtzigster
+812;пре́сный;geschmacklos, fade
+813;девятна́дцатый;neunzehnter
+814;трудолюби́вый;fleißig, arbeitsam
+815;семна́дцатый;siebzehnter
+816;девяно́стый;neunzigster
+817;пятидеся́тый;fünfzigster
+818;дыря́вый;löchrig, durchlöchert
+819;заму́жний;verheiratet
+820;всеобъе́млющий;allumfassend
+821;тормозно́й;Brems-, Bremsen-
+822;отдыха́ющий;Urlauber
+823;числово́й;numerisch, Zahl-
+824;экстреми́стский;extremistisch
+825;брази́льский;brasilianisch
+826;политехни́ческий;polytechnisch
+827;скандина́вский;skandinavisch
+828;карто́фельный;Kartoffel-
+829;кровяно́й;Blut-, Bluts-, blutig
+830;расплы́вчатый;verschwommen, unklar
+831;репродукти́вный;reproduktiv, Reproduktions-
+832;су́мрачный;düster, finster, dunkel, dämmrig, trübe
+833;ми́зерный;miserabel, armselig, winzig
+834;перегово́рный;Verhandlungs-, Vermittlungs-
+835;ме́бельный;Möbel-
+836;обою́дный;gegenseitig, wechselseitig, beiderseitig
+837;сцени́ческий;Bühnen-, szenisch
+838;дви́жущий;treibend, Treib-, Trieb-
+839;презри́тельный;verächtlich, verachtend
+840;вя́зкий;zäh, viskos, zähflüssig, sumpfig, morastig
+841;замо́рский;Übersee-, transatlantisch, ausländisch
+842;недостижи́мый;unerreichbar
+843;отве́сный;steil, senkrecht
+844;реалисти́чный;realistisch
+845;самоуве́ренный;selbstsicher, selbstbewußt
+846;янта́рный;Bernstein-, bernsteingelb
+847;империалисти́ческий;imperialistisch
+848;непристо́йный;unanständig, unflätig
+849;неуклю́жий;ungeschickt, ungelenk, linkisch, plump
+850;обма́нчивый;betrügerisch, täuschend
+851;со́тый;hundertster
+852;сли́вочный;sahnig, cremig, Sahne-
+853;четы́рнадцатый;vierzehnter
+854;пятна́дцатый;fünfzehnter
+855;восемна́дцатый;achtzehnter
+856;сороково́й;vierzigster
+857;трина́дцатый;dreizehnter
+858;шестна́дцатый;sechzehnter
+859;позапро́шлый;vor dem Vergangenen, vor dem letzten
+860;вопроси́тельный;fragend, Frage-
+861;многоэта́жный;mehrstöckig
+862;аллерги́ческий;allergisch
+863;гомосексуа́льный;homosexuell
+864;восклица́тельный;Ausrufe-, Ausruf-, Ausrufungs-
